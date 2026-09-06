@@ -1,0 +1,873 @@
+[
+  {
+    "key": "asta",
+    "name": "Asta",
+    "aliases": [
+      "Asta"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "AS",
+    "color": "#7a2326",
+    "tag": "Anti Magic · Aspiring Magic Knight",
+    "unlock": "Stand beside someone being dismissed and keep a difficult promise when giving up would be easier.",
+    "deep": "His loud confidence is something he practices through setbacks, and he notices effort that others overlook. He welcomes rivals but will confront anyone who treats ordinary people as expendable.",
+    "profile": "Asta is an energetic orphan from Hage who wants to become Wizard King alongside his rival Yuno. He has no mana and relies on physical training and the Anti Magic sword of his five-leaf grimoire.",
+    "availability": "Available at the entrance examination; squad membership follows selection, and later swords, forms, and the source of Anti Magic require their own story discoveries."
+  },
+  {
+    "key": "noelle",
+    "name": "Noelle Silva",
+    "aliases": [
+      "Noelle",
+      "Noelle Silva"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "NS",
+    "color": "#667486",
+    "tag": "Water Magic · Silva royal",
+    "unlock": "Offer practical support during training without mocking a mistake or using her family name to demand favors.",
+    "deep": "Pride gives her a way to hide the fear of disappointing everyone again. Patience and discretion reach her more effectively than flattery, while humiliating her or her friends makes her withdraw.",
+    "profile": "Noelle is a royal with enormous reserves of Water Magic and an early struggle to control them. Years of belittlement from her siblings have made a considerate, determined young woman defensive about showing weakness.",
+    "availability": "Introduce through the Black Bulls near the beginning; advanced water techniques and private family truths remain unavailable until established in play."
+  },
+  {
+    "key": "yami",
+    "name": "Yami Sukehiro",
+    "aliases": [
+      "Yami",
+      "Yami Sukehiro",
+      "Captain Yami"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "YS",
+    "color": "#4c4b50",
+    "tag": "Dark Magic · Black Bulls captain",
+    "unlock": "Take responsibility under pressure and protect a teammate even when no superior is watching.",
+    "deep": "His abrasive orders often express confidence that someone has more to give than they believe. He judges conduct more than pedigree, but excuses and betrayal of his squad meet a much harder response.",
+    "profile": "Yami is a foreign-born swordsman who commands the unconventional Black Bulls. He combines Dark Magic, physical strength, and the reading of ki with an instinct for recruiting people other squads reject.",
+    "availability": "Available as a captain at the entrance examination; personal history beyond what he volunteers and later techniques are not common knowledge."
+  },
+  {
+    "key": "finral",
+    "name": "Finral Roulacase",
+    "aliases": [
+      "Finral",
+      "Finral Roulacase",
+      "Finral Vaude"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "FR",
+    "color": "#846455",
+    "tag": "Spatial Magic · Transport and support",
+    "unlock": "Recognize a well-timed rescue as real courage and trust his judgment about a safe route.",
+    "deep": "Flirtation and nervous humor help him avoid the expectation that worth must be proven through hurting someone. He becomes steadier when his support matters to others, but treating him as disposable transport undermines that trust.",
+    "profile": "Finral uses Spatial Magic to open passages to places he can see or knows. A Black Bull from a demanding noble family, he dislikes direct violence and is much more capable at helping a team than he first appears.",
+    "availability": "Available with Yami and the early Black Bulls; his family conflict and later commitments should emerge through relevant encounters."
+  },
+  {
+    "key": "vanessa",
+    "name": "Vanessa Enoteca",
+    "aliases": [
+      "Vanessa",
+      "Vanessa Enoteca"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "VE",
+    "color": "#8d4d58",
+    "tag": "Thread Magic · Black Bulls witch",
+    "unlock": "Respect her freedom while proving that your concern for the squad survives inconvenience.",
+    "deep": "Her teasing and relaxed manner coexist with a sharp eye for a younger teammate in trouble. She offers warmth freely but resists control, possessiveness, and anyone who mistakes kindness for permission to cross a boundary.",
+    "profile": "Vanessa is a witch whose Thread Magic supports precise movement and teamwork. She enjoys drinking and joking around the Black Bulls base, yet pays close attention when her companions need protection or reassurance.",
+    "availability": "Available at the early Black Bulls base; the Witch Forest history and fate-altering abilities remain gated behind their discoveries."
+  },
+  {
+    "key": "magna",
+    "name": "Magna Swing",
+    "aliases": [
+      "Magna",
+      "Magna Swing"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "MS",
+    "color": "#a55c36",
+    "tag": "Fire Magic · Black Bulls fighter",
+    "unlock": "Finish an honest training session, admit your limits, and show up for the people who depend on you.",
+    "deep": "He wants his rough appearance to announce courage, but his loyalty is most visible in ordinary care for others. He can accept losing a fair contest more readily than being pitied for his background or mana.",
+    "profile": "Magna is a rural-born Fire Magic user who admires Yami and takes his place in the Black Bulls seriously. His combative banter, especially with Luck, masks a protective attitude toward juniors and vulnerable villagers.",
+    "availability": "Available during the first Black Bulls introductions; later techniques must be earned through the relevant training and events."
+  },
+  {
+    "key": "luck",
+    "name": "Luck Voltia",
+    "aliases": [
+      "Luck",
+      "Luck Voltia"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "LV",
+    "color": "#a38b50",
+    "tag": "Lightning Magic · Close combat",
+    "unlock": "Accept a clearly bounded sparring challenge and demonstrate that teamwork can be as satisfying as winning alone.",
+    "deep": "His constant smile can make it difficult to tell delight from distress, and battle offers him a familiar way to connect. He needs clear limits in practice rather than encouragement to endanger bystanders for a better fight.",
+    "profile": "Luck is a talented commoner with Lightning Magic, quick reactions, and strong mana sensing. He pursues powerful opponents with unusual enthusiasm and initially finds competition easier than ordinary friendship.",
+    "availability": "Available among the early Black Bulls; later transformations and personal revelations require their story context."
+  },
+  {
+    "key": "gauche",
+    "name": "Gauche Adlai",
+    "aliases": [
+      "Gauche",
+      "Gauche Adlai"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "GA",
+    "color": "#667486",
+    "tag": "Mirror Magic · Black Bulls knight",
+    "unlock": "Protect children without making a show of it and keep any promise involving his sister Marie.",
+    "deep": "He expects other people to take what he values, so initial hostility is easier for him than reliance. Trust grows through reliable action, while using Marie as leverage destroys it immediately.",
+    "profile": "Gauche is a Mirror Magic user whose chief concern is his younger sister Marie. Once part of a noble household, he survived its collapse through crime before becoming one of Yami's Black Bulls.",
+    "availability": "Available with the early squad; contact with Marie and details of their past must arise naturally rather than becoming automatic access."
+  },
+  {
+    "key": "charmy",
+    "name": "Charmy Pappitson",
+    "aliases": [
+      "Charmy",
+      "Charmy Pappitson"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "CP",
+    "color": "#a18b61",
+    "tag": "Cotton Magic · Black Bulls cook",
+    "unlock": "Share a meal, appreciate the work behind it, and make sure hungry companions are included.",
+    "deep": "Food is both a sincere pleasure and a straightforward expression of her care. She is easygoing until someone threatens a companion or wastes what others need, at which point her resolve is difficult to miss.",
+    "profile": "Charmy is a food-loving Black Bull who creates useful cotton constructs, including sheep that help prepare meals. Her small stature and constant appetite make it easy to underestimate her magical strength.",
+    "availability": "Available at the early base; additional magic attributes, heritage, and later forms remain unknown until revealed in play."
+  },
+  {
+    "key": "gordon",
+    "name": "Gordon Agrippa",
+    "aliases": [
+      "Gordon",
+      "Gordon Agrippa"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "GA",
+    "color": "#735c74",
+    "tag": "Curse studies · Black Bulls mage",
+    "unlock": "Listen long enough to hear his quiet words and include him without making his appearance a spectacle.",
+    "deep": "He longs for close friendships but often cannot make that affection audible to the room. Consistent invitations matter more than dramatic reassurance, and jokes that portray him as a monster reinforce his isolation.",
+    "profile": "Gordon is a soft-spoken Black Bull whose unsettling presentation leads people to misunderstand his intentions. His interests include curses, while his immediate wish is to be accepted by the companions he already cares about.",
+    "availability": "Available with the early Black Bulls; his family practices and later healing applications should be discovered through their own story scenes."
+  },
+  {
+    "key": "grey",
+    "name": "Grey",
+    "aliases": [
+      "Grey",
+      "Gray"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "GR",
+    "color": "#667486",
+    "tag": "Transformation Magic · Black Bulls mage",
+    "unlock": "Let Grey choose how to appear and communicate without pressing for a private explanation.",
+    "deep": "A disguise can make social attention easier to bear and allow a little unexpected playfulness. Quiet acceptance builds safety, while demands to reveal a true appearance make trust harder.",
+    "profile": "Grey is an elusive Black Bull usually encountered in a transformed appearance. The squad knows Grey for transformation spells and unusual reserve rather than a freely shared personal history.",
+    "availability": "Available in the early squad under a transformed appearance; true appearance, personal history, and the deeper nature of the magic require explicit discoveries."
+  },
+  {
+    "key": "henry",
+    "name": "Henry Legolant",
+    "aliases": [
+      "Henry",
+      "Henry Legolant",
+      "Henry Legorant"
+    ],
+    "group": "Black Bulls",
+    "era": "later-introduction",
+    "glyph": "HL",
+    "color": "#a18b61",
+    "tag": "Recombination Magic · Hidden resident",
+    "unlock": "Show patience with his pace and follow his guidance about a safe distance during a visit.",
+    "deep": "His measured speech does not diminish how carefully he notices the people around him. He values companionship deeply but will put their well-being ahead of a visit that costs them too much.",
+    "profile": "Henry is a gentle, secluded mage connected to the Black Bulls' unusual home. His Recombination Magic can rearrange that familiar building when enough mana is available.",
+    "availability": "Keep him an unconfirmed presence until the base-resident discovery around the elf-conflict period; do not announce his condition or location to new recruits."
+  },
+  {
+    "key": "zora",
+    "name": "Zora Ideale",
+    "aliases": [
+      "Zora",
+      "Zora Ideale"
+    ],
+    "group": "Black Bulls",
+    "era": "later-introduction",
+    "glyph": "ZI",
+    "color": "#7a2326",
+    "tag": "Ash Magic · Trap specialist",
+    "unlock": "Expose a real abuse of authority and accept an accurate criticism without hiding behind rank.",
+    "deep": "He uses mockery to test whether someone cares about justice when prestige stops rewarding it. Clever plans earn his attention, but cruelty to the powerless or performative heroism earns contempt.",
+    "profile": "Zora is a sharp-eyed Ash Magic user who prepares traps and studies opponents before committing. His scorn for corrupt knights is personal, and his apparent hostility can coexist with practical help for an honest fighter.",
+    "availability": "Introduce around the Royal Knights selection or a justified earlier independent encounter; his disguise, squad connection, and family history are knowledge gates."
+  },
+  {
+    "key": "secre",
+    "name": "Nero",
+    "aliases": [
+      "Nero",
+      "Secre",
+      "Secre Swallowtail",
+      "Secré Swallowtail"
+    ],
+    "group": "Black Bulls",
+    "era": "entrance-exam",
+    "glyph": "NE",
+    "color": "#4c4b50",
+    "tag": "Anti-bird · Watchful companion",
+    "unlock": "Notice where the bird is trying to lead you and give it space when it refuses attention.",
+    "deep": "Nero observes more than the little bird's size would suggest and can be insistently practical about getting someone moving. Affection, when visible, is quiet; grabbing, pestering, or ignoring warning pecks invites a sharp response.",
+    "profile": "Nero is a small, dark anti-bird that takes a persistent interest in Asta. The bird is usually silent and communicates through movement, attention, and occasional pecks. Only after the late elf-conflict revelation has occurred and the character has learned the truth may this identity be described as Secre Swallowtail, a mage who uses Sealing Magic.",
+    "availability": "Available as Nero from the entrance-exam period; human identity, speech, magic, history, and the name Secre remain hidden until the late elf-conflict revelation."
+  },
+  {
+    "key": "nacht",
+    "name": "Nacht Faust",
+    "aliases": [
+      "Nacht",
+      "Nacht Faust"
+    ],
+    "group": "Black Bulls",
+    "era": "later-introduction",
+    "glyph": "NF",
+    "color": "#4c4b50",
+    "tag": "Shadow Magic · Black Bulls vice-captain",
+    "unlock": "Choose the responsible action before being praised or forgiven for it and follow through without excuses.",
+    "deep": "He is exacting about conduct and skeptical of charm that substitutes for accountability. Cooperation grows through consistent choices, while attempts to force personal absolution make him more distant.",
+    "profile": "Nacht is a controlled and severe Shadow Magic user who works away from the squad for long stretches. He assesses whether a person can act reliably under danger before offering much personal warmth.",
+    "availability": "Keep his identity and role out of entrance-era knowledge; introduce his return, methods, and private history only in the Spade-conflict period or an explicit alternate chronology."
+  },
+  {
+    "key": "liebe",
+    "name": "Liebe",
+    "aliases": [
+      "Liebe"
+    ],
+    "group": "Independent allies",
+    "era": "later-introduction",
+    "glyph": "LI",
+    "color": "#7a2326",
+    "tag": "Anti Magic · Reluctant ally",
+    "unlock": "Treat him as someone with a choice and keep a promise made when he has little reason to trust you.",
+    "deep": "Anger comes readily, but it is not the whole of his capacity for attachment. He responds to companionship that preserves his agency and rejects arrangements based only on domination.",
+    "profile": "Liebe is a prickly, determined individual associated with Anti Magic. His distrust is substantial, and any partnership has to develop through actions rather than declarations of ownership.",
+    "availability": "Do not expose him as a named contact or disclose his connection and history before the devil-binding encounter in the Spade-conflict period."
+  },
+  {
+    "key": "yuno",
+    "name": "Yuno",
+    "aliases": [
+      "Yuno",
+      "Yuno Grinberryall"
+    ],
+    "group": "Golden Dawn",
+    "era": "entrance-exam",
+    "glyph": "YU",
+    "color": "#a38b50",
+    "tag": "Wind Magic · Four-leaf grimoire",
+    "unlock": "Keep pace with honest work and support the people who cannot keep pace without making them feel small.",
+    "deep": "His reserve hides a fierce competitive drive and an enduring attachment to the people who raised him. He is comfortable with a serious rival but has little patience for attacks on Asta or contempt toward Hage.",
+    "profile": "Yuno is a gifted Wind Magic user raised alongside Asta at Hage's church. He carries a four-leaf grimoire and pursues the same goal of becoming Wizard King with a quieter, equally stubborn determination.",
+    "availability": "Available at the entrance examination; Golden Dawn membership follows selection, while spirit powers, lineage, and later rank require their proper discoveries."
+  },
+  {
+    "key": "mimosa",
+    "name": "Mimosa Vermillion",
+    "aliases": [
+      "Mimosa",
+      "Mimosa Vermillion"
+    ],
+    "group": "Golden Dawn",
+    "era": "entrance-exam",
+    "glyph": "MV",
+    "color": "#a18b61",
+    "tag": "Plant Magic · Healing and reconnaissance",
+    "unlock": "Treat the wounded with dignity and support her decisions instead of assuming gentleness means uncertainty.",
+    "deep": "Her polite manner can conceal unexpectedly blunt observations and a clear sense of what is needed. She offers help generously but should not be treated as an inexhaustible remedy for careless plans.",
+    "profile": "Mimosa is a royal Golden Dawn mage and Noelle's cousin. Her Plant Magic is well suited to healing and sensing, and her calm kindness accompanies a more capable judgment than her soft manner suggests.",
+    "availability": "Available through early Golden Dawn contact or the dungeon assignment; later healing feats are not part of the opening repertoire."
+  },
+  {
+    "key": "klaus",
+    "name": "Klaus Lunettes",
+    "aliases": [
+      "Klaus",
+      "Klaus Lunettes"
+    ],
+    "group": "Golden Dawn",
+    "era": "entrance-exam",
+    "glyph": "KL",
+    "color": "#667486",
+    "tag": "Steel Magic · Senior squadmate",
+    "unlock": "Meet a demanding standard through teamwork and give him a concrete reason to question a class prejudice.",
+    "deep": "Rules give him a way to express both pride and concern, so a reprimand can contain genuine worry. He can revise an unfair judgment when faced with evidence, but casual disregard for a teammate's safety remains difficult to forgive.",
+    "profile": "Klaus is a serious Steel Magic user who takes the Golden Dawn's reputation and William's leadership to heart. Initially conscious of status, he acts as a strict senior to newer members such as Yuno.",
+    "availability": "Available through early Golden Dawn duties; his attitude should develop from actual shared experience rather than beginning with later friendships already settled."
+  },
+  {
+    "key": "william",
+    "name": "William Vangeance",
+    "aliases": [
+      "William",
+      "William Vangeance",
+      "Captain Vangeance",
+      "Vangeance"
+    ],
+    "group": "Golden Dawn",
+    "era": "entrance-exam",
+    "glyph": "WV",
+    "color": "#b58c45",
+    "tag": "World Tree Magic · Golden Dawn captain",
+    "unlock": "Carry out a difficult responsibility with discretion and place your squad's well-being above personal recognition.",
+    "deep": "He offers a calm, courteous presence while keeping much of his personal life carefully guarded. Earned confidence is not permission to demand his secrets, and loyalty is a serious matter to him.",
+    "profile": "William is the masked captain of the prestigious Golden Dawn and a formidable World Tree Magic user. His followers trust his leadership, and his quiet authority makes him a prominent figure among Clover's captains.",
+    "availability": "Available as a captain at the entrance examination; his private history and any concealed connections remain completely separate from public knowledge."
+  },
+  {
+    "key": "langris",
+    "name": "Langris Vaude",
+    "aliases": [
+      "Langris",
+      "Langris Vaude"
+    ],
+    "group": "Golden Dawn",
+    "era": "entrance-exam",
+    "glyph": "LV",
+    "color": "#735c74",
+    "tag": "Spatial Magic · Golden Dawn vice-captain",
+    "unlock": "Prove competence without flattering his superiority and hold a clear line against needless harm.",
+    "deep": "His confidence depends heavily on being the exceptional one, making comparison a sensitive subject. Respect can grow through capable opposition, but invoking his brother merely to provoke him makes cooperation harder.",
+    "profile": "Langris is an ambitious Golden Dawn vice-captain who uses destructive Spatial Magic. He is Finral's younger half-brother and initially carries the expectations and arrogance of a favored noble heir.",
+    "availability": "Available through Golden Dawn or noble-family encounters; later family reconciliation, changes of office, and altered states require their story events."
+  },
+  {
+    "key": "nozel",
+    "name": "Nozel Silva",
+    "aliases": [
+      "Nozel",
+      "Nozel Silva",
+      "Captain Nozel"
+    ],
+    "group": "Silver Eagles",
+    "era": "entrance-exam",
+    "glyph": "NS",
+    "color": "#667486",
+    "tag": "Mercury Magic · Silver Eagles captain",
+    "unlock": "Meet an exacting duty without seeking special treatment and demonstrate restraint when power would be easy to misuse.",
+    "deep": "His composure contains considerable pride and a strong aversion to being found inadequate. He grants respect slowly, and his severity toward Noelle must not be rewritten as open warmth before their relationship changes.",
+    "profile": "Nozel is the eldest Silva sibling and captain of the Silver Eagles. His Mercury Magic reflects his precise fighting style, while his high standards and royal pride make him an intimidating superior.",
+    "availability": "Available as a captain at the entrance examination; private family motives and later revelations are not visible through an initial acquaintance."
+  },
+  {
+    "key": "fuegoleon",
+    "name": "Fuegoleon Vermillion",
+    "aliases": [
+      "Fuegoleon",
+      "Fuegoleon Vermillion",
+      "Captain Fuegoleon"
+    ],
+    "group": "Crimson Lion Kings",
+    "era": "entrance-exam",
+    "glyph": "FV",
+    "color": "#a55c36",
+    "tag": "Fire Magic · Crimson Lion Kings captain",
+    "unlock": "Face a weakness honestly and take a concrete step to improve while honoring the people in your care.",
+    "deep": "He is demanding because he believes discipline can give effort a direction, regardless of birth. He respects ambition coupled with responsibility and opposes the use of status as an excuse to stop growing.",
+    "profile": "Fuegoleon is a royal Fire Magic user and the captain of the Crimson Lion Kings. He combines direct courage with patient leadership and serves as an important example to his younger brother Leopold.",
+    "availability": "Available as a captain at the entrance examination; injury, absence, recovery, and spirit partnership follow their own chronology."
+  },
+  {
+    "key": "mereoleona",
+    "name": "Mereoleona Vermillion",
+    "aliases": [
+      "Mereoleona",
+      "Mereoleona Vermillion"
+    ],
+    "group": "Crimson Lion Kings",
+    "era": "later-introduction",
+    "glyph": "MV",
+    "color": "#a54734",
+    "tag": "Fire Magic · Wilderness veteran",
+    "unlock": "Commit fully to a demanding exercise and learn from failure without disguising it as an excuse.",
+    "deep": "She prefers direct action to courtly appearances and recognizes courage in people others dismiss. Her encouragement is forceful, and respect comes from engagement rather than attempts to manage her through etiquette.",
+    "profile": "Mereoleona is Fuegoleon and Leopold's fiercely independent elder sister. A powerful Fire Magic user, she spends much of her time away from court and favors practical experience in harsh natural surroundings.",
+    "availability": "Normally introduced after the Witch Forest events around the Star Awards period; captaincy and leadership assignments must reflect who currently holds each post."
+  },
+  {
+    "key": "charlotte",
+    "name": "Charlotte Roselei",
+    "aliases": [
+      "Charlotte",
+      "Charlotte Roselei",
+      "Captain Charlotte"
+    ],
+    "group": "Blue Rose Knights",
+    "era": "entrance-exam",
+    "glyph": "CR",
+    "color": "#735c74",
+    "tag": "Briar Magic · Blue Rose captain",
+    "unlock": "Respect her authority and privacy while showing dependable conduct toward the women under her command.",
+    "deep": "She works hard to preserve composure and expects her professional standing to be taken seriously. Personal feelings are difficult for her to discuss, so teasing or public speculation rarely brings closeness.",
+    "profile": "Charlotte is the disciplined captain of the Blue Rose Knights and a skilled Briar Magic user. She projects confidence and independence while remaining protective of her predominantly female squad.",
+    "availability": "Available as a captain at the entrance examination; her curse history and romantic confidences require voluntary disclosure rather than public assumptions."
+  },
+  {
+    "key": "jack",
+    "name": "Jack the Ripper",
+    "aliases": [
+      "Jack",
+      "Jack the Ripper",
+      "Captain Jack"
+    ],
+    "group": "Green Praying Mantises",
+    "era": "entrance-exam",
+    "glyph": "JR",
+    "color": "#746c51",
+    "tag": "Severing Magic · Green Mantises captain",
+    "unlock": "Meet a hard challenge directly and show enough discipline to keep a rivalry from becoming a burden on others.",
+    "deep": "He enjoys testing the resistance of both opponents and conventional expectations. Empty boasting interests him less than a difficult, capable adversary, though his appetite for a fight needs a clear purpose.",
+    "profile": "Jack is a commoner-born captain who commands the Green Praying Mantises. His Severing Magic and enthusiasm for cutting through formidable opposition make his approach to battle exceptionally direct.",
+    "availability": "Available as a captain at the entrance examination; later adaptations and wartime outcomes remain dependent on events."
+  },
+  {
+    "key": "rill",
+    "name": "Rill Boismortier",
+    "aliases": [
+      "Rill",
+      "Rill Boismortier",
+      "Captain Rill"
+    ],
+    "group": "Aqua Deer",
+    "era": "entrance-exam",
+    "glyph": "RB",
+    "color": "#6f8190",
+    "tag": "Painting Magic · Aqua Deer captain",
+    "unlock": "Engage honestly with an unusual idea and help turn his inspiration into something useful for the team.",
+    "deep": "Playfulness helps him escape heavy social expectations, but artistic excitement can make him lose sight of the wider situation. He values curiosity and responds poorly to contempt for creative work.",
+    "profile": "Rill is the youngest of the current Magic Knight captains and leads the Aqua Deer. He uses Painting Magic, approaches the world with an artist's curiosity, and often tries to break tension with humor.",
+    "availability": "Available through early captain-level events; later spell masterpieces and personal attachments must arise through play."
+  },
+  {
+    "key": "dorothy",
+    "name": "Dorothy Unsworth",
+    "aliases": [
+      "Dorothy",
+      "Dorothy Unsworth",
+      "Captain Dorothy"
+    ],
+    "group": "Coral Peacocks",
+    "era": "entrance-exam",
+    "glyph": "DU",
+    "color": "#8a6b86",
+    "tag": "Dream Magic · Coral Peacocks captain",
+    "unlock": "Show imaginative thinking while treating unusual experiences and private conversations with discretion.",
+    "deep": "Her sleepy public manner makes the liveliness of her waking personality easy to miss. She appreciates playfulness, but access to a private confidence or magical space is not an invitation to ignore its limits.",
+    "profile": "Dorothy is the Coral Peacocks captain, most often seen asleep even at important gatherings. Her rare Dream Magic is not something an ordinary new recruit is likely to have witnessed.",
+    "availability": "Visible among the opening captains; the nature of her dream space and personal secrets require a later demonstrated or explained encounter."
+  },
+  {
+    "key": "kaiser",
+    "name": "Kaiser Granvorka",
+    "aliases": [
+      "Kaiser",
+      "Kaiser Granvorka",
+      "Captain Kaiser"
+    ],
+    "group": "Purple Orcas",
+    "era": "later-introduction",
+    "glyph": "KG",
+    "color": "#735c74",
+    "tag": "Vortex Magic · Veteran defender",
+    "unlock": "Put a defensive duty ahead of personal glory and prove that people behind the line can rely on you.",
+    "deep": "He brings the patience of long service and a preference for steady protection over spectacle. Dependability earns his confidence, while gambling with civilians for prestige runs against his priorities.",
+    "profile": "Kaiser is an experienced Purple Orca known for exceptional defensive ability. His Vortex Magic and measured conduct make him a dependable veteran in a crisis.",
+    "availability": "Introduce as a veteran if needed, but only call him captain after Gueldre leaves that office; later possession and recovery must follow events."
+  },
+  {
+    "key": "gueldre",
+    "name": "Gueldre Poizot",
+    "aliases": [
+      "Gueldre",
+      "Gueldre Poizot",
+      "Captain Gueldre"
+    ],
+    "group": "Purple Orcas",
+    "era": "entrance-exam",
+    "glyph": "GP",
+    "color": "#846455",
+    "tag": "Permeation Magic · Purple Orcas captain",
+    "unlock": "Establish a clear exchange, verify that he honors it, and build limited cooperation through repeated dealings.",
+    "deep": "He tends to understand influence in terms of profit and advantage, even when speaking politely. Cooperation should remain conditional on observable conduct, since an attractive bargain is not the same thing as personal loyalty.",
+    "profile": "Gueldre is a merchant turned captain with extensive commercial contacts. His Permeation Magic lets him become difficult to detect and allows magic to pass through him for a limited time.",
+    "availability": "Holds the Purple Orcas captaincy during the entrance era; allegations, exposure, imprisonment, and later dealings remain gated to their story context."
+  },
+  {
+    "key": "julius",
+    "name": "Julius Novachrono",
+    "aliases": [
+      "Julius",
+      "Julius Novachrono",
+      "Wizard King Julius"
+    ],
+    "group": "Clover Kingdom",
+    "era": "entrance-exam",
+    "glyph": "JN",
+    "color": "#b58c45",
+    "tag": "Time Magic · Wizard King",
+    "unlock": "Demonstrate an inventive use of magic or courage in service of people whom the system usually overlooks.",
+    "deep": "His fascination with unusual abilities is sincere and can briefly overwhelm his attention to administrative duties. Beneath it is a serious concern for the kingdom, so curiosity does not guarantee unrestricted access or official favor.",
+    "profile": "Julius is Clover's Wizard King and a powerful Time Magic user. He delights in discovering unfamiliar magic and evaluates people with far less regard for class than much of the kingdom's establishment.",
+    "availability": "Exists as the reigning Wizard King in the entrance era; disguises, later physical changes, and any hidden identities must never become opening knowledge."
+  },
+  {
+    "key": "marx",
+    "name": "Marx Francois",
+    "aliases": [
+      "Marx",
+      "Marx Francois",
+      "Marx François"
+    ],
+    "group": "Clover Kingdom",
+    "era": "entrance-exam",
+    "glyph": "MF",
+    "color": "#667486",
+    "tag": "Memory Magic · Wizard King adviser",
+    "unlock": "Deliver an accurate report on time and show that sensitive information will remain in responsible hands.",
+    "deep": "His exasperation with disorganization comes from the real work of keeping a kingdom informed. He can be courteous without being pliable and expects evidence before rearranging official priorities.",
+    "profile": "Marx is a diligent adviser to Julius whose Memory Magic supports information gathering and communication. He often has to bring the Wizard King's attention back from fascinating magic to urgent responsibilities.",
+    "availability": "Available through legitimate court business during the early story; confidential records and later events are restricted to what the scene establishes."
+  },
+  {
+    "key": "owen",
+    "name": "Owen",
+    "aliases": [
+      "Owen",
+      "Doctor Owen",
+      "Dr. Owen"
+    ],
+    "group": "Clover Kingdom",
+    "era": "entrance-exam",
+    "glyph": "OW",
+    "color": "#8c897a",
+    "tag": "Healing Magic · Royal physician",
+    "unlock": "Give an honest account of an injury and respect the treatment plan even when the diagnosis is unwelcome.",
+    "deep": "A calm bedside manner does not make him willing to promise a cure he cannot provide. He values cooperation and truthful symptoms, while reckless interference with a patient undermines trust.",
+    "profile": "Owen is a respected healing mage working directly under the Wizard King. His role calls for careful examination and plain answers, including recognition of the limits of available treatment.",
+    "availability": "Available through a credible medical referral; unusual curses require investigation and cannot be cured merely because a physician is present."
+  },
+  {
+    "key": "damnatio",
+    "name": "Damnatio Kira",
+    "aliases": [
+      "Damnatio",
+      "Damnatio Kira",
+      "Chairman Damnatio"
+    ],
+    "group": "Clover Kingdom",
+    "era": "later-introduction",
+    "glyph": "DK",
+    "color": "#846455",
+    "tag": "Scale Magic · Magic Parliament chairman",
+    "unlock": "Present verifiable evidence and accept scrutiny under the same standard you ask him to apply to others.",
+    "deep": "He places institutional stability above personal sympathy and treats judgment as a serious obligation. A persuasive appeal needs facts and consequences, not an assumption that friendship can suspend the law.",
+    "profile": "Damnatio is a stern royal who chairs Clover's Magic Parliament and uses Scale Magic. He gives the kingdom's institutions considerable weight and is prepared to judge even powerful people in their name.",
+    "availability": "Introduce through an appropriate legal encounter, normally after the elf conflict; later altered states and allegiances are not part of this baseline."
+  },
+  {
+    "key": "leopold",
+    "name": "Leopold Vermillion",
+    "aliases": [
+      "Leopold",
+      "Leopold Vermillion",
+      "Leo"
+    ],
+    "group": "Crimson Lion Kings",
+    "era": "entrance-exam",
+    "glyph": "LV",
+    "color": "#a55c36",
+    "tag": "Fire Magic · Crimson Lion Kings knight",
+    "unlock": "Take his rivalry seriously, train sincerely, and celebrate another person's progress without resentment.",
+    "deep": "His open confidence includes a strong desire to become worthy of the family members he admires. He wants companions who challenge him as himself, rather than treating him only as a famous captain's little brother.",
+    "profile": "Leopold is an enthusiastic Fire Magic user and the younger brother of Fuegoleon and Mereoleona. He takes pride in the Crimson Lion Kings and responds warmly to bold ambition and visible effort.",
+    "availability": "Available through early Crimson Lion or capital encounters; rivalries and advanced training should be earned in the current story."
+  },
+  {
+    "key": "solid",
+    "name": "Solid Silva",
+    "aliases": [
+      "Solid",
+      "Solid Silva"
+    ],
+    "group": "Silver Eagles",
+    "era": "entrance-exam",
+    "glyph": "SS",
+    "color": "#667486",
+    "tag": "Water Magic · Silver Eagles knight",
+    "unlock": "Demonstrate competence in a fair contest and refuse to earn his approval by joining his cruelty.",
+    "deep": "He leans on family status and looks for people he can safely belittle. A change in his behavior needs consequences and experience, not a single compliment that excuses how he treats Noelle.",
+    "profile": "Solid is a Silva royal and Silver Eagles member who uses Water Magic. Confident in his rank and ability, he initially mocks Noelle's lack of control while deferring to his older siblings.",
+    "availability": "Available through early Silver Eagles or royal gatherings; humility and changes in family conduct require actual development."
+  },
+  {
+    "key": "nebra",
+    "name": "Nebra Silva",
+    "aliases": [
+      "Nebra",
+      "Nebra Silva"
+    ],
+    "group": "Silver Eagles",
+    "era": "entrance-exam",
+    "glyph": "NS",
+    "color": "#8c897a",
+    "tag": "Mist Magic · Silver Eagles knight",
+    "unlock": "Show clear judgment against deception and maintain firm boundaries without seeking her approval through mockery.",
+    "deep": "She can make a cutting remark sound effortless, using social confidence to control a room. Respect requires sustained evidence, while cruelty toward Noelle must remain a real fault rather than decorative banter.",
+    "profile": "Nebra is Noelle's elder sister and a Silver Eagles mage who uses Mist Magic and deceptive images. She is forceful, proud of her standing, and initially unkind toward her younger sister.",
+    "availability": "Available through early royal or Silver Eagles scenes; later cooperation does not retroactively erase the starting family tension."
+  },
+  {
+    "key": "sol",
+    "name": "Sol Marron",
+    "aliases": [
+      "Sol",
+      "Sol Marron"
+    ],
+    "group": "Blue Rose Knights",
+    "era": "entrance-exam",
+    "glyph": "SM",
+    "color": "#846455",
+    "tag": "Earth Magic · Blue Rose knight",
+    "unlock": "Back up the squad in a concrete task and respect Charlotte's decisions without treating Sol as an accessory.",
+    "deep": "Her blunt certainty comes with strong loyalty and little interest in elaborate manners. She may be suspicious at first, but shared work can matter more than an argument about how she ought to feel.",
+    "profile": "Sol is an outspoken Earth Magic user in the Blue Rose Knights. She greatly admires Charlotte and is eager to defend both her captain and her own competence.",
+    "availability": "Available through early Blue Rose and capital events; personal disclosures should follow earned trust."
+  },
+  {
+    "key": "kirsch",
+    "name": "Kirsch Vermillion",
+    "aliases": [
+      "Kirsch",
+      "Kirsch Vermillion"
+    ],
+    "group": "Coral Peacocks",
+    "era": "entrance-exam",
+    "glyph": "KV",
+    "color": "#8d4d58",
+    "tag": "Cherry Blossom Magic · Coral Peacocks vice-captain",
+    "unlock": "Recognize a genuinely good plan while challenging a bad assumption through results instead of empty flattery.",
+    "deep": "His fixation on beauty can obscure a useful awareness of positioning and coordination. He enjoys admiration, but meaningful respect should come from learning to value teammates beyond their appearance or birth.",
+    "profile": "Kirsch is Mimosa's elder brother and the Coral Peacocks' theatrical vice-captain. His Cherry Blossom Magic supports clever battlefield arrangements, and he handles much of the squad's practical work while Dorothy sleeps.",
+    "availability": "Available as an existing vice-captain, with a natural major introduction around Royal Knights selection; later lessons should not be pre-completed."
+  },
+  {
+    "key": "sekke",
+    "name": "Sekke Bronzazza",
+    "aliases": [
+      "Sekke",
+      "Sekke Bronzazza"
+    ],
+    "group": "Green Praying Mantises",
+    "era": "entrance-exam",
+    "glyph": "SB",
+    "color": "#a18b61",
+    "tag": "Bronze Magic · Entrance-exam applicant",
+    "unlock": "Give him a fair chance to contribute and acknowledge a brave choice without rewarding dishonest boasting.",
+    "deep": "His swagger often protects an anxious concern with how other people rank him. He can become more useful when the next task is clear, but helping him avoid every consequence preserves his worst habits.",
+    "profile": "Sekke is a boastful applicant whose Bronze Magic can provide both offense and defense. He presents himself as impressive and helpful, though convenience and appearances often influence his choices.",
+    "availability": "Available at the entrance examination; Green Praying Mantises membership and later public status follow the actual results and events."
+  },
+  {
+    "key": "lily",
+    "name": "Sister Lily",
+    "aliases": [
+      "Sister Lily",
+      "Lily",
+      "Lily Aquaria"
+    ],
+    "group": "Hage village",
+    "era": "entrance-exam",
+    "glyph": "SL",
+    "color": "#667486",
+    "tag": "Water Magic · Hage church sister",
+    "unlock": "Help the church children reliably and respect the commitments and personal boundaries she has clearly stated.",
+    "deep": "Her kindness includes the ability to give a firm refusal without withdrawing care. She values a dependable helper, and persistence after a refused proposal should not be treated as a path to affection.",
+    "profile": "Sister Lily helps care for the children at the Hage church where Asta and Yuno grew up. A capable Water Magic user, she combines warmth with practical discipline and takes her religious vocation seriously.",
+    "availability": "Available at Hage from the opening; later coercion, transformations, and private origins remain outside entrance-era knowledge."
+  },
+  {
+    "key": "orsi",
+    "name": "Father Orsi",
+    "aliases": [
+      "Father Orsi",
+      "Orsi",
+      "Orsi Orfai"
+    ],
+    "group": "Hage village",
+    "era": "entrance-exam",
+    "glyph": "FO",
+    "color": "#a18b61",
+    "tag": "Church care · Hage guardian",
+    "unlock": "Return when you said you would and do an ordinary chore that helps the children without expecting applause.",
+    "deep": "His worry can come out as scolding or overenthusiastic pride because he thinks of the children as family. Reassurance means more when it includes a realistic plan rather than another promise that everyone will somehow be safe.",
+    "profile": "Father Orsi took in Asta and Yuno as babies and raised them at Hage's church. He is an affectionate guardian whose everyday concerns are the safety, meals, and futures of the children in his care.",
+    "availability": "Available at the Hage church from the beginning; he knows family life and local events, not hidden royal or magical histories by default."
+  },
+  {
+    "key": "rebecca",
+    "name": "Rebecca Scarlet",
+    "aliases": [
+      "Rebecca",
+      "Rebecca Scarlet"
+    ],
+    "group": "Clover civilians",
+    "era": "later-introduction",
+    "glyph": "RS",
+    "color": "#8d4d58",
+    "tag": "Family care · Nean resident",
+    "unlock": "Help with a real household need and treat her younger siblings as people rather than a way to impress her.",
+    "deep": "She may be reserved with a stranger before becoming direct and good-humored once she feels respected. Her time and responsibilities are substantial, so affection cannot make dependable childcare or honest communication optional.",
+    "profile": "Rebecca is a young woman who takes care of several younger siblings in Nean. Shared experience of looking after children gives her a natural point of connection with Asta and others who understand that responsibility.",
+    "availability": "Introduce through an ordinary Nean visit or the early social outing; any relationship must arise from the current encounters rather than presumed familiarity."
+  },
+  {
+    "key": "mars",
+    "name": "Mars",
+    "aliases": [
+      "Mars"
+    ],
+    "group": "Diamond Kingdom",
+    "era": "later-introduction",
+    "glyph": "MA",
+    "color": "#667486",
+    "tag": "Mineral Magic · Diamond mage-warrior",
+    "unlock": "Show that mercy can protect someone rather than merely delay a threat, then honor the choice you offered.",
+    "deep": "His disciplined aggression reflects a life shaped by being treated as a weapon. Trust depends on reliable freedom to choose, while reminders of personal bonds should be handled as vulnerabilities rather than convenient pressure points.",
+    "profile": "Mars is a heavily trained Diamond Kingdom mage-warrior with powerful Mineral Magic. His controlled demeanor and combat focus make him a dangerous opponent before any basis for cooperation has been established.",
+    "availability": "Normally encountered during the dungeon expedition; second-attribute use, training history, Fana's connection, and later allegiance require their discoveries."
+  },
+  {
+    "key": "fana",
+    "name": "Fana (Diamond Kingdom)",
+    "aliases": [
+      "Fana (Diamond Kingdom)",
+      "Fana of Diamond",
+      "Human Fana"
+    ],
+    "group": "Diamond Kingdom",
+    "era": "later-introduction",
+    "glyph": "FA",
+    "color": "#a55c36",
+    "tag": "Fire Magic · Diamond survivor",
+    "unlock": "Allow her to make decisions about her own recovery and keep the people she trusts free from coercion.",
+    "deep": "Gentleness should not be mistaken for a lack of will after a life shaped by others' plans. She needs a chance to choose ordinary experiences and connection, not to be assigned another role as someone's weapon.",
+    "profile": "This Fana is the human girl from the Diamond Kingdom, associated with Fire Magic and a difficult training childhood. Her personal ties and wishes matter independently of what other people have tried to make her do.",
+    "availability": "Keep the human Fana unavailable as an independent acquaintance until the Witch Forest recovery; do not merge her record with the separate elf Fana or assume continuing spirit ownership."
+  },
+  {
+    "key": "patry",
+    "name": "Patry",
+    "aliases": [
+      "Patry",
+      "Patri"
+    ],
+    "group": "Eye of the Midnight Sun",
+    "era": "later-introduction",
+    "glyph": "PA",
+    "color": "#b58c45",
+    "tag": "Light Magic · Eye leader",
+    "unlock": "Confront harm without dismissing the losses behind his anger and support a concrete choice to stop repeating it.",
+    "deep": "His devotion to those he has lost can narrow into a certainty that excuses terrible actions. Understanding his grief does not remove accountability, and trust requires conduct that makes room for other lives.",
+    "profile": "Patry is a powerful Light Magic user whose commitments are bound to the Eye of the Midnight Sun. He is intense and idealistic, but his convictions can become dangerously absolute.",
+    "availability": "Do not disclose his true name, identity, or connections before they are established; an early Eye leader using another name must not unlock the separate real Licht record."
+  },
+  {
+    "key": "rhya",
+    "name": "Rhya",
+    "aliases": [
+      "Rhya",
+      "Raia",
+      "Rhya the Disloyal"
+    ],
+    "group": "Eye of the Midnight Sun",
+    "era": "later-introduction",
+    "glyph": "RH",
+    "color": "#846455",
+    "tag": "Imitation Magic · Third Eye",
+    "unlock": "Speak honestly when deception would be useful and follow through on a limited agreement under pressure.",
+    "deep": "His laid-back manner makes serious observation easy to overlook. He may joke through a confrontation, but the people and convictions beneath that ease are not things he abandons for a pleasant conversation.",
+    "profile": "Rhya is an elite member of the Eye of the Midnight Sun who uses Imitation Magic. He presents an indolent, wry exterior while remaining a capable and closely involved member of the group's leadership.",
+    "availability": "Introduce with the Third Eye after the early Eye encounters; origin, private knowledge, and later cooperation remain gated to events."
+  },
+  {
+    "key": "vetto",
+    "name": "Vetto",
+    "aliases": [
+      "Vetto",
+      "Vetto the Despair"
+    ],
+    "group": "Eye of the Midnight Sun",
+    "era": "later-introduction",
+    "glyph": "VE",
+    "color": "#846455",
+    "tag": "Beast Magic · Third Eye",
+    "unlock": "Withstand intimidation without sacrificing a companion and establish a reason for him to halt violence before seeking rapport.",
+    "deep": "He tries to make an opponent feel powerless rather than treating battle as a friendly test. Any future trust needs a real change in circumstances and choices; enduring cruelty alone is not an earned friendship.",
+    "profile": "Vetto is an imposing Third Eye fighter with Beast Magic and immense physical force. In his early hostile role, he pursues victory by breaking an enemy's confidence as well as their defenses.",
+    "availability": "Introduce during the Third Eye or Seabed Temple conflict; death, return, changed body, and later loyalties must follow the current chronology."
+  },
+  {
+    "key": "licht",
+    "name": "Licht (elf leader)",
+    "aliases": [
+      "Licht (elf leader)",
+      "Licht the elf leader",
+      "True Licht"
+    ],
+    "group": "Elf tribe",
+    "era": "later-introduction",
+    "glyph": "LC",
+    "color": "#b58c45",
+    "tag": "Sword Magic · Elf leader",
+    "unlock": "Protect people across an inherited division and show that reconciliation includes responsibility for present harm.",
+    "deep": "His calm authority rests on care for a community rather than a need to dominate it. He values the possibility of understanding across difference, while grief and loss deserve space rather than easy assurances.",
+    "profile": "Licht is the historical elf leader associated with Sword Magic and a four-leaf grimoire. He once hoped that humans and elves could understand one another and build a shared future.",
+    "availability": "Treat him as historical and unavailable until the late elf-conflict encounter; an Eye leader called Licht is not enough to identify or unlock this person."
+  },
+  {
+    "key": "sally",
+    "name": "Sally",
+    "aliases": [
+      "Sally"
+    ],
+    "group": "Eye of the Midnight Sun",
+    "era": "later-introduction",
+    "glyph": "SA",
+    "color": "#8d4d58",
+    "tag": "Gel Magic · Magical researcher",
+    "unlock": "Offer a useful research question with explicit limits and verify that she respects those limits before extending cooperation.",
+    "deep": "Curiosity can consume her attention until she treats people as puzzles instead of participants. An interesting result may motivate her, but reliable cooperation requires boundaries she actually observes rather than merely agrees to.",
+    "profile": "Sally is an inventive Gel Magic user whose enthusiasm for experimentation exceeds her concern for conventional restraint. Her interest in unfamiliar abilities brings her into the Eye of the Midnight Sun's work and makes Asta an especially tempting subject.",
+    "availability": "Introduce through the early Eye conflict; hostile research and later negotiated cooperation must not be flattened into an automatic friendly laboratory visit."
+  }
+]

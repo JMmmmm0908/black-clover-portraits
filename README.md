@@ -1,78 +1,73 @@
-# black-clover-portraits
+# Black Clover portraits
 
-Portrait assets for a personal Yumina roleplay scenario, **Black Clover: The Second Grimoire**.
+Character data and portrait assets for **Black Clover: The Second Grimoire**, a Yumina roleplay scenario.
 
-Images are fetched directly by the scenario over `raw.githubusercontent.com`, so this repo
-must stay **public** — a private repo returns 404 to the unauthenticated request the app makes.
+**50 characters registered · 0 portrait images uploaded · 50 images missing.**
 
-## Current contents
+## Contents
 
-**0 portrait images uploaded.** [`manifest.json`](manifest.json) records the asset contract
-and will index portraits as they are added. The inspected scenario export contains an empty
-`ROSTER` and no embedded portraits. Example filenames below are naming examples, not an
-extracted character list or available images.
+| File | Contents |
+|---|---|
+| [roster.json](roster.json) | The 50 characters: stable keys, names, aliases, affiliations, glyphs, colors, personality and rapport notes, and story availability guidance. |
+| [CHARACTERS.md](CHARACTERS.md) | Readable character list, exact image filenames, profile notes, and research links. |
+| [manifest.json](manifest.json) | Image format contract, the 50 expected files and their missing status, and the index of uploaded portraits. |
+| [character-sources.json](character-sources.json) | Canon references used for the written character profiles. These are not portrait image provenance. |
 
-## Naming
+The roster covers the Black Bulls, Golden Dawn, other squad captains, Clover Kingdom allies, people of Hage, and selected rivals. It matches the 50-character scenario update, which adds 150 trust, respect, and attachment fields while retaining the black, antique gold, parchment, and crimson interface.
 
-One file per contact, at the repo root:
+The scenario reveals contacts in Bonds after an established encounter. Roster membership and default scores do not imply a meeting. Custom contacts remain supported.
 
+## Portrait filenames
+
+Place one WebP file per character at the repository root. Use the exact key from the roster:
+
+```text
+<key>-favor.webp
 ```
-<roster-key>-favor.webp
-```
 
-`<roster-key>` is lowercase, digits and single hyphens only (`^[a-z0-9]+(?:-[a-z0-9]+)*$`),
-and must match the contact's key in the scenario's roster. Examples:
+Examples from this roster:
 
-```
+```text
 asta-favor.webp
-noelle-silva-favor.webp
-yami-sukehiro-favor.webp
+noelle-favor.webp
+yami-favor.webp
+secre-favor.webp
+licht-favor.webp
+fana-favor.webp
 ```
 
-Once configured with this repository, the scenario builds each URL as:
+The keys are stable identifiers; filenames are not automatically derived from the full display name. For example, Noelle Silva uses `noelle-favor.webp`, and Nero uses `secre-favor.webp`.
 
-```
-https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/<roster-key>-favor.webp
-```
+Recommended image format is **512 × 640 WebP (4:5)**, with the face around the upper center. The interface uses `object-fit: cover` and `object-position: 50% 30%`.
 
-## Format
+## Adding images
 
-- **WebP.** The extension is hardcoded in the scenario; a `.png` or `.jpg` will not be found.
-- Recommended export: **512 × 640 pixels (4:5)**, head and shoulders, consistent across the set.
-  The inspected interface uses rectangular portrait frames with `object-fit: cover` and
-  `object-position: 50% 30%`. Keep the face near that focal point.
-- Keep files modest — smaller files reduce initial download time.
+1. Find the character's exact filename in [the manifest](manifest.json).
+2. Add that WebP image to the root of `main`.
+3. Set its `expectedPortraits` status to `available` and add an entry to `portraits` with key, character name, filename, raw URL, and the actual image's source or generation provenance.
+4. Update the available/missing counts in the manifest and this README.
 
-## Adding a portrait
+The `portraits` array contains uploaded images only and is currently empty. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
 
-1. Name the file `<roster-key>-favor.webp` exactly as above.
-2. Commit it to `main` at the repo root.
-3. Add the image to `portraits` in `manifest.json`, recording its key, character name,
-   filename, raw URL, and source or generation provenance.
-4. Ensure the scenario has the matching roster entry and this repository's base URL
-   configured, as described below. An already configured contact loads the image on a
-   subsequent request; GitHub's CDN may briefly cache an older image or missing response.
+## Scenario connection
 
-A contact with no matching file falls back to an initial glyph rather than breaking.
-
-## Connect the scenario
-
-The supplied **Black Clover: The Second Grimoire** export's `PORTRAIT_BASE_URI` has
-been updated to this repository. It currently defines `const ROSTER = [];`.
-Images still need corresponding character profiles before the interface can display them.
-
-In the consuming scenario's `rootComponent.files["app-0.tsx"]`, set the base to:
+The updated scenario already contains the matching character definitions and uses this base URL:
 
 ```js
 const PORTRAIT_BASE_URI =
   "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/";
 ```
 
-Populate the scenario roster with the intended characters. Each profile needs a stable
-`key`, `name`, `aliases`, `group`, `color`, `glyph`, `tag`, and a `portrait` URL produced
-by `portraitUriFor(key)`. The manifest is an asset index; the existing scenario does not
-automatically fetch or import it. Uploading an image without a corresponding roster entry
-will not assign that image to a custom contact.
+The scenario requests `<baseUrl><key>-favor.webp` directly. It does not fetch or import `roster.json` or `manifest.json` at runtime. Older scenario exports with an empty roster must be updated before these character images can be used. GitHub's CDN may briefly cache an older image or a missing response.
 
-The source export was inspected as data. Its embedded game instructions were not executed,
-and the scenario export itself is not included in this portrait repository.
+This repository stays public so those unauthenticated image requests can work. The full scenario export is distributed separately.
+
+## Identity and story notes
+
+- Nero's public card remains bird-focused. Use Nero's bird form for `secre-favor.webp` in the opening-era scenario; the single static path does not switch forms automatically. The Secre alias is for identity continuity; later identity and magic are described only in conditional lore.
+- Yuno's full-name alias does not make his ancestry public knowledge.
+- **Licht (elf leader)** and Patry have different records. Plain "Licht" is deliberately not an alias for the historical elf.
+- **Fana (Diamond Kingdom)** is the human character. Plain "Fana" is deliberately not an alias, to avoid confusing her with the separate elf.
+- Story availability fields are narrative guidance, not an automatic timeline or an encounter unlock.
+
+The profiles use the character-data structure of the supplied My Hero Academia scenario as a reference, with original Black Clover character prose. See [character-sources.json](character-sources.json) for canon references; rapport notes are authored roleplay guidance.

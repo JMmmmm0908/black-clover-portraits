@@ -9,8 +9,367 @@
     "format": "webp",
     "recommendedWidth": 512,
     "recommendedHeight": 640,
-    "focalPoint": [0.5, 0.3],
+    "focalPoint": [
+      0.5,
+      0.3
+    ],
     "objectFit": "cover"
   },
-  "portraits": []
+  "portraits": [],
+  "rosterFile": "roster.json",
+  "characterCount": 50,
+  "expectedPortraits": [
+    {
+      "key": "asta",
+      "name": "Asta",
+      "filename": "asta-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "noelle",
+      "name": "Noelle Silva",
+      "filename": "noelle-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "yami",
+      "name": "Yami Sukehiro",
+      "filename": "yami-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yami-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "finral",
+      "name": "Finral Roulacase",
+      "filename": "finral-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "vanessa",
+      "name": "Vanessa Enoteca",
+      "filename": "vanessa-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "magna",
+      "name": "Magna Swing",
+      "filename": "magna-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "luck",
+      "name": "Luck Voltia",
+      "filename": "luck-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "gauche",
+      "name": "Gauche Adlai",
+      "filename": "gauche-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "charmy",
+      "name": "Charmy Pappitson",
+      "filename": "charmy-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "gordon",
+      "name": "Gordon Agrippa",
+      "filename": "gordon-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "grey",
+      "name": "Grey",
+      "filename": "grey-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "henry",
+      "name": "Henry Legolant",
+      "filename": "henry-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "zora",
+      "name": "Zora Ideale",
+      "filename": "zora-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "secre",
+      "name": "Nero",
+      "filename": "secre-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "nacht",
+      "name": "Nacht Faust",
+      "filename": "nacht-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nacht-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "liebe",
+      "name": "Liebe",
+      "filename": "liebe-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/liebe-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "yuno",
+      "name": "Yuno",
+      "filename": "yuno-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "mimosa",
+      "name": "Mimosa Vermillion",
+      "filename": "mimosa-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "klaus",
+      "name": "Klaus Lunettes",
+      "filename": "klaus-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "william",
+      "name": "William Vangeance",
+      "filename": "william-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/william-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "langris",
+      "name": "Langris Vaude",
+      "filename": "langris-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/langris-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "nozel",
+      "name": "Nozel Silva",
+      "filename": "nozel-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nozel-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "fuegoleon",
+      "name": "Fuegoleon Vermillion",
+      "filename": "fuegoleon-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/fuegoleon-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "mereoleona",
+      "name": "Mereoleona Vermillion",
+      "filename": "mereoleona-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mereoleona-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "charlotte",
+      "name": "Charlotte Roselei",
+      "filename": "charlotte-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charlotte-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "jack",
+      "name": "Jack the Ripper",
+      "filename": "jack-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/jack-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "rill",
+      "name": "Rill Boismortier",
+      "filename": "rill-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rill-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "dorothy",
+      "name": "Dorothy Unsworth",
+      "filename": "dorothy-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/dorothy-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "kaiser",
+      "name": "Kaiser Granvorka",
+      "filename": "kaiser-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/kaiser-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "gueldre",
+      "name": "Gueldre Poizot",
+      "filename": "gueldre-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gueldre-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "julius",
+      "name": "Julius Novachrono",
+      "filename": "julius-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/julius-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "marx",
+      "name": "Marx Francois",
+      "filename": "marx-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/marx-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "owen",
+      "name": "Owen",
+      "filename": "owen-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/owen-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "damnatio",
+      "name": "Damnatio Kira",
+      "filename": "damnatio-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/damnatio-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "leopold",
+      "name": "Leopold Vermillion",
+      "filename": "leopold-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "solid",
+      "name": "Solid Silva",
+      "filename": "solid-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/solid-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "nebra",
+      "name": "Nebra Silva",
+      "filename": "nebra-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nebra-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "sol",
+      "name": "Sol Marron",
+      "filename": "sol-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sol-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "kirsch",
+      "name": "Kirsch Vermillion",
+      "filename": "kirsch-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/kirsch-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "sekke",
+      "name": "Sekke Bronzazza",
+      "filename": "sekke-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sekke-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "lily",
+      "name": "Sister Lily",
+      "filename": "lily-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/lily-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "orsi",
+      "name": "Father Orsi",
+      "filename": "orsi-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/orsi-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "rebecca",
+      "name": "Rebecca Scarlet",
+      "filename": "rebecca-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rebecca-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "mars",
+      "name": "Mars",
+      "filename": "mars-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mars-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "fana",
+      "name": "Fana (Diamond Kingdom)",
+      "filename": "fana-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/fana-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "patry",
+      "name": "Patry",
+      "filename": "patry-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/patry-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "rhya",
+      "name": "Rhya",
+      "filename": "rhya-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rhya-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "vetto",
+      "name": "Vetto",
+      "filename": "vetto-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vetto-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "licht",
+      "name": "Licht (elf leader)",
+      "filename": "licht-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/licht-favor.webp",
+      "status": "missing"
+    },
+    {
+      "key": "sally",
+      "name": "Sally",
+      "filename": "sally-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sally-favor.webp",
+      "status": "missing"
+    }
+  ],
+  "availablePortraitCount": 0,
+  "missingPortraitCount": 50
 }

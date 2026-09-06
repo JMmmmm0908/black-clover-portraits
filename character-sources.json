@@ -1,0 +1,385 @@
+{
+  "checkedAt": "2026-09-07",
+  "scope": "Original roleplay profiles based on canon. Unlock and deep fields are authored interaction guidance, not quoted official character text. Availability is a chronology/knowledge guard, not a new assertion that every character is met at the entrance examination. Full-name aliases aid lookup and must not be displayed as a revelation.",
+  "limitations": [
+    "Portrait files are not supplied. Expected image URLs are listed separately in manifest.json and marked missing until an image is uploaded.",
+    "The current official anime pages describe later story states; this roster intentionally keeps opening identities and powers narrower.",
+    "Gordon uses a conservative curse-studies tag because the official anime profile labels his attribute as curse magic; no later family or healing reveal is exposed.",
+    "Father Orsi and Rebecca have civilian-role tags because the consulted primary pages do not establish a personal magic attribute.",
+    "Human Fana is distinct from elf Fana; the dedicated Shueisha human-Fana profile establishes the separate identity, and this record is gated to her recovery with explicit display-name aliases.",
+    "Nero remains the public display name for Secre; card tag/unlock/deep remain bird-only, while the lore-only profile includes a clearly conditional identity and Sealing Magic reference after the late elf-conflict revelation.",
+    "Scale Magic is a baseline Damnatio attribute; the cited Shueisha biography establishes office and disposition, while the manga/anime depicts the attribute."
+  ],
+  "characters": [
+    {
+      "key": "asta",
+      "name": "Asta",
+      "urls": [
+        "https://bclover.jp/character/asta.php"
+      ]
+    },
+    {
+      "key": "noelle",
+      "name": "Noelle Silva",
+      "urls": [
+        "https://bclover.jp/character/noelle.php"
+      ]
+    },
+    {
+      "key": "yami",
+      "name": "Yami Sukehiro",
+      "urls": [
+        "https://bclover.jp/character/yami.php"
+      ]
+    },
+    {
+      "key": "finral",
+      "name": "Finral Roulacase",
+      "urls": [
+        "https://bclover.jp/character/finral.php"
+      ]
+    },
+    {
+      "key": "vanessa",
+      "name": "Vanessa Enoteca",
+      "urls": [
+        "https://bclover.jp/character/vanessa.php"
+      ]
+    },
+    {
+      "key": "magna",
+      "name": "Magna Swing",
+      "urls": [
+        "https://bclover.jp/character/magna.php"
+      ]
+    },
+    {
+      "key": "luck",
+      "name": "Luck Voltia",
+      "urls": [
+        "https://bclover.jp/character/luck.php"
+      ]
+    },
+    {
+      "key": "gauche",
+      "name": "Gauche Adlai",
+      "urls": [
+        "https://bclover.jp/character/gauche.php"
+      ]
+    },
+    {
+      "key": "charmy",
+      "name": "Charmy Pappitson",
+      "urls": [
+        "https://bclover.jp/character/charmy.php"
+      ]
+    },
+    {
+      "key": "gordon",
+      "name": "Gordon Agrippa",
+      "urls": [
+        "https://bclover.jp/character/gordon.php",
+        "https://www.shonenjump.com/j/sp_bclover/character/chara008.html"
+      ]
+    },
+    {
+      "key": "grey",
+      "name": "Grey",
+      "urls": [
+        "https://bclover.jp/character/grey.php"
+      ]
+    },
+    {
+      "key": "henry",
+      "name": "Henry Legolant",
+      "urls": [
+        "https://bclover.jp/character/henry.php"
+      ]
+    },
+    {
+      "key": "zora",
+      "name": "Zora Ideale",
+      "urls": [
+        "https://bclover.jp/character/zora.php"
+      ]
+    },
+    {
+      "key": "secre",
+      "name": "Nero",
+      "urls": [
+        "https://bclover.jp/character/secre.php"
+      ]
+    },
+    {
+      "key": "nacht",
+      "name": "Nacht Faust",
+      "urls": [
+        "https://bclover.jp/character/nacht.php"
+      ]
+    },
+    {
+      "key": "liebe",
+      "name": "Liebe",
+      "urls": [
+        "https://bclover.jp/character/liebe.php"
+      ]
+    },
+    {
+      "key": "yuno",
+      "name": "Yuno",
+      "urls": [
+        "https://bclover.jp/character/yuno.php"
+      ]
+    },
+    {
+      "key": "mimosa",
+      "name": "Mimosa Vermillion",
+      "urls": [
+        "https://bclover.jp/character/mimosa.php"
+      ]
+    },
+    {
+      "key": "klaus",
+      "name": "Klaus Lunettes",
+      "urls": [
+        "https://bclover.jp/season1/character/character20.php"
+      ]
+    },
+    {
+      "key": "william",
+      "name": "William Vangeance",
+      "urls": [
+        "https://bclover.jp/character/william.php"
+      ]
+    },
+    {
+      "key": "langris",
+      "name": "Langris Vaude",
+      "urls": [
+        "https://bclover.jp/season1/character/character46.php"
+      ]
+    },
+    {
+      "key": "nozel",
+      "name": "Nozel Silva",
+      "urls": [
+        "https://bclover.jp/character/nozel.php"
+      ]
+    },
+    {
+      "key": "fuegoleon",
+      "name": "Fuegoleon Vermillion",
+      "urls": [
+        "https://bclover.jp/character/fuegoleon.php"
+      ]
+    },
+    {
+      "key": "mereoleona",
+      "name": "Mereoleona Vermillion",
+      "urls": [
+        "https://bclover.jp/character/mereoleona.php"
+      ]
+    },
+    {
+      "key": "charlotte",
+      "name": "Charlotte Roselei",
+      "urls": [
+        "https://bclover.jp/character/charlotte.php"
+      ]
+    },
+    {
+      "key": "jack",
+      "name": "Jack the Ripper",
+      "urls": [
+        "https://bclover.jp/character/jack.php"
+      ]
+    },
+    {
+      "key": "rill",
+      "name": "Rill Boismortier",
+      "urls": [
+        "https://bclover.jp/character/rill.php"
+      ]
+    },
+    {
+      "key": "dorothy",
+      "name": "Dorothy Unsworth",
+      "urls": [
+        "https://bclover.jp/character/dorothy.php"
+      ]
+    },
+    {
+      "key": "kaiser",
+      "name": "Kaiser Granvorka",
+      "urls": [
+        "https://bclover.jp/character/kaiser.php"
+      ]
+    },
+    {
+      "key": "gueldre",
+      "name": "Gueldre Poizot",
+      "urls": [
+        "https://bclover.jp/season1/character/character26.php"
+      ]
+    },
+    {
+      "key": "julius",
+      "name": "Julius Novachrono",
+      "urls": [
+        "https://bclover.jp/character/julius.php"
+      ]
+    },
+    {
+      "key": "marx",
+      "name": "Marx Francois",
+      "urls": [
+        "https://www.shonenjump.com/j/sp_bclover/character/chara037.html",
+        "https://bclover.jp/season1/story/detail.php?id=1000822"
+      ]
+    },
+    {
+      "key": "owen",
+      "name": "Owen",
+      "urls": [
+        "https://www.shonenjump.com/j/sp_bclover/character/chara064.html",
+        "https://bclover.jp/season1/story/detail.php?id=1000458"
+      ]
+    },
+    {
+      "key": "damnatio",
+      "name": "Damnatio Kira",
+      "urls": [
+        "https://www.shonenjump.com/j/sp_bclover/character/chara106.html"
+      ]
+    },
+    {
+      "key": "leopold",
+      "name": "Leopold Vermillion",
+      "urls": [
+        "https://bclover.jp/season1/character/character36.php"
+      ]
+    },
+    {
+      "key": "solid",
+      "name": "Solid Silva",
+      "urls": [
+        "https://bclover.jp/season1/character/character35.php"
+      ]
+    },
+    {
+      "key": "nebra",
+      "name": "Nebra Silva",
+      "urls": [
+        "https://bclover.jp/season1/character/character34.php"
+      ]
+    },
+    {
+      "key": "sol",
+      "name": "Sol Marron",
+      "urls": [
+        "https://bclover.jp/season1/character/character32.php"
+      ]
+    },
+    {
+      "key": "kirsch",
+      "name": "Kirsch Vermillion",
+      "urls": [
+        "https://bclover.jp/season1/character/character48.php"
+      ]
+    },
+    {
+      "key": "sekke",
+      "name": "Sekke Bronzazza",
+      "urls": [
+        "https://bclover.jp/season1/character/character21.php"
+      ]
+    },
+    {
+      "key": "lily",
+      "name": "Sister Lily",
+      "urls": [
+        "https://bclover.jp/season1/character/character23.php"
+      ]
+    },
+    {
+      "key": "orsi",
+      "name": "Father Orsi",
+      "urls": [
+        "https://bclover.jp/season1/character/character22.php",
+        "https://www.shonenjump.com/j/sp_bclover/character/chara012.html"
+      ]
+    },
+    {
+      "key": "rebecca",
+      "name": "Rebecca Scarlet",
+      "urls": [
+        "https://bclover.jp/season1/story/detail.php?id=1000382",
+        "https://bclover.jp/season1/story/detail.php?id=1000384"
+      ]
+    },
+    {
+      "key": "mars",
+      "name": "Mars",
+      "urls": [
+        "https://bclover.jp/season1/character/character28.php"
+      ]
+    },
+    {
+      "key": "fana",
+      "name": "Fana (Diamond Kingdom)",
+      "urls": [
+        "https://www.shonenjump.com/j/sp_bclover/character/chara023.html",
+        "https://bclover.jp/season1/character/character42.php"
+      ]
+    },
+    {
+      "key": "patry",
+      "name": "Patry",
+      "urls": [
+        "https://bclover.jp/season1/character/character56.php"
+      ]
+    },
+    {
+      "key": "rhya",
+      "name": "Rhya",
+      "urls": [
+        "https://bclover.jp/season1/character/character41.php"
+      ]
+    },
+    {
+      "key": "vetto",
+      "name": "Vetto",
+      "urls": [
+        "https://bclover.jp/season1/character/character43.php"
+      ]
+    },
+    {
+      "key": "licht",
+      "name": "Licht (elf leader)",
+      "urls": [
+        "https://bclover.jp/season1/character/character40.php"
+      ]
+    },
+    {
+      "key": "sally",
+      "name": "Sally",
+      "urls": [
+        "https://bclover.jp/season1/character/character39.php"
+      ]
+    }
+  ],
+  "supplementary": [
+    {
+      "url": "https://www.shonenjump.com/j/sp_bclover/character/chara069.html",
+      "supports": "Kaiser succeeds Gueldre; defensive role."
+    },
+    {
+      "url": "https://bclover.jp/season1/story/detail.php?id=1000385",
+      "supports": "Rebecca family context and Nean events."
+    },
+    {
+      "url": "https://sp.shonenjump.com/j/rensai/_list/bclover/index_3.html",
+      "supports": "Witch Forest and Star Awards story sequence."
+    }
+  ]
+}
