@@ -939,26 +939,6 @@
       "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
     }
   },
-  "nacht": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Nacht Faust. Slender pale adult man with black hair gathered high, loose face-framing strands, blue eyes and a composed, severe face.\nExpression: Cool, controlled scrutiny with the faintest unsmiling irony.\nWardrobe: Black high-collared clothing with a white mantle and black Black Bulls shoulder details, matching his ordinary return-era outfit.\nAvoid: No devil-union armor, masks, animal features, horns, familiars, wings or transformation effects.",
-    "tool": "OpenAI built-in image generation",
-    "format": "webp",
-    "width": 1122,
-    "height": 1402,
-    "createdAt": "2026-09-06T17:12:22.142Z",
-    "sha256": "1e51ae1cfac17094bc1d643aa24db47b05f7bdd4df3221077111f57327e506b0",
-    "source": {
-      "format": "png",
-      "width": 1122,
-      "height": 1402,
-      "sha256": "14c7db6d5ed4e845562dec72c1958fdd90c4a32a6df2cfbfb5eabfce57e5a742"
-    },
-    "conversion": {
-      "tool": "ImageMagick",
-      "quality": 92,
-      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
-    }
-  },
   "nebra": {
     "prompt": "INITIAL GENERATION PROMPT\n\nUse case: stylized-concept.\nAsset: an original portrait of Nebra Silva from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Nebra Silva.\nSubject appearance: Adult royal woman with short wavy silver hair swept asymmetrically across one eye, pale skin and narrow, elegant violet eyes.\nExpression: A cool, amused, condescending smile.\nWardrobe: Silver Eagles pale mantle with lavender details and an opaque fitted noblewoman's outfit.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No long twin tails, Noelle's youthful design, revealing costume, mist hiding the face or extra characters.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.\n\nSOURCE CHECK\n\nOfficial original anime Nebra art: https://bclover.jp/season1/images/character/character_image34.png\n\nTARGETED CORRECTION PROMPT\n\nCorrect Nebra Silva's hairstyle to her official original anime design while preserving the same adult woman, facial identity, violet eyes, expression, outfit, lighting and textured charcoal-gold-crimson background. Replace the current short side-swept bob with a TALL, intricate SILVER BRAIDED UPDO: hair swept up and woven into a high elaborate braided topknot/crown above her head, with only a few loose wavy side locks ending near the chin. Both eyes and the forehead must be clearly visible. No bangs or loose fringe over either eye. This is her distinctive canonical noble updo, not a wig or hat. Give the tall hairstyle sufficient headroom without cropping its top; zoom the composition out only as much as necessary, staying close head-and-shoulders, vertical 4:5 and full bleed. Keep clothing opaque and the same softly contemptuous smile. No text, border, transformation, new accessories, extra people or other changes.",
     "tool": "OpenAI built-in image generation",
@@ -998,5 +978,46 @@
       "quality": 92,
       "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
     }
+  },
+  "nacht": {
+    "prompt": "Use case: identity-preserve illustration edit. Correct the FIRST image (the previous generated Nacht portrait) using the SECOND and THIRD images supplied by the user as the authoritative references for Nacht Faust's actual face, hairstyle, expression and clothing. The first image is the EDIT TARGET and reference for the set's rendering/background ONLY; its current face and costume are wrong.\nCreate one corrected Black Clover portrait that looks closely like Nacht in the two anime references: youthful adult, soft smooth pale face, modest small nose, gently tapered chin and relaxed eyebrows. His eyes are gently CLOSED in a friendly, restrained smile, exactly as in the references; a small calm closed-mouth smile, no teeth. Thick overlapping black bangs fall over most of the forehead down to the closed eyes, with a few longer triangular central points; his hair must not be parted back from a bare forehead. Rounded smooth top hair silhouette, a SMALL tied knot behind the crown, and a long dark ponytail hanging behind the neck/shoulder. No large piled bun or spiky topknot. Use a near-frontal, subtly turned head, as in the user's images.\nMatch his referenced ordinary outfit: a plain black coat with a very tall broad stand-up collar reaching almost to the chin. EXACTLY FOUR round antique-gold buttons on the FRONT of this collar in a clear two-by-two arrangement, two on each side. Show the subtle narrow brown straps at the outer shoulders. Remove the previous white cape, mantle, bull crest, chains, extra clasps and ornate gold piping; those are not in these references. Fully clothed.\nPreserve the portrait set's polished original anime illustration style: expressive clean ink, nuanced cel shading and subtle painterly texture, dark charcoal grimoire-textured background with antique-gold edge light and a restrained crimson undertone. Soft warm parchment light on pale skin. Keep the background quiet so his black hair and coat remain readable. Do not copy the screenshot background or low-resolution artifacts.\nFull-bleed vertical 4:5 image at the first image's aspect ratio, close head-and-shoulders composition with headroom for the small knot and four-button collar entirely visible. One person only. No text, caption, frame, border, watermark, UI, horns, magic effects or extra objects. Prioritize the actual character likeness in the user references over retaining anything from the first image's face or clothes.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T17:21:09.347Z",
+    "sha256": "8267812d9e6d47617027ac515f81e60f887b98d28ce520e125d9b87179d38fb4",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "973d78146b2f9aed133b1d4efd8c131c8bb19c664de30357077c115c78061209"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    },
+    "revision": 2,
+    "replaces": {
+      "sha256": "1e51ae1cfac17094bc1d643aa24db47b05f7bdd4df3221077111f57327e506b0",
+      "commit": "b8ad1087ac3f821a74e72cdfa6da7d70b819c604"
+    },
+    "editReferences": [
+      {
+        "role": "Previous generated portrait; edit target and rendering reference",
+        "sha256": "14c7db6d5ed4e845562dec72c1958fdd90c4a32a6df2cfbfb5eabfce57e5a742"
+      },
+      {
+        "role": "Character likeness and clothing reference",
+        "source": "User-provided anime screenshot 1",
+        "sha256": "1536307a6d208076497d6a60ecdb582502ba2ccb440b64953e72b1785bea11f8"
+      },
+      {
+        "role": "Character likeness and clothing reference",
+        "source": "User-provided anime screenshot 2",
+        "sha256": "e547161edf744cc1cc6d503bac8753d4cdcae8047909c7ca3d397c7eb373845b"
+      }
+    ]
   }
 }
