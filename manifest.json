@@ -62,6 +62,81 @@
       }
     },
     {
+      "key": "finral",
+      "name": "Finral Roulacase",
+      "filename": "finral-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "90085854ca68521d4a19f51b3f5087fd3df8afa59b26d96a08bd7cf3400382a5",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "finral"
+      }
+    },
+    {
+      "key": "vanessa",
+      "name": "Vanessa Enoteca",
+      "filename": "vanessa-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "2430fee6b02b452d0162aca18024c551113f59cfd3b893b3d6ac30d16ab09dac",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "vanessa"
+      }
+    },
+    {
+      "key": "magna",
+      "name": "Magna Swing",
+      "filename": "magna-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "af0cf3ea5bc5fd55d08657bf4df884ce585ecf7632cc5e226c775168b10e8ed0",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "magna"
+      }
+    },
+    {
+      "key": "luck",
+      "name": "Luck Voltia",
+      "filename": "luck-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "57d17181bfe1ad6c358f5515f43d16ccbc7ec9b71136590cafac123b1a47213f",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "luck"
+      }
+    },
+    {
+      "key": "gauche",
+      "name": "Gauche Adlai",
+      "filename": "gauche-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "746c77a106d93ba77e6b353cae300b075f95f4d0d5eff29dbf1461f5363f67c6",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "gauche"
+      }
+    },
+    {
       "key": "secre",
       "name": "Nero",
       "filename": "secre-favor.webp",
@@ -74,6 +149,21 @@
         "tool": "OpenAI built-in image generation",
         "record": "generation.json",
         "key": "secre"
+      }
+    },
+    {
+      "key": "liebe",
+      "name": "Liebe",
+      "filename": "liebe-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/liebe-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "5a2c40bcdd03841248611578d4b7c512e6b73bcfa1f4cc940c79baa5b2117c0e",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "liebe"
       }
     },
     {
@@ -104,6 +194,186 @@
         "tool": "OpenAI built-in image generation",
         "record": "generation.json",
         "key": "mimosa"
+      }
+    },
+    {
+      "key": "klaus",
+      "name": "Klaus Lunettes",
+      "filename": "klaus-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f355646d84cd959ab4ab47cc4d31fa28f615878f2c1f70c11ddf830d7fd219d3",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "klaus"
+      }
+    },
+    {
+      "key": "william",
+      "name": "William Vangeance",
+      "filename": "william-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/william-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "1966a539c362fdf4e02125fda18af9ab3bd7bed17040d1a34018adef10838e57",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "william"
+      }
+    },
+    {
+      "key": "langris",
+      "name": "Langris Vaude",
+      "filename": "langris-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/langris-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "3175471576504f652391bee76d1dcb75c56d78f83f669fea0c7f58c5460d8b8e",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "langris"
+      }
+    },
+    {
+      "key": "kaiser",
+      "name": "Kaiser Granvorka",
+      "filename": "kaiser-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/kaiser-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "210af53218d1bccacd53620dd8c07cacf44810bd2f2082106fd657b824d6a354",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "kaiser"
+      }
+    },
+    {
+      "key": "gueldre",
+      "name": "Gueldre Poizot",
+      "filename": "gueldre-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gueldre-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "eaa199512e59541ae833338648eaebf45ad4aaf18dd5c910df02d9adc8de2946",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "gueldre"
+      }
+    },
+    {
+      "key": "julius",
+      "name": "Julius Novachrono",
+      "filename": "julius-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/julius-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "e93926f0716655e6947c444a16415a7f2ac5aebd6c9af32e7e69a3f43a20a9af",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "julius"
+      }
+    },
+    {
+      "key": "marx",
+      "name": "Marx Francois",
+      "filename": "marx-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/marx-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "84e84b874a842aaafdd698f7a3b4db78c52ebaf0639a185e0f8cd4c70d28bb42",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "marx"
+      }
+    },
+    {
+      "key": "sekke",
+      "name": "Sekke Bronzazza",
+      "filename": "sekke-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sekke-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "e525c29d5e1300e39e9b99eb14d37b34b5d7a693af5e86ab385d6da6b4a96848",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "sekke"
+      }
+    },
+    {
+      "key": "lily",
+      "name": "Sister Lily",
+      "filename": "lily-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/lily-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "e50893a2efbbbde5b18ba5e5d577fac328a7c7e6610e0767dc517e18fee940ff",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "lily"
+      }
+    },
+    {
+      "key": "orsi",
+      "name": "Father Orsi",
+      "filename": "orsi-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/orsi-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "244e1e723a1aa541b1f864447f75821f213ec2b3e997ef14a2b7c400abf26ab9",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "orsi"
+      }
+    },
+    {
+      "key": "rebecca",
+      "name": "Rebecca Scarlet",
+      "filename": "rebecca-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rebecca-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "44bbca08540895c7f7886e1f191f66d97010ddf84af1849a946d3ff24b358ee2",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "rebecca"
+      }
+    },
+    {
+      "key": "mars",
+      "name": "Mars",
+      "filename": "mars-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mars-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "37378b010362a173e30da069ebc2ded67bf1c72ee0418e7d2dc80d290a21ed2e",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "mars"
       }
     }
   ],
@@ -136,35 +406,35 @@
       "name": "Finral Roulacase",
       "filename": "finral-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "vanessa",
       "name": "Vanessa Enoteca",
       "filename": "vanessa-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "magna",
       "name": "Magna Swing",
       "filename": "magna-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "luck",
       "name": "Luck Voltia",
       "filename": "luck-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "gauche",
       "name": "Gauche Adlai",
       "filename": "gauche-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "charmy",
@@ -220,7 +490,7 @@
       "name": "Liebe",
       "filename": "liebe-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/liebe-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "yuno",
@@ -241,21 +511,21 @@
       "name": "Klaus Lunettes",
       "filename": "klaus-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "william",
       "name": "William Vangeance",
       "filename": "william-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/william-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "langris",
       "name": "Langris Vaude",
       "filename": "langris-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/langris-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "nozel",
@@ -311,28 +581,28 @@
       "name": "Kaiser Granvorka",
       "filename": "kaiser-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/kaiser-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "gueldre",
       "name": "Gueldre Poizot",
       "filename": "gueldre-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gueldre-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "julius",
       "name": "Julius Novachrono",
       "filename": "julius-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/julius-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "marx",
       "name": "Marx Francois",
       "filename": "marx-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/marx-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "owen",
@@ -388,35 +658,35 @@
       "name": "Sekke Bronzazza",
       "filename": "sekke-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sekke-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "lily",
       "name": "Sister Lily",
       "filename": "lily-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/lily-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "orsi",
       "name": "Father Orsi",
       "filename": "orsi-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/orsi-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "rebecca",
       "name": "Rebecca Scarlet",
       "filename": "rebecca-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rebecca-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "mars",
       "name": "Mars",
       "filename": "mars-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mars-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "fana",
@@ -461,6 +731,6 @@
       "status": "missing"
     }
   ],
-  "availablePortraitCount": 6,
-  "missingPortraitCount": 44
+  "availablePortraitCount": 24,
+  "missingPortraitCount": 26
 }
