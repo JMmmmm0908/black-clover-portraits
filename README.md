@@ -2,13 +2,13 @@
 
 Character data and portrait assets for **Black Clover: The Second Grimoire**, a Yumina roleplay scenario.
 
-**50 characters registered · 24 portrait images uploaded · 26 images missing.**
+**50 characters registered · 50 portrait images uploaded · 0 images missing.**
 
 ## Contents
 
 | File | Contents |
 |---|---|
-| [GALLERY.md](GALLERY.md) | Browse all 24 available portraits by character group. |
+| [GALLERY.md](GALLERY.md) | Browse all 50 available portraits by character group. |
 | [roster.json](roster.json) | The 50 characters: stable keys, names, aliases, affiliations, glyphs, colors, personality and rapport notes, and story availability guidance. |
 | [CHARACTERS.md](CHARACTERS.md) | Readable character list, exact image filenames, profile notes, and research links. |
 | [manifest.json](manifest.json) | Image format contract, the 50 expected files and their availability status, and the index of uploaded portraits. |
@@ -51,7 +51,7 @@ The portraits retain their generated resolution (approximately 4:5). They use a 
 3. Set its `expectedPortraits` status to `available` and add an entry to `portraits` with key, character name, filename, raw URL, and the actual image's source or generation provenance.
 4. Update the available/missing counts in the manifest and this README.
 
-The `portraits` array contains uploaded images only and currently contains 24 images. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
+The `portraits` array contains uploaded images only and currently contains 50 images. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
 
 ## Scenario connection
 

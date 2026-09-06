@@ -137,6 +137,81 @@
       }
     },
     {
+      "key": "charmy",
+      "name": "Charmy Pappitson",
+      "filename": "charmy-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "e57331bb8507509b8a61d73967b14b25a256afd2a2374db0ba99a9f0026cdee4",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "charmy"
+      }
+    },
+    {
+      "key": "gordon",
+      "name": "Gordon Agrippa",
+      "filename": "gordon-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "60da4d03dff45406a9d9ad0640a881318672c806e7682dcd272f594524e29830",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "gordon"
+      }
+    },
+    {
+      "key": "grey",
+      "name": "Grey",
+      "filename": "grey-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "5fd992f1276f4fc5505cef719b8e4fa8c60b7fe03f8a64b3ff9f7fa8f06756a4",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "grey"
+      }
+    },
+    {
+      "key": "henry",
+      "name": "Henry Legolant",
+      "filename": "henry-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "0b5966e57c0ee06047b2f6942aabc1749827970e52ffb2543c05236087eb4a82",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "henry"
+      }
+    },
+    {
+      "key": "zora",
+      "name": "Zora Ideale",
+      "filename": "zora-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "d8159a3a6ec2288b62528e164774c763f5f2b9156f84bad82cd823ca0640681b",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "zora"
+      }
+    },
+    {
       "key": "secre",
       "name": "Nero",
       "filename": "secre-favor.webp",
@@ -149,6 +224,21 @@
         "tool": "OpenAI built-in image generation",
         "record": "generation.json",
         "key": "secre"
+      }
+    },
+    {
+      "key": "nacht",
+      "name": "Nacht Faust",
+      "filename": "nacht-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nacht-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "1e51ae1cfac17094bc1d643aa24db47b05f7bdd4df3221077111f57327e506b0",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "nacht"
       }
     },
     {
@@ -242,6 +332,111 @@
       }
     },
     {
+      "key": "nozel",
+      "name": "Nozel Silva",
+      "filename": "nozel-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nozel-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "91920b624dfd53bfc78427e9ad664f44171e44b352ee2d36fc40e272adf1df2a",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "nozel"
+      }
+    },
+    {
+      "key": "fuegoleon",
+      "name": "Fuegoleon Vermillion",
+      "filename": "fuegoleon-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/fuegoleon-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "0a49d603b0fb0c9f7e5e41f78478a3e217c1c2304a01ab336e71db9652fe4e4d",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "fuegoleon"
+      }
+    },
+    {
+      "key": "mereoleona",
+      "name": "Mereoleona Vermillion",
+      "filename": "mereoleona-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mereoleona-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "740c23d9e5e069dc6383ac0db0a02d73164ee594f489610a187d152b9becef71",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "mereoleona"
+      }
+    },
+    {
+      "key": "charlotte",
+      "name": "Charlotte Roselei",
+      "filename": "charlotte-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charlotte-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "9e8a91dfa0d7dde8720ec7a2332baf38fa7236484db5eaa5083e2e1178b4ac04",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "charlotte"
+      }
+    },
+    {
+      "key": "jack",
+      "name": "Jack the Ripper",
+      "filename": "jack-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/jack-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "db84b51769964e54f93db981ccb1df9ee27bb5b38e03a3e26b215e34dc92719d",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "jack"
+      }
+    },
+    {
+      "key": "rill",
+      "name": "Rill Boismortier",
+      "filename": "rill-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rill-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "4726a80954feee429489f2e28f94e9e53a0b33ca233af3f8c8cd2e30d2a8cc28",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "rill"
+      }
+    },
+    {
+      "key": "dorothy",
+      "name": "Dorothy Unsworth",
+      "filename": "dorothy-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/dorothy-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "fc1979ee5a17bbcd98c0ba701865bec93f8ac7573d25d0f152ae23ef48979bb9",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "dorothy"
+      }
+    },
+    {
       "key": "kaiser",
       "name": "Kaiser Granvorka",
       "filename": "kaiser-favor.webp",
@@ -299,6 +494,111 @@
         "tool": "OpenAI built-in image generation",
         "record": "generation.json",
         "key": "marx"
+      }
+    },
+    {
+      "key": "owen",
+      "name": "Owen",
+      "filename": "owen-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/owen-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "d7de8f20fa09dd351ca1c338a7d48de16018b3b64e0963399f2b11a9d15d0112",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "owen"
+      }
+    },
+    {
+      "key": "damnatio",
+      "name": "Damnatio Kira",
+      "filename": "damnatio-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/damnatio-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f373dc8c9bb56800e07f233f32057b256372103ef8931a085b5fff5f53cdd36c",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "damnatio"
+      }
+    },
+    {
+      "key": "leopold",
+      "name": "Leopold Vermillion",
+      "filename": "leopold-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f27bdf0ff2d66aac01fdcb05c14f46468bafbb55655026599c1a2b0ee119d0b5",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "leopold"
+      }
+    },
+    {
+      "key": "solid",
+      "name": "Solid Silva",
+      "filename": "solid-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/solid-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f935217814a89f3ec2c844625b63404f08585d1091793a6b4b4aba14f3763c16",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "solid"
+      }
+    },
+    {
+      "key": "nebra",
+      "name": "Nebra Silva",
+      "filename": "nebra-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nebra-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "dfd775281343214d857d5b7c78524545212d1035b3802f650cd11815493dd9b8",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "nebra"
+      }
+    },
+    {
+      "key": "sol",
+      "name": "Sol Marron",
+      "filename": "sol-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sol-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "844b80b1c72c5ec9b3587b3517d20863b334c76e4c0cff9688551aca59a88980",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "sol"
+      }
+    },
+    {
+      "key": "kirsch",
+      "name": "Kirsch Vermillion",
+      "filename": "kirsch-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/kirsch-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "5dfccfdb8d014c429833d2346dfb016496109761efa97f87c95f9a866bc32f3e",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "kirsch"
       }
     },
     {
@@ -375,6 +675,96 @@
         "record": "generation.json",
         "key": "mars"
       }
+    },
+    {
+      "key": "fana",
+      "name": "Fana (Diamond Kingdom)",
+      "filename": "fana-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/fana-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "cfe6fc39599d7fb833b049767b3b1e650bf5a06a7594badf37b3bdd0c929022b",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "fana"
+      }
+    },
+    {
+      "key": "patry",
+      "name": "Patry",
+      "filename": "patry-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/patry-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "4dff6169ccbac69b93155d3853bf484a1de6b5cbdb31d41a019dc383e87da2ef",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "patry"
+      }
+    },
+    {
+      "key": "rhya",
+      "name": "Rhya",
+      "filename": "rhya-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rhya-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "feaefd0be1d2fb6a0d3d8ce551ad7bb7cb1d842180e8018c8e89ca0557315d79",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "rhya"
+      }
+    },
+    {
+      "key": "vetto",
+      "name": "Vetto",
+      "filename": "vetto-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vetto-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "179dd302af2619c29ea78d4370dd439e311471b88294259885808becd3cad8c1",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "vetto"
+      }
+    },
+    {
+      "key": "licht",
+      "name": "Licht (elf leader)",
+      "filename": "licht-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/licht-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "24a858ef942e0beb8a433b16ccb676a05bd65eb2c55b0c3f81b6e843dc46d775",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "licht"
+      }
+    },
+    {
+      "key": "sally",
+      "name": "Sally",
+      "filename": "sally-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sally-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "c517cd294a22952be00992a5b8185ed7e62d30a121a6b029c9ffabf0f71dfcf2",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "sally"
+      }
     }
   ],
   "rosterFile": "roster.json",
@@ -441,35 +831,35 @@
       "name": "Charmy Pappitson",
       "filename": "charmy-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "gordon",
       "name": "Gordon Agrippa",
       "filename": "gordon-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "grey",
       "name": "Grey",
       "filename": "grey-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "henry",
       "name": "Henry Legolant",
       "filename": "henry-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "zora",
       "name": "Zora Ideale",
       "filename": "zora-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "secre",
@@ -483,7 +873,7 @@
       "name": "Nacht Faust",
       "filename": "nacht-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nacht-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "liebe",
@@ -532,49 +922,49 @@
       "name": "Nozel Silva",
       "filename": "nozel-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nozel-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "fuegoleon",
       "name": "Fuegoleon Vermillion",
       "filename": "fuegoleon-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/fuegoleon-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "mereoleona",
       "name": "Mereoleona Vermillion",
       "filename": "mereoleona-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mereoleona-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "charlotte",
       "name": "Charlotte Roselei",
       "filename": "charlotte-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charlotte-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "jack",
       "name": "Jack the Ripper",
       "filename": "jack-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/jack-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "rill",
       "name": "Rill Boismortier",
       "filename": "rill-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rill-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "dorothy",
       "name": "Dorothy Unsworth",
       "filename": "dorothy-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/dorothy-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "kaiser",
@@ -609,49 +999,49 @@
       "name": "Owen",
       "filename": "owen-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/owen-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "damnatio",
       "name": "Damnatio Kira",
       "filename": "damnatio-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/damnatio-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "leopold",
       "name": "Leopold Vermillion",
       "filename": "leopold-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "solid",
       "name": "Solid Silva",
       "filename": "solid-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/solid-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "nebra",
       "name": "Nebra Silva",
       "filename": "nebra-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/nebra-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "sol",
       "name": "Sol Marron",
       "filename": "sol-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sol-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "kirsch",
       "name": "Kirsch Vermillion",
       "filename": "kirsch-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/kirsch-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "sekke",
@@ -693,44 +1083,44 @@
       "name": "Fana (Diamond Kingdom)",
       "filename": "fana-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/fana-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "patry",
       "name": "Patry",
       "filename": "patry-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/patry-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "rhya",
       "name": "Rhya",
       "filename": "rhya-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/rhya-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "vetto",
       "name": "Vetto",
       "filename": "vetto-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vetto-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "licht",
       "name": "Licht (elf leader)",
       "filename": "licht-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/licht-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "sally",
       "name": "Sally",
       "filename": "sally-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sally-favor.webp",
-      "status": "missing"
+      "status": "available"
     }
   ],
-  "availablePortraitCount": 24,
-  "missingPortraitCount": 26
+  "availablePortraitCount": 50,
+  "missingPortraitCount": 0
 }
