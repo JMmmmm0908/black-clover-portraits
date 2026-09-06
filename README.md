@@ -29,7 +29,7 @@ noelle-silva-favor.webp
 yami-sukehiro-favor.webp
 ```
 
-The scenario builds each URL as:
+Once configured with this repository, the scenario builds each URL as:
 
 ```
 https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/<roster-key>-favor.webp
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/<roster
 - Recommended export: **512 × 640 pixels (4:5)**, head and shoulders, consistent across the set.
   The inspected interface uses rectangular portrait frames with `object-fit: cover` and
   `object-position: 50% 30%`. Keep the face near that focal point.
-- Keep files modest — they load over the network on every panel render.
+- Keep files modest — smaller files reduce initial download time.
 
 ## Adding a portrait
 
@@ -57,9 +57,9 @@ A contact with no matching file falls back to an initial glyph rather than break
 
 ## Connect the scenario
 
-The inspected **Black Clover: The Second Grimoire** export still points
-`PORTRAIT_BASE_URI` at `JMmmmm0908/mha-portraits` and defines `const ROSTER = [];`.
-Creating this repository alone does not connect portraits to the scenario.
+The supplied **Black Clover: The Second Grimoire** export's `PORTRAIT_BASE_URI` has
+been updated to this repository. It currently defines `const ROSTER = [];`.
+Images still need corresponding character profiles before the interface can display them.
 
 In the consuming scenario's `rootComponent.files["app-0.tsx"]`, set the base to:
 
