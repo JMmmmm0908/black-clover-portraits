@@ -2,16 +2,18 @@
 
 Character data and portrait assets for **Black Clover: The Second Grimoire**, a Yumina roleplay scenario.
 
-**50 characters registered · 0 portrait images uploaded · 50 images missing.**
+**50 characters registered · 6 portrait images uploaded · 44 images missing.**
 
 ## Contents
 
 | File | Contents |
 |---|---|
+| [GALLERY.md](GALLERY.md) | View the first six portraits: Asta, Noelle, Yuno, Yami, Mimosa, and Nero. |
 | [roster.json](roster.json) | The 50 characters: stable keys, names, aliases, affiliations, glyphs, colors, personality and rapport notes, and story availability guidance. |
 | [CHARACTERS.md](CHARACTERS.md) | Readable character list, exact image filenames, profile notes, and research links. |
-| [manifest.json](manifest.json) | Image format contract, the 50 expected files and their missing status, and the index of uploaded portraits. |
+| [manifest.json](manifest.json) | Image format contract, the 50 expected files and their availability status, and the index of uploaded portraits. |
 | [character-sources.json](character-sources.json) | Canon references used for the written character profiles. These are not portrait image provenance. |
+| [generation.json](generation.json) | Generation prompts, image dimensions and hashes, and format conversion records for the AI-generated portraits. |
 
 The roster covers the Black Bulls, Golden Dawn, other squad captains, Clover Kingdom allies, people of Hage, and selected rivals. It matches the 50-character scenario update, which adds 150 trust, respect, and attachment fields while retaining the black, antique gold, parchment, and crimson interface.
 
@@ -40,6 +42,8 @@ The keys are stable identifiers; filenames are not automatically derived from th
 
 Recommended image format is **512 × 640 WebP (4:5)**, with the face around the upper center. The interface uses `object-fit: cover` and `object-position: 50% 30%`.
 
+The first six images retain their generated **1122 × 1402** resolution (approximately 4:5). They use a shared charcoal, gold, and crimson atmosphere with parchment lighting. Exact prompts and the Nero correction are recorded in [generation.json](generation.json).
+
 ## Adding images
 
 1. Find the character's exact filename in [the manifest](manifest.json).
@@ -47,7 +51,7 @@ Recommended image format is **512 × 640 WebP (4:5)**, with the face around the 
 3. Set its `expectedPortraits` status to `available` and add an entry to `portraits` with key, character name, filename, raw URL, and the actual image's source or generation provenance.
 4. Update the available/missing counts in the manifest and this README.
 
-The `portraits` array contains uploaded images only and is currently empty. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
+The `portraits` array contains uploaded images only and currently contains 6 images. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
 
 ## Scenario connection
 

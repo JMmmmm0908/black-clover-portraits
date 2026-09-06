@@ -2,7 +2,7 @@
   "checkedAt": "2026-09-07",
   "scope": "Original roleplay profiles based on canon. Unlock and deep fields are authored interaction guidance, not quoted official character text. Availability is a chronology/knowledge guard, not a new assertion that every character is met at the entrance examination. Full-name aliases aid lookup and must not be displayed as a revelation.",
   "limitations": [
-    "Portrait files are not supplied. Expected image URLs are listed separately in manifest.json and marked missing until an image is uploaded.",
+    "Portrait files were not supplied during the written-profile stage. Current image availability is recorded in manifest.json; generated-image provenance is recorded separately in generation.json.",
     "The current official anime pages describe later story states; this roster intentionally keeps opening identities and powers narrower.",
     "Gordon uses a conservative curse-studies tag because the official anime profile labels his attribute as curse magic; no later family or healing reveal is exposed.",
     "Father Orsi and Rebecca have civilian-role tags because the consulted primary pages do not establish a personal magic attribute.",

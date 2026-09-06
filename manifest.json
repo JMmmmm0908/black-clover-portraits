@@ -15,7 +15,98 @@
     ],
     "objectFit": "cover"
   },
-  "portraits": [],
+  "portraits": [
+    {
+      "key": "asta",
+      "name": "Asta",
+      "filename": "asta-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "d062a34ecf49c4db6208e89ec102ae6ee8cd14625d447c9aae8d069ffac72a89",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "asta"
+      }
+    },
+    {
+      "key": "noelle",
+      "name": "Noelle Silva",
+      "filename": "noelle-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "945f49eebfed887b91dded9fec55be2527eb7a4c9380d9d444e0639c97fc1719",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "noelle"
+      }
+    },
+    {
+      "key": "yami",
+      "name": "Yami Sukehiro",
+      "filename": "yami-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yami-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "5d767af2c22fe2cb321062cecf8342460c1ace4973342e35215051155db3d352",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "yami"
+      }
+    },
+    {
+      "key": "secre",
+      "name": "Nero",
+      "filename": "secre-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8f4a1c534522f02ebe5e01cfe00b5b1b2d54c199e55c710782203bfbf2ce4ca3",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "secre"
+      }
+    },
+    {
+      "key": "yuno",
+      "name": "Yuno",
+      "filename": "yuno-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "b9af43035401e2a4d5f679e81a4fcdf4f36df173436a56c440d48bf6a8627c35",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "yuno"
+      }
+    },
+    {
+      "key": "mimosa",
+      "name": "Mimosa Vermillion",
+      "filename": "mimosa-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "93ef269fb85b1d7e6290151d0179d06a8223ef17782085be6a63a06e442c25c6",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "mimosa"
+      }
+    }
+  ],
   "rosterFile": "roster.json",
   "characterCount": 50,
   "expectedPortraits": [
@@ -24,21 +115,21 @@
       "name": "Asta",
       "filename": "asta-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "noelle",
       "name": "Noelle Silva",
       "filename": "noelle-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "yami",
       "name": "Yami Sukehiro",
       "filename": "yami-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yami-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "finral",
@@ -115,7 +206,7 @@
       "name": "Nero",
       "filename": "secre-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "nacht",
@@ -136,14 +227,14 @@
       "name": "Yuno",
       "filename": "yuno-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "mimosa",
       "name": "Mimosa Vermillion",
       "filename": "mimosa-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-favor.webp",
-      "status": "missing"
+      "status": "available"
     },
     {
       "key": "klaus",
@@ -370,6 +461,6 @@
       "status": "missing"
     }
   ],
-  "availablePortraitCount": 0,
-  "missingPortraitCount": 50
+  "availablePortraitCount": 6,
+  "missingPortraitCount": 44
 }

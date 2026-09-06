@@ -1,0 +1,122 @@
+{
+  "asta": {
+    "prompt": "Use case: illustration-story. Asset: one finished character portrait for a Black Clover RPG, vertical 4:5 aspect ratio, intended for a 512 by 640 WebP card.\nSubject: Asta from Black Clover, faithfully recognizable early-series design: short muscular teenage boy, wildly spiked ash-silver hair, vivid green eyes, thick eyebrows, black headband with its small red marking. Wear his familiar black Black Bulls shoulder cloak with restrained antique-gold trim over his early dark-and-white clothing; keep him fully clothed.\nComposition: single character only, close head-and-shoulders portrait, entire hair silhouette in frame with breathing room, face centered, eyes roughly one-third down the canvas, shoulders reaching the lower edges, direct friendly determined gaze and a small confident grin. No weapon needed.\nStyle: original polished anime illustration, precise expressive ink lines, confident cel shading with subtle painterly finishing, clear facial features readable at thumbnail size. Preserve his canonical hair and eye colors.\nBackdrop and light: simple deep charcoal grimoire-like texture, subtle warm parchment light on skin, restrained antique-gold rim light and a barely visible deep-crimson undertone. The background supports a black, gold, parchment, and crimson UI without tinting the character's canonical colors.\nConstraints: no text, name, letters, frame, border, watermark, UI, collage, other person, horns, wings, demon transformation, photorealism, or extra limbs. Deliver one full-bleed 4:5 portrait.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T16:42:31.285Z",
+    "sha256": "d062a34ecf49c4db6208e89ec102ae6ee8cd14625d447c9aae8d069ffac72a89",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "397b75bbbabab4e48db42b54c2b896d9c5dc4b1a87bcbc08a524f1d9d4fa1cbe"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    }
+  },
+  "noelle": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Noelle Silva from Black Clover, early anime design. Teen girl with long silver hair in distinctive twin tails tied with purple bands, violet eyes, pale complexion and neat straight fringe framing her forehead. Proud, slightly guarded expression softened by a tiny confident smile. Wear her modest early white/lavender high-collared outfit beneath the black-and-gold Black Bulls short mantle. No revealing cleavage, no Valkyrie armor, no crown, no water armor. The silver twin tails and violet eyes must be clearly recognizable.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T16:42:31.721Z",
+    "sha256": "945f49eebfed887b91dded9fec55be2527eb7a4c9380d9d444e0639c97fc1719",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f1d7df734a004b04a5ff62280f72f558dc4a80c634ebc5b000e94def66898824"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    }
+  },
+  "yuno": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Yuno from Black Clover, early anime design. Slender teen boy with messy jet-black hair and long bangs, clear amber-gold eyes, composed quiet expression and subtly raised determined gaze. Wear the early Golden Dawn cream/gold shoulder mantle over his dark high-collared tunic, with his small blue pendant visible. Canonical youthful face, not Asta's grin or broad build. No royal crown, no spirit companion, no later spirit form, no star magic.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T16:42:32.232Z",
+    "sha256": "b9af43035401e2a4d5f679e81a4fcdf4f36df173436a56c440d48bf6a8627c35",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "66a16868d1601109954da7e80862731c24864f76bb816b685b6d18548c5a99ba"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    }
+  },
+  "yami": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Yami Sukehiro from Black Clover, early anime design. Broad, muscular adult man with tousled short black hair, dark eyes, rugged angular jaw and visible stubble. Relaxed, confident half-smirk, slightly heavy-lidded gaze. Wear his familiar plain white tank top under the black-and-gold Black Bulls captain's shoulder mantle. His sturdy shoulders should fill the lower composition. Adult proportions and weathered face, no youthful Asta features. No sword needed, no cigarette, no extra props.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T16:42:32.783Z",
+    "sha256": "5d767af2c22fe2cb321062cecf8342460c1ace4973342e35215051155db3d352",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8e3b9448dcccb80b604b2e935cfd763002042a1534962ed1ca11fca01cfd623e"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    }
+  },
+  "mimosa": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Mimosa Vermillion from Black Clover, early Golden Dawn design. Teen girl with long softly wavy orange hair, a neat short straight fringe, amber-golden eyes, and a gentle composed smile. Her distinctive hair should frame her face in soft waves. Wear her fully clothed early Golden Dawn cream cape with teal edging over a modest white blouse and brown bodice; no cleavage, no armor, no transformed costume. Soft kind gaze, natural anatomy, one character only.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T16:45:34.698Z",
+    "sha256": "93ef269fb85b1d7e6290151d0179d06a8223ef17782085be6a63a06e442c25c6",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8ed4f2c61431e93c25539dd2b70491de7e5f1a5cb3576ebef5ee3a47c0ef0966"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    }
+  },
+  "secre": {
+    "prompt": "INITIAL GENERATION PROMPT\n\nUse case: illustration-story. One original polished anime portrait of NERO, the small anti-bird from Black Clover, for a 4:5 RPG character card. The supplied Asta image is only a reference for ink-line quality, rich cel shading, subtle painterly texture, and the dark charcoal/antique-gold/crimson background atmosphere. Do not use its human subject or clothing. Subject MUST be Nero's bird form: small rounded charcoal-black bird, intense red eyes with characteristic grumpy downturned brow, tiny black beak, pale white belly, and two pointed feather tufts like little horns (feathers, not demonic horns). Show one bird perched naturally on a small weathered dark branch, enlarged to fill a portrait card with its whole head and compact body visible, looking toward the viewer in an alert slightly unimpressed manner. Place the eyes around the upper third, leave generous headroom for the pointed feather tufts. Soft gold rim light separates black feathers from a quiet charcoal textured backdrop with a restrained crimson undertone. Canonical recognizable anime bird, clean detailed feather shapes, soft cel-shaded volume, natural bird anatomy. No human Secre, no person, no human face or hands, no clothes, no jewelry, no lettering, name, caption, frame, border, watermark, collage, extra bird, giant wings or transformed form. Full-bleed vertical 4:5.\n\nTARGETED CORRECTION PROMPT\n\nRefine ONLY the bird anatomy in this generated Nero portrait from Black Clover. Preserve the exact painterly anime rendering, dark charcoal textured background, antique-gold rim lighting, crimson undertone, current composition, branch, white belly, maroon-red eye mask, and grumpy half-lidded eyes. Correct the head silhouette: replace the two very tall crescent horns with SHORT small triangular feather nubs, and add just two fine errant strands/feathers sweeping backward from the head. Nero is a little rounded blue-black anti-bird, not an owl: smooth and simplify the shaggy cheek-beard feathers, keep the head compact and round, make the beak a small simple dark pointed bird beak. Keep both feet anatomically natural and small, with muted yellow talons gripping the branch. Preserve the single bird, the full-bleed vertical 4:5 canvas, and the rest of the image. Do not add a human, clothing, letters, frame, extra animal, giant wings, long horns, or a realistic owl.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "width": 1122,
+    "height": 1402,
+    "createdAt": "2026-09-06T16:48:27.625Z",
+    "sha256": "8f4a1c534522f02ebe5e01cfe00b5b1b2d54c199e55c710782203bfbf2ce4ca3",
+    "source": {
+      "format": "png",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "d7dabde71c945e2bb0f3e15399036cf4c77c1655427bbe9fd6e437c946586000"
+    },
+    "conversion": {
+      "tool": "ImageMagick",
+      "quality": 92,
+      "description": "Format conversion only; no resizing, cropping, or retouching. Full image dimensions and composition preserved."
+    }
+  }
+}
