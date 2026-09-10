@@ -765,10 +765,385 @@
         "record": "generation.json",
         "key": "sally"
       }
+    },
+    {
+      "key": "asta-timeskip",
+      "name": "Asta",
+      "filename": "asta-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "ec3c343b543a184f4976d6fd44989397688d8fe01c5bf37f72aa74b3b6066f3c",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "asta-timeskip"
+      }
+    },
+    {
+      "key": "charmy-timeskip",
+      "name": "Charmy Pappitson",
+      "filename": "charmy-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "b41959c04260304ac806e24233df717213c4b66212a7b4e5fb19f5442cb2f755",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "charmy-timeskip"
+      }
+    },
+    {
+      "key": "finral-timeskip",
+      "name": "Finral Roulacase",
+      "filename": "finral-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "faa05a6021cd6674aceceadba1bbf97a7f3cba93b7bda2f27aeaa45ca28f10ee",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "finral-timeskip"
+      }
+    },
+    {
+      "key": "floga",
+      "name": "Floga",
+      "filename": "floga-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/floga-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "1ac47136c9cdb3d823934498d098313dbcdd00b59e0d9613fb031b86aa4183fa",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "floga"
+      }
+    },
+    {
+      "key": "gadjah",
+      "name": "Gadjah",
+      "filename": "gadjah-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gadjah-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "4a15406a794205410a6930131bd884f741dc11d588cd95c547eba527389393e4",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "gadjah"
+      }
+    },
+    {
+      "key": "gauche-timeskip",
+      "name": "Gauche Adlai",
+      "filename": "gauche-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "739bb134bcb4ab8b7a023c558b417fb761ebef73ec40f2720e98727a674ca1e4",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "gauche-timeskip"
+      }
+    },
+    {
+      "key": "gordon-timeskip",
+      "name": "Gordon Agrippa",
+      "filename": "gordon-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f3217cc214f52e1a6cffdddf4a3b73e5436d5cea393580e867a1f7242b30457b",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "gordon-timeskip"
+      }
+    },
+    {
+      "key": "grey-timeskip",
+      "name": "Grey",
+      "filename": "grey-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "1c7653731964d779de6948bcd33d769dc8e48202b2e1a26f3879b89683e17b47",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "grey-timeskip"
+      }
+    },
+    {
+      "key": "grey-true",
+      "name": "Grey",
+      "filename": "grey-true-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-true-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "b242149f55c5fbf28cae365b93b01962b44f8fc6c3e0063312f2ff5f17ad7dd1",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "grey-true"
+      }
+    },
+    {
+      "key": "henry-timeskip",
+      "name": "Henry Legolant",
+      "filename": "henry-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8f437df1369d6a8ce72656c61ca2700de2f88a9ceea5a12cbfcbb1a1975dd6c3",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "henry-timeskip"
+      }
+    },
+    {
+      "key": "klaus-timeskip",
+      "name": "Klaus Lunettes",
+      "filename": "klaus-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "aadbf9630fd8193916380b3c2a4e1f0d94bfa1273a58a00b60588b0d79e0f909",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "klaus-timeskip"
+      }
+    },
+    {
+      "key": "leopold-timeskip",
+      "name": "Leopold Vermillion",
+      "filename": "leopold-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "fe31c082549cdca619b757e348d6cae18db49651f2796434d1a58da3ca2de3e3",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "leopold-timeskip"
+      }
+    },
+    {
+      "key": "lolopechka",
+      "name": "Lolopechka",
+      "filename": "lolopechka-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/lolopechka-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8408defd97f057e9a6ddb9da897b01633e6bb85f9bdd04e548f3978b8a2ce37f",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "lolopechka"
+      }
+    },
+    {
+      "key": "luck-timeskip",
+      "name": "Luck Voltia",
+      "filename": "luck-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "aa21c3c6c4b0348f6b7ddb86e5ec029a4f499b1a4cb388564929a6a7f5951706",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "luck-timeskip"
+      }
+    },
+    {
+      "key": "magna-timeskip",
+      "name": "Magna Swing",
+      "filename": "magna-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "1cea6e75af38965004df9c7a43f4d9e0099f8d543166a11e1995a44a03bb70cc",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "magna-timeskip"
+      }
+    },
+    {
+      "key": "mimosa-timeskip",
+      "name": "Mimosa Vermillion",
+      "filename": "mimosa-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "c93ce643b3353cd7d65c975147b6ade3682c4b04c0fc798d3f9f2672812528a1",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "mimosa-timeskip"
+      }
+    },
+    {
+      "key": "secre-human",
+      "name": "Secre Swallowtail",
+      "filename": "secre-human-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-human-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "f7dd49b1a1d191a9bb9fc66f10a700649fb5334297ccd67eca9f5e77395261dd",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "secre-human"
+      }
+    },
+    {
+      "key": "secre-timeskip",
+      "name": "Secre Swallowtail",
+      "filename": "secre-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "43d761d59c96fbd14c2e28c9c13b27a9f1f4fac7aca525eb7e80b86c477a56f3",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "secre-timeskip"
+      }
+    },
+    {
+      "key": "noelle-timeskip",
+      "name": "Noelle Silva",
+      "filename": "noelle-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "790b4479290e5620005e076adeb377b71ab2da0002d72ab0fe4de54c33872040",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "noelle-timeskip"
+      }
+    },
+    {
+      "key": "potrof",
+      "name": "Potrof",
+      "filename": "potrof-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/potrof-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "35cc46e9497dd7b89abd23916b5fb496854278da6fe4dacc0397ec17721b79a2",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "potrof"
+      }
+    },
+    {
+      "key": "sarado",
+      "name": "Sarado",
+      "filename": "sarado-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sarado-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "0050128d450f5ac7aed8a3b1e838922ded7f1606e2891bdc4b59636e241635d1",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "sarado"
+      }
+    },
+    {
+      "key": "smurik",
+      "name": "Smurik",
+      "filename": "smurik-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/smurik-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "4c9ffe3a983592335ccacc115d00b035c392192eeda31515d808eedf771b149b",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "smurik"
+      }
+    },
+    {
+      "key": "vanessa-timeskip",
+      "name": "Vanessa Enoteca",
+      "filename": "vanessa-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "c56bdbc4fa3b678c10054bf68c98d5b21ccbd15a24570e259eb05f33962a5955",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "vanessa-timeskip"
+      }
+    },
+    {
+      "key": "yuno-timeskip",
+      "name": "Yuno",
+      "filename": "yuno-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "57706164e0b2b99c898a0291df1413479757a6b8bee4fb83ba874be03b348d37",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "yuno-timeskip"
+      }
+    },
+    {
+      "key": "zora-timeskip",
+      "name": "Zora Ideale",
+      "filename": "zora-timeskip-favor.webp",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-timeskip-favor.webp",
+      "width": 1122,
+      "height": 1402,
+      "sha256": "0eb1ec73ac37ff2c1f35c41d59a5ec1c22b447ba5fedaee0d75a777c4227ee7f",
+      "provenance": {
+        "type": "ai-generated",
+        "tool": "OpenAI built-in image generation",
+        "record": "generation.json",
+        "key": "zora-timeskip"
+      }
     }
   ],
   "rosterFile": "roster.json",
-  "characterCount": 50,
+  "characterCount": 56,
   "expectedPortraits": [
     {
       "key": "asta",
@@ -1119,9 +1494,51 @@
       "filename": "sally-favor.webp",
       "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sally-favor.webp",
       "status": "available"
+    },
+    {
+      "key": "floga",
+      "name": "Floga",
+      "filename": "floga-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/floga-favor.webp",
+      "status": "available"
+    },
+    {
+      "key": "gadjah",
+      "name": "Gadjah",
+      "filename": "gadjah-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gadjah-favor.webp",
+      "status": "available"
+    },
+    {
+      "key": "lolopechka",
+      "name": "Lolopechka",
+      "filename": "lolopechka-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/lolopechka-favor.webp",
+      "status": "available"
+    },
+    {
+      "key": "potrof",
+      "name": "Potrof",
+      "filename": "potrof-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/potrof-favor.webp",
+      "status": "available"
+    },
+    {
+      "key": "sarado",
+      "name": "Sarado",
+      "filename": "sarado-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/sarado-favor.webp",
+      "status": "available"
+    },
+    {
+      "key": "smurik",
+      "name": "Smurik",
+      "filename": "smurik-favor.webp",
+      "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/smurik-favor.webp",
+      "status": "available"
     }
   ],
-  "availablePortraitCount": 50,
+  "availablePortraitCount": 56,
   "missingPortraitCount": 0,
   "forms": {
     "description": "Character-form portraits: alternate presentations the scenario shows once a reveal is filed or the Heart Kingdom timeskip has passed. Same filename template and image contract as the base portraits; the scenario falls back to the base portrait until a form image exists.",
@@ -1134,8 +1551,9 @@
         "form": "human",
         "filename": "secre-human-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-human-favor.webp",
-        "status": "missing",
-        "condition": "The narrator files Nero | form=human after the late elf-conflict revelation."
+        "status": "available",
+        "condition": "The narrator files Nero | form=human after the late elf-conflict revelation.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-human-favor.webp"
       },
       {
         "key": "grey-true",
@@ -1144,8 +1562,9 @@
         "form": "true",
         "filename": "grey-true-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-true-favor.webp",
-        "status": "missing",
-        "condition": "The narrator files Grey | form=true once her true appearance has been seen and understood."
+        "status": "available",
+        "condition": "The narrator files Grey | form=true once her true appearance has been seen and understood.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-true-favor.webp"
       },
       {
         "key": "asta-timeskip",
@@ -1154,8 +1573,9 @@
         "form": "trained",
         "filename": "asta-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-timeskip-favor.webp"
       },
       {
         "key": "noelle-timeskip",
@@ -1164,8 +1584,9 @@
         "form": "trained",
         "filename": "noelle-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-timeskip-favor.webp"
       },
       {
         "key": "mimosa-timeskip",
@@ -1174,8 +1595,9 @@
         "form": "trained",
         "filename": "mimosa-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-timeskip-favor.webp"
       },
       {
         "key": "leopold-timeskip",
@@ -1184,8 +1606,9 @@
         "form": "trained",
         "filename": "leopold-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-timeskip-favor.webp"
       },
       {
         "key": "luck-timeskip",
@@ -1194,8 +1617,9 @@
         "form": "trained",
         "filename": "luck-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-timeskip-favor.webp"
       },
       {
         "key": "finral-timeskip",
@@ -1204,8 +1628,9 @@
         "form": "trained",
         "filename": "finral-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-timeskip-favor.webp"
       },
       {
         "key": "yuno-timeskip",
@@ -1214,8 +1639,9 @@
         "form": "trained",
         "filename": "yuno-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-timeskip-favor.webp"
       },
       {
         "key": "klaus-timeskip",
@@ -1224,8 +1650,9 @@
         "form": "trained",
         "filename": "klaus-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-timeskip-favor.webp"
       },
       {
         "key": "magna-timeskip",
@@ -1234,8 +1661,9 @@
         "form": "trained",
         "filename": "magna-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-timeskip-favor.webp"
       },
       {
         "key": "zora-timeskip",
@@ -1244,8 +1672,9 @@
         "form": "trained",
         "filename": "zora-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-timeskip-favor.webp"
       },
       {
         "key": "charmy-timeskip",
@@ -1254,8 +1683,9 @@
         "form": "trained",
         "filename": "charmy-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-timeskip-favor.webp"
       },
       {
         "key": "vanessa-timeskip",
@@ -1264,8 +1694,9 @@
         "form": "trained",
         "filename": "vanessa-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-timeskip-favor.webp"
       },
       {
         "key": "gauche-timeskip",
@@ -1274,8 +1705,9 @@
         "form": "trained",
         "filename": "gauche-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-timeskip-favor.webp"
       },
       {
         "key": "gordon-timeskip",
@@ -1284,8 +1716,9 @@
         "form": "trained",
         "filename": "gordon-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-timeskip-favor.webp"
       },
       {
         "key": "henry-timeskip",
@@ -1294,8 +1727,9 @@
         "form": "trained",
         "filename": "henry-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-timeskip-favor.webp"
       },
       {
         "key": "grey-timeskip",
@@ -1304,8 +1738,9 @@
         "form": "trained",
         "filename": "grey-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-timeskip-favor.webp"
       },
       {
         "key": "secre-timeskip",
@@ -1314,12 +1749,14 @@
         "form": "trained",
         "filename": "secre-timeskip-favor.webp",
         "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-timeskip-favor.webp",
-        "status": "missing",
-        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+        "status": "available",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed.",
+        "url": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-timeskip-favor.webp"
       }
     ],
     "expectedCount": 19,
-    "availableCount": 0,
-    "missingCount": 19
-  }
+    "availableCount": 19,
+    "missingCount": 0
+  },
+  "totalAvailablePortraitCount": 75
 }

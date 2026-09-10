@@ -869,5 +869,83 @@
     "deep": "Curiosity can consume her attention until she treats people as puzzles instead of participants. An interesting result may motivate her, but reliable cooperation requires boundaries she actually observes rather than merely agrees to.",
     "profile": "Sally is an inventive Gel Magic user whose enthusiasm for experimentation exceeds her concern for conventional restraint. Her interest in unfamiliar abilities brings her into the Eye of the Midnight Sun's work and makes Asta an especially tempting subject.",
     "availability": "Introduce through the early Eye conflict; hostile research and later negotiated cooperation must not be flattened into an automatic friendly laboratory visit."
+  },
+  {
+    "key": "floga",
+    "name": "Floga",
+    "aliases": [
+      "Floga"
+    ],
+    "group": "Heart Kingdom",
+    "glyph": "FL",
+    "color": "#8a3a2a",
+    "tag": "Fire Magic · Spirit Guardian",
+    "profile": "Floga is a Spirit Guardian of the Heart Kingdom and a Fire Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. He is assigned to train Leopold Vermillion once the alliance between the two kingdoms is formalized.",
+    "availability": "Introduced once the alliance between the Clover and Heart Kingdoms is sealed and the Spirit Guardians begin training Magic Knights."
+  },
+  {
+    "key": "gadjah",
+    "name": "Gadjah",
+    "aliases": [
+      "Gadjah"
+    ],
+    "group": "Heart Kingdom",
+    "glyph": "GA",
+    "color": "#5b4a73",
+    "tag": "Lightning Magic · Spirit Guardian",
+    "profile": "Gadjah is a Spirit Guardian of the Heart Kingdom, a Lightning Magic user and one of its five Stage Zero-ranked mages. He serves as escort and protector for visiting Magic Knights, and personally trains Luck Voltia once the alliance with the Heart Kingdom is formalized.",
+    "availability": "Introduced as the escort for the first Clover delegation to the Heart Kingdom; he trains Luck Voltia in the Heart Kingdom's technique once the alliance is sealed."
+  },
+  {
+    "key": "lolopechka",
+    "name": "Lolopechka",
+    "aliases": [
+      "Lolopechka"
+    ],
+    "group": "Heart Kingdom",
+    "glyph": "LO",
+    "color": "#4a7a96",
+    "tag": "Water Magic · Princess of the Heart Kingdom",
+    "profile": "Lolopechka is the princess and ruler of the Heart Kingdom and the priestess of Undine, its spirit of water. She commits her kingdom's aid to the Clover Kingdom against the Spade threat, even while carrying a curse from the devil Megicula that she keeps from most of the people around her.",
+    "availability": "Introduced when a Clover delegation first travels to the Heart Kingdom for the alliance; her curse and its full danger are not common knowledge before that point."
+  },
+  {
+    "key": "potrof",
+    "name": "Potrof",
+    "aliases": [
+      "Potrof"
+    ],
+    "group": "Heart Kingdom",
+    "glyph": "PO",
+    "color": "#5c7a4a",
+    "tag": "Plant Magic · Spirit Guardian",
+    "profile": "Potrof is a Spirit Guardian of the Heart Kingdom and a Plant Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. He trains both Charmy Pappitson and Rill Boismortier, and takes personal responsibility for what that training makes them capable of.",
+    "availability": "Introduced once the alliance between the Clover and Heart Kingdoms is sealed and the Spirit Guardians begin training Magic Knights."
+  },
+  {
+    "key": "sarado",
+    "name": "Sarado",
+    "aliases": [
+      "Sarado"
+    ],
+    "group": "Heart Kingdom",
+    "glyph": "SA",
+    "color": "#6b5a3f",
+    "tag": "Earth Magic · Spirit Guardian",
+    "profile": "Sarado is a Spirit Guardian of the Heart Kingdom and an Earth Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. She trains alongside the Heart Kingdom's other Guardians once the Clover Kingdom's Magic Knights arrive to learn from them.",
+    "availability": "Introduced once the alliance between the Clover and Heart Kingdoms is sealed and the Spirit Guardians begin training Magic Knights."
+  },
+  {
+    "key": "smurik",
+    "name": "Smurik",
+    "aliases": [
+      "Smurik"
+    ],
+    "group": "Heart Kingdom",
+    "glyph": "SM",
+    "color": "#7a8a7a",
+    "tag": "Wind Magic · Spirit Guardian",
+    "profile": "Smurik is a Spirit Guardian of the Heart Kingdom and a Wind Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. He takes part in training the Magic Knights Clover sends once the alliance is formalized.",
+    "availability": "Introduced once the alliance between the Clover and Heart Kingdoms is sealed and the Spirit Guardians begin training Magic Knights."
   }
 ]

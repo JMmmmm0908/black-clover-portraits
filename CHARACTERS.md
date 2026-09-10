@@ -1,6 +1,6 @@
 # Black Clover — character roster
 
-50 characters using the character and relationship structure of the supplied My Hero Academia scenario. Each has aliases, personality and rapport notes, a keyword-activated lore profile, and three relationship scores. The current black, gold, parchment, and crimson interface is preserved.
+56 characters using the character and relationship structure of the supplied My Hero Academia scenario. Each has aliases, personality and rapport notes, a keyword-activated lore profile, and three relationship scores. The current black, gold, parchment, and crimson interface is preserved.
 
 Characters appear in Bonds only after an established encounter. Existing custom contacts remain supported. Starting scores of zero do not imply a meeting or a recorded bond.
 
@@ -367,7 +367,7 @@ The structured references are also available in [character-sources.json](charact
 
 Original roleplay profiles based on canon. Unlock and deep fields are authored interaction guidance, not quoted official character text. Availability is a chronology/knowledge guard, not a new assertion that every character is met at the entrance examination. Full-name aliases aid lookup and must not be displayed as a revelation.
 
-Portrait files are not supplied. Expected image URLs are listed separately in manifest.json and marked missing until an image is uploaded. The current official anime pages describe later story states; this roster intentionally keeps opening identities and powers narrower. Gordon uses a conservative curse-studies tag because the official anime profile labels his attribute as curse magic; no later family or healing reveal is exposed. Father Orsi and Rebecca have civilian-role tags because the consulted primary pages do not establish a personal magic attribute. Human Fana is distinct from elf Fana; the dedicated Shueisha human-Fana profile establishes the separate identity, and this record is gated to her recovery with explicit display-name aliases. Nero remains the public display name for Secre; card tag/unlock/deep remain bird-only, while the lore-only profile includes a clearly conditional identity and Sealing Magic reference after the late elf-conflict revelation. Scale Magic is a baseline Damnatio attribute; the cited Shueisha biography establishes office and disposition, while the manga/anime depicts the attribute.
+All 56 base portrait files and 19 alternate forms are supplied. Image URLs and availability are recorded in manifest.json. The current official anime pages describe later story states; this roster intentionally keeps opening identities and powers narrower. Gordon uses a conservative curse-studies tag because the official anime profile labels his attribute as curse magic; no later family or healing reveal is exposed. Father Orsi and Rebecca have civilian-role tags because the consulted primary pages do not establish a personal magic attribute. Human Fana is distinct from elf Fana; the dedicated Shueisha human-Fana profile establishes the separate identity, and this record is gated to her recovery with explicit display-name aliases. Nero remains the public display name for Secre; card tag/unlock/deep remain bird-only, while the lore-only profile includes a clearly conditional identity and Sealing Magic reference after the late elf-conflict revelation. Scale Magic is a baseline Damnatio attribute; the cited Shueisha biography establishes office and disposition, while the manga/anime depicts the attribute.
 
 - Asta: [Source 1](https://bclover.jp/character/asta.php)
 - Noelle Silva: [Source 1](https://bclover.jp/character/noelle.php)
@@ -448,3 +448,41 @@ Alternate presentations the scenario shows once a reveal is filed or the Heart K
 | Henry Legolant | trained | henry-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
 | Grey | trained | grey-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
 | Secre Swallowtail | trained | secre-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+
+## Heart Kingdom additions
+
+### Floga
+
+Portrait: [floga-favor.webp](floga-favor.webp)
+
+Floga is a Spirit Guardian of the Heart Kingdom and a Fire Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. He is assigned to train Leopold Vermillion once the alliance between the two kingdoms is formalized.
+
+### Gadjah
+
+Portrait: [gadjah-favor.webp](gadjah-favor.webp)
+
+Gadjah is a Spirit Guardian of the Heart Kingdom, a Lightning Magic user and one of its five Stage Zero-ranked mages. He serves as escort and protector for visiting Magic Knights, and personally trains Luck Voltia once the alliance with the Heart Kingdom is formalized.
+
+### Lolopechka
+
+Portrait: [lolopechka-favor.webp](lolopechka-favor.webp)
+
+Lolopechka is the princess and ruler of the Heart Kingdom and the priestess of Undine, its spirit of water. She commits her kingdom's aid to the Clover Kingdom against the Spade threat, even while carrying a curse from the devil Megicula that she keeps from most of the people around her.
+
+### Potrof
+
+Portrait: [potrof-favor.webp](potrof-favor.webp)
+
+Potrof is a Spirit Guardian of the Heart Kingdom and a Plant Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. He trains both Charmy Pappitson and Rill Boismortier, and takes personal responsibility for what that training makes them capable of.
+
+### Sarado
+
+Portrait: [sarado-favor.webp](sarado-favor.webp)
+
+Sarado is a Spirit Guardian of the Heart Kingdom and an Earth Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. She trains alongside the Heart Kingdom's other Guardians once the Clover Kingdom's Magic Knights arrive to learn from them.
+
+### Smurik
+
+Portrait: [smurik-favor.webp](smurik-favor.webp)
+
+Smurik is a Spirit Guardian of the Heart Kingdom and a Wind Magic user, one of its five Stage Zero-ranked mages who can call on the country's natural mana. He takes part in training the Magic Knights Clover sends once the alliance is formalized.

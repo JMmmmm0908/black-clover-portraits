@@ -1,6 +1,6 @@
 # Black Clover portrait gallery
 
-**50 of 50 base portraits · 0 remaining. 0 of 19 character-form portraits uploaded.**
+**56 of 56 base portraits · 19 of 19 character-form portraits available · 75 total.**
 
 Original portraits made with the built-in image generation tool. [Prompts and image records](generation.json) · [Character roster](CHARACTERS.md)
 
@@ -143,9 +143,9 @@ Original portraits made with the built-in image generation tool. [Prompts and im
 |---|---|---|
 | [<img src="licht-favor.webp" alt="Licht (elf leader) portrait" width="220">](licht-favor.webp) |   |   |
 
-## Character forms (pending)
+## Character forms
 
-Nineteen form portraits are expected but not yet uploaded. Each renders here once its file lands at the root.
+All nineteen form portraits are available. Previews appear below.
 
 | File | Character |
 |---|---|
@@ -168,3 +168,33 @@ Nineteen form portraits are expected but not yet uploaded. Each renders here onc
 | henry-timeskip-favor.webp | Henry Legolant (trained) |
 | grey-timeskip-favor.webp | Grey (trained) |
 | secre-timeskip-favor.webp | Secre Swallowtail (trained) |
+
+## New character forms and Heart Kingdom portraits
+
+| Character / form | Portrait |
+|---|---|
+| Asta — trained | ![asta-timeskip](asta-timeskip-favor.webp) |
+| Charmy Pappitson — trained | ![charmy-timeskip](charmy-timeskip-favor.webp) |
+| Finral Roulacase — trained | ![finral-timeskip](finral-timeskip-favor.webp) |
+| Floga — Base | ![floga](floga-favor.webp) |
+| Gadjah — Base | ![gadjah](gadjah-favor.webp) |
+| Gauche Adlai — trained | ![gauche-timeskip](gauche-timeskip-favor.webp) |
+| Gordon Agrippa — trained | ![gordon-timeskip](gordon-timeskip-favor.webp) |
+| Grey — trained | ![grey-timeskip](grey-timeskip-favor.webp) |
+| Grey — true | ![grey-true](grey-true-favor.webp) |
+| Henry Legolant — trained | ![henry-timeskip](henry-timeskip-favor.webp) |
+| Klaus Lunettes — trained | ![klaus-timeskip](klaus-timeskip-favor.webp) |
+| Leopold Vermillion — trained | ![leopold-timeskip](leopold-timeskip-favor.webp) |
+| Lolopechka — Base | ![lolopechka](lolopechka-favor.webp) |
+| Luck Voltia — trained | ![luck-timeskip](luck-timeskip-favor.webp) |
+| Magna Swing — trained | ![magna-timeskip](magna-timeskip-favor.webp) |
+| Mimosa Vermillion — trained | ![mimosa-timeskip](mimosa-timeskip-favor.webp) |
+| Secre Swallowtail — human | ![secre-human](secre-human-favor.webp) |
+| Secre Swallowtail — trained | ![secre-timeskip](secre-timeskip-favor.webp) |
+| Noelle Silva — trained | ![noelle-timeskip](noelle-timeskip-favor.webp) |
+| Potrof — Base | ![potrof](potrof-favor.webp) |
+| Sarado — Base | ![sarado](sarado-favor.webp) |
+| Smurik — Base | ![smurik](smurik-favor.webp) |
+| Vanessa Enoteca — trained | ![vanessa-timeskip](vanessa-timeskip-favor.webp) |
+| Yuno — trained | ![yuno-timeskip](yuno-timeskip-favor.webp) |
+| Zora Ideale — trained | ![zora-timeskip](zora-timeskip-favor.webp) |

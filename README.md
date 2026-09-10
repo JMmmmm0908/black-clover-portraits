@@ -2,20 +2,20 @@
 
 Character data and portrait assets for **Black Clover: The Living Grimoire**, a Yumina roleplay scenario.
 
-**50 characters registered · 50 portrait images uploaded · 0 images missing · 19 character-form portraits expected, 0 uploaded.**
+**56 characters registered · 56 base portraits and 19 character-form portraits available · 75 images total · 0 images missing.**
 
 ## Contents
 
 | File | Contents |
 |---|---|
-| [GALLERY.md](GALLERY.md) | Browse all 50 available portraits by character group. |
-| [roster.json](roster.json) | The 50 characters: stable keys, names, aliases, affiliations, glyphs, colors, personality and rapport notes, and story availability guidance. |
+| [GALLERY.md](GALLERY.md) | Browse all 75 available portraits by character group. |
+| [roster.json](roster.json) | The 56 characters: stable keys, names, aliases, affiliations, glyphs, colors, personality and rapport notes, and story availability guidance. |
 | [CHARACTERS.md](CHARACTERS.md) | Readable character list, exact image filenames, profile notes, and research links. |
-| [manifest.json](manifest.json) | Image format contract, the 50 expected files and their availability status, and the index of uploaded portraits. |
+| [manifest.json](manifest.json) | Image format contract, the 56 expected base files and their availability status, and the index of uploaded portraits. |
 | [character-sources.json](character-sources.json) | Canon references used for the written character profiles. These are not portrait image provenance. |
 | [generation.json](generation.json) | Generation prompts, image dimensions and hashes, and format conversion records for the AI-generated portraits. |
 
-The roster covers the Black Bulls, Golden Dawn, other squad captains, Clover Kingdom allies, people of Hage, and selected rivals. It matches the 50-character scenario update, which adds 150 trust, respect, and attachment fields while retaining the black, antique gold, parchment, and crimson interface.
+The roster covers the Black Bulls, Golden Dawn, other squad captains, Clover Kingdom allies, people of Hage, and selected rivals. It includes the six Heart Kingdom additions: Gadjah, Lolopechka, Floga, Smurik, Potrof, and Sarado.
 
 The scenario reveals contacts in Bonds after an established encounter. Roster membership and default scores do not imply a meeting. Custom contacts remain supported.
 
@@ -52,7 +52,7 @@ The scenario now shows some characters differently later: three reveals (Nero as
 <key>-<form>-favor.webp
 ```
 
-The nineteen expected files, their conditions and their prompts are listed under `forms` in [manifest.json](manifest.json) and as `pending` entries in [generation.json](generation.json). Until a file exists the scenario shows the previous face (a missing `secre-timeskip` shows `secre-human`, a missing `secre-human` shows the bird), never initials.
+The nineteen expected files, their conditions and their prompts are listed under `forms` in [manifest.json](manifest.json) and as completed entries in [generation.json](generation.json). Until a file exists the scenario shows the previous face (a missing `secre-timeskip` shows `secre-human`, a missing `secre-human` shows the bird), never initials.
 
 | File | Character | Shown when |
 |---|---|---|
@@ -84,7 +84,7 @@ The nineteen expected files, their conditions and their prompts are listed under
 4. Update the available/missing counts in the manifest and this README.
 5. For a character-form image, do the same under `forms` in the manifest, and replace the `pending` status in its `generation.json` entry with the image's dimensions, hashes and conversion record.
 
-The `portraits` array contains uploaded images only and currently contains 50 images. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
+The `portraits` array contains uploaded images only and currently contains 75 images. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
 
 ## Scenario connection
 
@@ -108,3 +108,7 @@ This repository stays public so those unauthenticated image requests can work. T
 - Story availability fields are narrative guidance, not an automatic timeline or an encounter unlock.
 
 The profiles use the character-data structure of the supplied My Hero Academia scenario as a reference, with original Black Clover character prose. See [character-sources.json](character-sources.json) for canon references; rapport notes are authored roleplay guidance.
+
+## September 2026 portrait update
+
+Added the 19 registered alternate forms and six Heart Kingdom portraits following user review. Both Secre human portraits use the requested clean under-eye appearance. The 50 earlier images are unchanged; their separate accuracy audit identified further corrections, which are not included in this upload. All images are AI-generated fan art, not official anime artwork.
