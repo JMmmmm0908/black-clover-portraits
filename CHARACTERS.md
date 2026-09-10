@@ -4,7 +4,7 @@
 
 Characters appear in Bonds only after an established encounter. Existing custom contacts remain supported. Starting scores of zero do not imply a meeting or a recorded bond.
 
-Portraits are linked to the existing Black Clover repository using `<key>-favor.webp`. This update adds character definitions and expected image paths; it does not add portrait images. Missing images fall back to initials.
+Portraits are linked to the existing Black Clover repository using `<key>-favor.webp`. Character forms (reveals and the post-timeskip look) use `<key>-<form>-favor.webp`; see the table at the end. A missing form image falls back to the previous face; a missing base image falls back to initials.
 
 | Character | Group | Portrait filename |
 |---|---|---|
@@ -422,3 +422,29 @@ Portrait files are not supplied. Expected image URLs are listed separately in ma
 - [Kaiser succeeds Gueldre; defensive role.](https://www.shonenjump.com/j/sp_bclover/character/chara069.html)
 - [Rebecca family context and Nean events.](https://bclover.jp/season1/story/detail.php?id=1000385)
 - [Witch Forest and Star Awards story sequence.](https://sp.shonenjump.com/j/rensai/_list/bclover/index_3.html)
+
+## Character-form portraits
+
+Alternate presentations the scenario shows once a reveal is filed or the Heart Kingdom timeskip has passed. Same 512 × 640 WebP contract. Patry's reveal changes only his name and tag, so it needs no file.
+
+| Character | Form | Portrait filename | Shown when |
+|---|---|---|---|
+| Secre Swallowtail | human | secre-human-favor.webp | The narrator files Nero \| form=human after the late elf-conflict revelation. |
+| Grey | true | grey-true-favor.webp | The narrator files Grey \| form=true once her true appearance has been seen and understood. |
+| Asta | trained | asta-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Noelle Silva | trained | noelle-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Mimosa Vermillion | trained | mimosa-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Leopold Vermillion | trained | leopold-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Luck Voltia | trained | luck-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Finral Roulacase | trained | finral-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Yuno | trained | yuno-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Klaus Lunettes | trained | klaus-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Magna Swing | trained | magna-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Zora Ideale | trained | zora-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Charmy Pappitson | trained | charmy-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Vanessa Enoteca | trained | vanessa-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Gauche Adlai | trained | gauche-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Gordon Agrippa | trained | gordon-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Henry Legolant | trained | henry-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Grey | trained | grey-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| Secre Swallowtail | trained | secre-timeskip-favor.webp | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |

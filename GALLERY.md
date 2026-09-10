@@ -1,6 +1,6 @@
 # Black Clover portrait gallery
 
-**50 of 50 portraits · 0 remaining.**
+**50 of 50 base portraits · 0 remaining. 0 of 19 character-form portraits uploaded.**
 
 Original portraits made with the built-in image generation tool. [Prompts and image records](generation.json) · [Character roster](CHARACTERS.md)
 
@@ -142,3 +142,29 @@ Original portraits made with the built-in image generation tool. [Prompts and im
 | Licht (elf leader) |   |   |
 |---|---|---|
 | [<img src="licht-favor.webp" alt="Licht (elf leader) portrait" width="220">](licht-favor.webp) |   |   |
+
+## Character forms (pending)
+
+Nineteen form portraits are expected but not yet uploaded. Each renders here once its file lands at the root.
+
+| File | Character |
+|---|---|
+| secre-human-favor.webp | Secre Swallowtail (human) |
+| grey-true-favor.webp | Grey (true) |
+| asta-timeskip-favor.webp | Asta (trained) |
+| noelle-timeskip-favor.webp | Noelle Silva (trained) |
+| mimosa-timeskip-favor.webp | Mimosa Vermillion (trained) |
+| leopold-timeskip-favor.webp | Leopold Vermillion (trained) |
+| luck-timeskip-favor.webp | Luck Voltia (trained) |
+| finral-timeskip-favor.webp | Finral Roulacase (trained) |
+| yuno-timeskip-favor.webp | Yuno (trained) |
+| klaus-timeskip-favor.webp | Klaus Lunettes (trained) |
+| magna-timeskip-favor.webp | Magna Swing (trained) |
+| zora-timeskip-favor.webp | Zora Ideale (trained) |
+| charmy-timeskip-favor.webp | Charmy Pappitson (trained) |
+| vanessa-timeskip-favor.webp | Vanessa Enoteca (trained) |
+| gauche-timeskip-favor.webp | Gauche Adlai (trained) |
+| gordon-timeskip-favor.webp | Gordon Agrippa (trained) |
+| henry-timeskip-favor.webp | Henry Legolant (trained) |
+| grey-timeskip-favor.webp | Grey (trained) |
+| secre-timeskip-favor.webp | Secre Swallowtail (trained) |

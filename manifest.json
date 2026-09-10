@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "title": "Black Clover: The Second Grimoire — Portraits",
+  "title": "Black Clover: The Living Grimoire — Portraits",
   "repository": "https://github.com/JMmmmm0908/black-clover-portraits",
   "baseUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/",
   "filenameTemplate": "{key}-favor.webp",
@@ -1122,5 +1122,204 @@
     }
   ],
   "availablePortraitCount": 50,
-  "missingPortraitCount": 0
+  "missingPortraitCount": 0,
+  "forms": {
+    "description": "Character-form portraits: alternate presentations the scenario shows once a reveal is filed or the Heart Kingdom timeskip has passed. Same filename template and image contract as the base portraits; the scenario falls back to the base portrait until a form image exists.",
+    "filenameTemplate": "{formKey}-favor.webp",
+    "expectedPortraits": [
+      {
+        "key": "secre-human",
+        "character": "secre",
+        "name": "Secre Swallowtail",
+        "form": "human",
+        "filename": "secre-human-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-human-favor.webp",
+        "status": "missing",
+        "condition": "The narrator files Nero | form=human after the late elf-conflict revelation."
+      },
+      {
+        "key": "grey-true",
+        "character": "grey",
+        "name": "Grey",
+        "form": "true",
+        "filename": "grey-true-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-true-favor.webp",
+        "status": "missing",
+        "condition": "The narrator files Grey | form=true once her true appearance has been seen and understood."
+      },
+      {
+        "key": "asta-timeskip",
+        "character": "asta",
+        "name": "Asta",
+        "form": "trained",
+        "filename": "asta-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/asta-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "noelle-timeskip",
+        "character": "noelle",
+        "name": "Noelle Silva",
+        "form": "trained",
+        "filename": "noelle-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/noelle-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "mimosa-timeskip",
+        "character": "mimosa",
+        "name": "Mimosa Vermillion",
+        "form": "trained",
+        "filename": "mimosa-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/mimosa-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "leopold-timeskip",
+        "character": "leopold",
+        "name": "Leopold Vermillion",
+        "form": "trained",
+        "filename": "leopold-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/leopold-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "luck-timeskip",
+        "character": "luck",
+        "name": "Luck Voltia",
+        "form": "trained",
+        "filename": "luck-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/luck-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "finral-timeskip",
+        "character": "finral",
+        "name": "Finral Roulacase",
+        "form": "trained",
+        "filename": "finral-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/finral-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "yuno-timeskip",
+        "character": "yuno",
+        "name": "Yuno",
+        "form": "trained",
+        "filename": "yuno-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/yuno-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "klaus-timeskip",
+        "character": "klaus",
+        "name": "Klaus Lunettes",
+        "form": "trained",
+        "filename": "klaus-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/klaus-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "magna-timeskip",
+        "character": "magna",
+        "name": "Magna Swing",
+        "form": "trained",
+        "filename": "magna-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/magna-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "zora-timeskip",
+        "character": "zora",
+        "name": "Zora Ideale",
+        "form": "trained",
+        "filename": "zora-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/zora-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "charmy-timeskip",
+        "character": "charmy",
+        "name": "Charmy Pappitson",
+        "form": "trained",
+        "filename": "charmy-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/charmy-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "vanessa-timeskip",
+        "character": "vanessa",
+        "name": "Vanessa Enoteca",
+        "form": "trained",
+        "filename": "vanessa-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/vanessa-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "gauche-timeskip",
+        "character": "gauche",
+        "name": "Gauche Adlai",
+        "form": "trained",
+        "filename": "gauche-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gauche-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "gordon-timeskip",
+        "character": "gordon",
+        "name": "Gordon Agrippa",
+        "form": "trained",
+        "filename": "gordon-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/gordon-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "henry-timeskip",
+        "character": "henry",
+        "name": "Henry Legolant",
+        "form": "trained",
+        "filename": "henry-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/henry-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "grey-timeskip",
+        "character": "grey",
+        "name": "Grey",
+        "form": "trained",
+        "filename": "grey-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/grey-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      },
+      {
+        "key": "secre-timeskip",
+        "character": "secre",
+        "name": "Secre Swallowtail",
+        "form": "trained",
+        "filename": "secre-timeskip-favor.webp",
+        "expectedUrl": "https://raw.githubusercontent.com/JMmmmm0908/black-clover-portraits/main/secre-timeskip-favor.webp",
+        "status": "missing",
+        "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+      }
+    ],
+    "expectedCount": 19,
+    "availableCount": 0,
+    "missingCount": 19
+  }
 }

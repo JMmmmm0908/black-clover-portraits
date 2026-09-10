@@ -1019,5 +1019,214 @@
         "sha256": "e547161edf744cc1cc6d503bac8753d4cdcae8047909c7ca3d397c7eb373845b"
       }
     ]
+  },
+  "secre-human": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Secre Swallowtail, Nero's true human form: a small, slight young woman with straight black hair, dark red eyes, pale skin, and two small dark horns rising from her head (her own sealed-off magic, not demonic). Calm, plain, faintly wary expression, lips closed. Dark simple high-collared dress with the Black Bulls mantle. No bird, no wings, no feathers.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "secre",
+      "form": "human",
+      "condition": "The narrator files Nero | form=human after the late elf-conflict revelation."
+    }
+  },
+  "grey-true": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Grey's TRUE appearance: a slight, shy young woman with short pale blue hair, large light eyes and a soft round face, blushing and stammering, shoulders drawn in bashfully. Modest loose dark clothing with the Black Bulls mantle. Do NOT show the enormous transformed man from the base portrait, no transformation effect, no second figure.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "grey",
+      "form": "true",
+      "condition": "The narrator files Grey | form=true once her true appearance has been seen and understood."
+    }
+  },
+  "asta-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Asta: spiked ash-silver hair, green eyes, black headband with its red mark, Black Bulls mantle; a faint black tinge creeping up one shoulder is allowed but no demon form, no horns, no wings. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "asta",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "noelle-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Noelle Silva: long silver twin tails, violet eyes, the Black Bulls mantle over a refined white-and-lavender outfit; proud, composed, a queen's calm rather than the earlier guardedness. No Valkyrie armour, no water effects. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "noelle",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "mimosa-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Mimosa Vermillion: short wavy orange hair, warm brown eyes, the Golden Dawn mantle over a white-and-green dress; gentle, steady, quietly authoritative. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "mimosa",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "leopold-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Leopold Vermillion: spiked red hair, green eyes, the Crimson Lion Kings mantle; the wild grin settled into a focused, confident look. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "leopold",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "luck-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Luck Voltia: short spiky pale blond hair, bright blue eyes, the Black Bulls mantle; the same delighted grin, sharper and more knowing. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "luck",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "finral-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Finral Roulacase: brown hair with the side fringe, hazel eyes, the Black Bulls mantle over his dark outfit; an easy smile with new resolve behind it. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "finral",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "yuno-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Yuno: dark hair with the loose fringe, gold eyes, the Golden Dawn mantle; the small wind spirit Sylph may sit at his shoulder. Poised, unreadable, unmistakably stronger. No full Spirit Dive glow. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "yuno",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "klaus-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Klaus Lunettes: neat blue hair, glasses, the Golden Dawn mantle; upright and formal, a hint of pride softened into respect. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "klaus",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "magna-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Magna Swing: black pompadour, sunglasses pushed up, the Black Bulls mantle; a grin with gritted determination behind it. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "magna",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "zora-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Zora Ideale: spiky crimson hair, sharp eyes with the mask pushed up, the Black Bulls mantle; sardonic, tired, watchful. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "zora",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "charmy-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Charmy Pappitson: short black hair, large dark eyes, small stature, the Black Bulls mantle; cheerful and satisfied, a hint of wolfish sharpness in the smile. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "charmy",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "vanessa-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Vanessa Enoteca: long pink hair, half-lidded knowing eyes, the Black Bulls mantle over a modest dark outfit, fully covered; relaxed, warm, a little wiser. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "vanessa",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "gauche-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Gauche Adlai: dark hair, sharp eyes, the small mirror-shaped mark, the Black Bulls mantle; stern, but with a softness he would deny. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "gauche",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "gordon-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Gordon Agrippa: long dark hair over one eye, pale gothic features, the Black Bulls mantle; quiet, gentle, faintly hopeful. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "gordon",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "henry-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Henry Legolant: long pale hair, a thin, gentle, slightly gaunt face with kind eyes, the Black Bulls mantle; serene and a little more colour in his cheeks than before. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "henry",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "grey-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Grey in her TRUE appearance (see grey-true): short pale blue hair, large light eyes, shy posture, the Black Bulls mantle; six months on, still bashful but meeting the viewer's eye. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "grey",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
+  },
+  "secre-timeskip": {
+    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. Match the repository's existing portraits: clean expressive ink lines, rich cel shading with a subtle painterly finish, dark charcoal grimoire-textured backdrop, restrained antique-gold rim light, faint deep-crimson undertone and warm parchment light on skin. Vertical full-bleed 4:5 composition, close head-and-shoulders framing, single subject, entire hair silhouette in frame with headroom, eyes near the upper third, face readable at thumbnail size. Fully clothed. No text, name, letters, UI, border, collage, watermark, other characters or photorealism.\nSubject: Secre Swallowtail in human form (see secre-human): straight black hair, dark red eyes, two small dark horns, the Black Bulls mantle; six months on, the same plain calm with a little more warmth. This is the character AFTER the six months of Heart Kingdom training: the same canonical face, hair and eye colours, read as six months older and steadier - a little leaner in the face, a calmer more certain gaze, hair and costume slightly refined but unmistakably the same person. Keep the same squad mantle and colours as the base portrait so the two read as one character.",
+    "tool": "OpenAI built-in image generation",
+    "format": "webp",
+    "status": "pending",
+    "form": {
+      "character": "secre",
+      "form": "trained",
+      "condition": "The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed."
+    }
   }
 }

@@ -1,8 +1,8 @@
 # Black Clover portraits
 
-Character data and portrait assets for **Black Clover: The Second Grimoire**, a Yumina roleplay scenario.
+Character data and portrait assets for **Black Clover: The Living Grimoire**, a Yumina roleplay scenario.
 
-**50 characters registered · 50 portrait images uploaded · 0 images missing.**
+**50 characters registered · 50 portrait images uploaded · 0 images missing · 19 character-form portraits expected, 0 uploaded.**
 
 ## Contents
 
@@ -44,12 +44,45 @@ Recommended image format is **512 × 640 WebP (4:5)**, with the face around the 
 
 The portraits retain their generated resolution (approximately 4:5). They use a shared charcoal, gold, and crimson atmosphere with parchment lighting. Exact prompts, corrections, dimensions and hashes are recorded in [generation.json](generation.json).
 
+## Character-form portraits
+
+The scenario now shows some characters differently later: three reveals (Nero as Secre Swallowtail, Grey's true appearance, the Eye's "Licht" as Patry — Patry keeps his base portrait) and the post-timeskip look of the cast who trained in the Heart Kingdom. Each form has its own file at the root, same contract as the base portraits:
+
+```text
+<key>-<form>-favor.webp
+```
+
+The nineteen expected files, their conditions and their prompts are listed under `forms` in [manifest.json](manifest.json) and as `pending` entries in [generation.json](generation.json). Until a file exists the scenario shows the previous face (a missing `secre-timeskip` shows `secre-human`, a missing `secre-human` shows the bird), never initials.
+
+| File | Character | Shown when |
+|---|---|---|
+| `secre-human-favor.webp` | Secre Swallowtail | The narrator files Nero \| form=human after the late elf-conflict revelation. |
+| `grey-true-favor.webp` | Grey | The narrator files Grey \| form=true once her true appearance has been seen and understood. |
+| `asta-timeskip-favor.webp` | Asta | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `noelle-timeskip-favor.webp` | Noelle Silva | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `mimosa-timeskip-favor.webp` | Mimosa Vermillion | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `leopold-timeskip-favor.webp` | Leopold Vermillion | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `luck-timeskip-favor.webp` | Luck Voltia | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `finral-timeskip-favor.webp` | Finral Roulacase | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `yuno-timeskip-favor.webp` | Yuno | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `klaus-timeskip-favor.webp` | Klaus Lunettes | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `magna-timeskip-favor.webp` | Magna Swing | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `zora-timeskip-favor.webp` | Zora Ideale | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `charmy-timeskip-favor.webp` | Charmy Pappitson | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `vanessa-timeskip-favor.webp` | Vanessa Enoteca | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `gauche-timeskip-favor.webp` | Gauche Adlai | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `gordon-timeskip-favor.webp` | Gordon Agrippa | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `henry-timeskip-favor.webp` | Henry Legolant | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `grey-timeskip-favor.webp` | Grey | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+| `secre-timeskip-favor.webp` | Secre Swallowtail | The Heart Kingdom alliance front settles on canon (the six months of training); no narrator row is needed. |
+
 ## Adding images
 
 1. Find the character's exact filename in [the manifest](manifest.json).
 2. Add that WebP image to the root of `main`.
 3. Set its `expectedPortraits` status to `available` and add an entry to `portraits` with key, character name, filename, raw URL, and the actual image's source or generation provenance.
 4. Update the available/missing counts in the manifest and this README.
+5. For a character-form image, do the same under `forms` in the manifest, and replace the `pending` status in its `generation.json` entry with the image's dimensions, hashes and conversion record.
 
 The `portraits` array contains uploaded images only and currently contains 50 images. An `expectedUrl` is a planned path, not a claim that an image exists. Missing files return 404 and the scenario falls back to initials. No placeholder image files have been added.
 
@@ -68,7 +101,7 @@ This repository stays public so those unauthenticated image requests can work. T
 
 ## Identity and story notes
 
-- Nero's public card remains bird-focused. Use Nero's bird form for `secre-favor.webp` in the opening-era scenario; the single static path does not switch forms automatically. The Secre alias is for identity continuity; later identity and magic are described only in conditional lore.
+- Nero's base card is the bird (`secre-favor.webp`). The scenario switches to `secre-human-favor.webp` once the narrator files her reveal, and to `secre-timeskip-favor.webp` after the training; see the character-form section above.
 - Yuno's full-name alias does not make his ancestry public knowledge.
 - **Licht (elf leader)** and Patry have different records. Plain "Licht" is deliberately not an alias for the historical elf.
 - **Fana (Diamond Kingdom)** is the human character. Plain "Fana" is deliberately not an alias, to avoid confusing her with the separate elf.
