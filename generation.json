@@ -1,17 +1,17 @@
 {
   "asta": {
-    "prompt": "Use case: illustration-story. Asset: one finished character portrait for a Black Clover RPG, vertical 4:5 aspect ratio, intended for a 512 by 640 WebP card.\nSubject: Asta from Black Clover, faithfully recognizable early-series design: short muscular teenage boy, wildly spiked ash-silver hair, vivid green eyes, thick eyebrows, black headband with its small red marking. Wear his familiar black Black Bulls shoulder cloak with restrained antique-gold trim over his early dark-and-white clothing; keep him fully clothed.\nComposition: single character only, close head-and-shoulders portrait, entire hair silhouette in frame with breathing room, face centered, eyes roughly one-third down the canvas, shoulders reaching the lower edges, direct friendly determined gaze and a small confident grin. No weapon needed.\nStyle: original polished anime illustration, precise expressive ink lines, confident cel shading with subtle painterly finishing, clear facial features readable at thumbnail size. Preserve his canonical hair and eye colors.\nBackdrop and light: simple deep charcoal grimoire-like texture, subtle warm parchment light on skin, restrained antique-gold rim light and a barely visible deep-crimson undertone. The background supports a black, gold, parchment, and crimson UI without tinting the character's canonical colors.\nConstraints: no text, name, letters, frame, border, watermark, UI, collage, other person, horns, wings, demon transformation, photorealism, or extra limbs. Deliver one full-bleed 4:5 portrait.",
+    "prompt": "Restyle image 1, the corrected asta portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
-    "width": 1122,
-    "height": 1402,
-    "createdAt": "2026-09-06T16:42:31.285Z",
-    "sha256": "d062a34ecf49c4db6208e89ec102ae6ee8cd14625d447c9aae8d069ffac72a89",
+    "width": 1148,
+    "height": 1371,
+    "createdAt": "2026-09-13T07:07:55.4991804Z",
+    "sha256": "d2add489c7d5f89aed7bf0d10bee3655546610e17214d2d1b3c66dad56e074bd",
     "source": {
       "format": "png",
-      "width": 1122,
-      "height": 1402,
-      "sha256": "397b75bbbabab4e48db42b54c2b896d9c5dc4b1a87bcbc08a524f1d9d4fa1cbe"
+      "width": 1148,
+      "height": 1371,
+      "sha256": "c540830c8bf7893bcdbc2cea5bdfb28b50be09bf14b88d44413b61c1799de5a7"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -20,18 +20,18 @@
     }
   },
   "noelle": {
-    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Noelle Silva from Black Clover, early anime design. Teen girl with long silver hair in distinctive twin tails tied with purple bands, violet eyes, pale complexion and neat straight fringe framing her forehead. Proud, slightly guarded expression softened by a tiny confident smile. Wear her modest early white/lavender high-collared outfit beneath the black-and-gold Black Bulls short mantle. No revealing cleavage, no Valkyrie armor, no crown, no water armor. The silver twin tails and violet eyes must be clearly recognizable.",
+    "prompt": "Restyle image 1, the corrected noelle portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
-    "width": 1122,
-    "height": 1402,
-    "createdAt": "2026-09-06T16:42:31.721Z",
-    "sha256": "945f49eebfed887b91dded9fec55be2527eb7a4c9380d9d444e0639c97fc1719",
+    "width": 1148,
+    "height": 1371,
+    "createdAt": "2026-09-13T07:08:01.3017154Z",
+    "sha256": "b8e69e9db0c5874e82b7ec87de5515b59e9ee6e16b62948b5b15ae28fc194a91",
     "source": {
       "format": "png",
-      "width": 1122,
-      "height": 1402,
-      "sha256": "f1d7df734a004b04a5ff62280f72f558dc4a80c634ebc5b000e94def66898824"
+      "width": 1148,
+      "height": 1371,
+      "sha256": "951f2eebf51d32069c094692eb0d364aa603060a0408a41634a03046d2a56bbd"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -40,18 +40,18 @@
     }
   },
   "yuno": {
-    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Yuno from Black Clover, early anime design. Slender teen boy with messy jet-black hair and long bangs, clear amber-gold eyes, composed quiet expression and subtly raised determined gaze. Wear the early Golden Dawn cream/gold shoulder mantle over his dark high-collared tunic, with his small blue pendant visible. Canonical youthful face, not Asta's grin or broad build. No royal crown, no spirit companion, no later spirit form, no star magic.",
+    "prompt": "Restyle image 1, the corrected yuno portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:42:32.232Z",
-    "sha256": "b9af43035401e2a4d5f679e81a4fcdf4f36df173436a56c440d48bf6a8627c35",
+    "createdAt": "2026-09-13T07:08:04.7289005Z",
+    "sha256": "3c4422440b329a597268146baeea8a91d15828241e1e314470fdcef5eb51d806",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "66a16868d1601109954da7e80862731c24864f76bb816b685b6d18548c5a99ba"
+      "sha256": "5051889dfaba3bc6c74dd2e524f5faec9aa00f2cef1227eb147ea2be876398cb"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -60,18 +60,18 @@
     }
   },
   "yami": {
-    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Yami Sukehiro from Black Clover, early anime design. Broad, muscular adult man with tousled short black hair, dark eyes, rugged angular jaw and visible stubble. Relaxed, confident half-smirk, slightly heavy-lidded gaze. Wear his familiar plain white tank top under the black-and-gold Black Bulls captain's shoulder mantle. His sturdy shoulders should fill the lower composition. Adult proportions and weathered face, no youthful Asta features. No sword needed, no cigarette, no extra props.",
+    "prompt": "Restyle image 1, the corrected yami portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:42:32.783Z",
-    "sha256": "5d767af2c22fe2cb321062cecf8342460c1ace4973342e35215051155db3d352",
+    "createdAt": "2026-09-13T07:08:04.4968555Z",
+    "sha256": "02e31ccebd834db43d2623ed88286abcccdd474dde938b9425c90951b384f17c",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "8e3b9448dcccb80b604b2e935cfd763002042a1534962ed1ca11fca01cfd623e"
+      "sha256": "8a4d2d5ade0cddf283767cb31f06b8014da6cf9148ce9414c4d2870df45098b5"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -80,18 +80,18 @@
     }
   },
   "mimosa": {
-    "prompt": "Use case: illustration-story. Create ONE finished original anime character portrait for a Black Clover RPG. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its clean ink lines, rich cel shading, subtle painterly texture, and dark charcoal/antique-gold/crimson atmosphere; do not copy Asta's identity, hair, face, headband or costume. Vertical full-bleed 4:5 composition. Chest-up framing, single subject, all hair included with headroom, eyes in the upper third, face large and readable at thumbnail size. Simple muted charcoal textured backdrop, restrained antique-gold edge light and faint deep-crimson undertone; maintain canonical character colors. No text, name, letters, UI, border, collage, watermark, other characters, added weapons, later transformations, or photorealism. Fully clothed.\nSubject: Mimosa Vermillion from Black Clover, early Golden Dawn design. Teen girl with long softly wavy orange hair, a neat short straight fringe, amber-golden eyes, and a gentle composed smile. Her distinctive hair should frame her face in soft waves. Wear her fully clothed early Golden Dawn cream cape with teal edging over a modest white blouse and brown bodice; no cleavage, no armor, no transformed costume. Soft kind gaze, natural anatomy, one character only.",
+    "prompt": "Restyle image 1, the corrected mimosa portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:45:34.698Z",
-    "sha256": "93ef269fb85b1d7e6290151d0179d06a8223ef17782085be6a63a06e442c25c6",
+    "createdAt": "2026-09-13T07:08:01.0733216Z",
+    "sha256": "03584a1176a51cbaa8fa782b4dfed5c63eda1cc66581c4a038402a1a56708c09",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "8ed4f2c61431e93c25539dd2b70491de7e5f1a5cb3576ebef5ee3a47c0ef0966"
+      "sha256": "b6d457459b3bd709d56b1797dc562be9714b22bf3ce4b7cb324e4c25b1adf580"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -120,18 +120,18 @@
     }
   },
   "finral": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Finral Roulacase. Slender young adult man with tousled light-brown hair, a soft face and violet eyes; use his original loose hairstyle.\nExpression: An approachable, slightly nervous smile with alert, caring eyes.\nWardrobe: Dark high-collared tunic beneath the black-and-gold Black Bulls mantle.\nAvoid: No later upswept green-tipped hairstyle, elf markings, portal covering the face or romantic partner in frame.",
+    "prompt": "Restyle image 1, the corrected finral portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:53:02.577Z",
-    "sha256": "90085854ca68521d4a19f51b3f5087fd3df8afa59b26d96a08bd7cf3400382a5",
+    "createdAt": "2026-09-13T07:07:56.5612828Z",
+    "sha256": "ae93396485a4b2a9d10077c6f82eac8a7cee10550d5182f95444444ffad6c25c",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "ea41249357f0008dc54be679882c8819039f57eb8c833d483e98a3574fd7975c"
+      "sha256": "afe782f7c5f29d7a89694b60d83f11442852a56fb850fba91ab6f7c04876da81"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -140,18 +140,18 @@
     }
   },
   "vanessa": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Vanessa Enoteca. Adult witch with long, wavy pink hair, violet eyes and a relaxed, elegant face.\nExpression: Warm, knowing smile with playful confidence.\nWardrobe: Her wine-pink witch hat, opaque burgundy bodice and black-and-gold Black Bulls shoulder mantle; tasteful shoulders-up framing.\nAvoid: No lingerie-only look, nudity, exaggerated cleavage, drunken caricature, fate-cat companion or additional figure.",
+    "prompt": "Restyle image 1, the corrected vanessa portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:53:56.954Z",
-    "sha256": "2430fee6b02b452d0162aca18024c551113f59cfd3b893b3d6ac30d16ab09dac",
+    "createdAt": "2026-09-13T07:08:03.8024254Z",
+    "sha256": "5ca5d9464f53eb94a7bebaa239437106fc6fafd03701294ce3b9498b1313daac",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "27b86ab724a7679eba2af9bed9d37decd39f6c33824cdf58347a2db8dd267148"
+      "sha256": "3d74dec97d4c6323b77f236c4bf40d4c266c98d716bd9f2cf4bf1d2cea6b1c72"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -200,18 +200,18 @@
     }
   },
   "sekke": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Sekke Bronzazza from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Young man with swept-back spiky blond hair, a small pointed chin, a fine trace of chin hair and a jaunty, self-satisfied face.\nExpression: His overconfident, slightly awkward grin.\nWardrobe: His original red coat over a dark vest and pale V-neck shirt; use ordinary early-series clothing, optionally with a modest Green Praying Mantises mantle.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No later muscular training redesign, royal guard armor, bronze magic shell around the head or written catchphrase. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.",
+    "prompt": "Restyle image 1, the corrected sekke portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:54:01.245Z",
-    "sha256": "e525c29d5e1300e39e9b99eb14d37b34b5d7a693af5e86ab385d6da6b4a96848",
+    "createdAt": "2026-09-13T07:08:03.0987677Z",
+    "sha256": "3e9834f47331b9e0471bdf08b467a4acacc56cb120159dcb44d2c423edacc089",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "d3b2acfd9f24af81f08265206564f5421069ad83ed4e4c8a61a55ecc0d1eca8e"
+      "sha256": "9d125ee095e1a966768686f78ecd4cde9618e41f3120fc997cd37fae7077356a"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -220,18 +220,18 @@
     }
   },
   "magna": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Magna Swing. Lean young man with a swept-up silver pompadour, dark closely cropped sides and sharp orange-tinted angular sunglasses.\nExpression: A brash, fiercely loyal grin.\nWardrobe: Black-and-gold Black Bulls mantle over his dark delinquent-style collared shirt; collar and shoulder details visible.\nAvoid: No unstyled blond hair, modern biker branding, baseball bat across the face, fire obscuring features or later battle injuries.",
+    "prompt": "Restyle image 1, the corrected magna portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:55:38.819Z",
-    "sha256": "af0cf3ea5bc5fd55d08657bf4df884ce585ecf7632cc5e226c775168b10e8ed0",
+    "createdAt": "2026-09-13T07:08:00.4055973Z",
+    "sha256": "0595aecff75d37adac4a95158841973b859d1f969274a161f8f7c172bde70b65",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "dcd4950871c4b47319f2b529a87b4c3004fe0f7315e4df82960fd5de7448c9f2"
+      "sha256": "ca60919c36290bc9de11781548613991c62fd59d5db649e1ed7b53820d674d6d"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -240,18 +240,18 @@
     }
   },
   "klaus": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Klaus Lunettes from Black Clover.\nAppearance: Young adult man with neatly styled pale blue hair, rectangular glasses and a slim, stern face.\nExpression: Serious and precise, with concern quietly visible behind the glasses.\nWardrobe: Structured blue high-collared tunic and the white-and-gold Golden Dawn mantle.\nCharacter-specific exclusions: No sunglasses, missing glasses, modern business suit, elf markings, comedic lens glare hiding both eyes or later bulked-up body.",
+    "prompt": "Restyle image 1, the corrected klaus portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:55:39.964Z",
-    "sha256": "f355646d84cd959ab4ab47cc4d31fa28f615878f2c1f70c11ddf830d7fd219d3",
+    "createdAt": "2026-09-13T07:07:58.8419721Z",
+    "sha256": "ba5ef58c3ff0a066d3f78da54a4cdcdb411fbb406179281ff24b4707d83b1c47",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "f7b703fa1391eea91cb5cbb696f33f878e05efccd9e2513044fd52d935cc0ac9"
+      "sha256": "980a2ba9ad59529777942a784b79e2b2676fcc95241b57f668995300d3ad85d5"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -260,18 +260,18 @@
     }
   },
   "gueldre": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Gueldre Poizot from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Gueldre Poizot.\nSubject appearance: Heavyset adult man with short swept blond hair and a purple half-mask over his eyes and nose, decorated with pale circular markings.\nExpression: A complacent, calculating smile below the mask.\nWardrobe: Purple Orcas captain's purple-and-gold cloak with dark fur collar over his padded black-and-white upper uniform.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No unmasked face, metal slit visor, invisible body, Kaiser moustache, slim heroic proportions or modern suit.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected gueldre portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:55:42.278Z",
-    "sha256": "eaa199512e59541ae833338648eaebf45ad4aaf18dd5c910df02d9adc8de2946",
+    "createdAt": "2026-09-13T07:07:57.5758454Z",
+    "sha256": "6d3d7768f75c82ec271a1ce78f94f0d8e238e131c9f08a33ac41c3e981113fa9",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "9425d8c8b08223a77d4c968688fd2ace43c07b1b01e1c1e19e201ab28f1bd665"
+      "sha256": "7f9e715e6e4edf45b9043c338c071b5e81485ab22fafb1f3c2e58c6ae98b41ca"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -280,18 +280,18 @@
     }
   },
   "lily": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Sister Lily from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Young adult woman with dark blue-black hair, soft blue eyes and kind, delicate features framed by her religious veil.\nExpression: Gentle affection combined with quiet firmness.\nWardrobe: Her original black-and-white nun's habit, white wimple and modest fully covered neckline.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No Paladin form, horns, wings, altered eye markings, glamorous gown, romantic pose or another character. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.",
+    "prompt": "Restyle image 1, the corrected lily portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:55:43.492Z",
-    "sha256": "e50893a2efbbbde5b18ba5e5d577fac328a7c7e6610e0767dc517e18fee940ff",
+    "createdAt": "2026-09-13T07:07:59.7517938Z",
+    "sha256": "c957595a585267f85a318ae06934edda68d2c3844c6093200e03776f1014a6ae",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "362f7e0263d323f4f860b13965174f5b7cb9be37b18380cc959e38df682328a9"
+      "sha256": "f510c37a7d4767b1e7f87e08048788a1edb402228a0c565889ec14d8f795bf6e"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -300,18 +300,18 @@
     }
   },
   "orsi": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Father Orsi from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Older kindly priest with short swept-back white-gray hair, a small moustache and neatly trimmed chin beard, strong brows and expressive facial lines.\nExpression: A warm, proud, slightly emotional smile.\nWardrobe: Simple dark clerical robe with a pale shoulder cape and high white collar, with a small gold cross pendant.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No pope crown, elaborate gold armor, intimidating villain face, long wizard beard or children in the portrait. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.\nIdentity correction: Father Orsi has a visible full cap of short swept-back white-gray hair and a neat chin beard. He is NOT bald.",
+    "prompt": "Restyle image 1, the corrected orsi portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
-    "width": 1122,
-    "height": 1402,
-    "createdAt": "2026-09-06T16:55:44.778Z",
-    "sha256": "244e1e723a1aa541b1f864447f75821f213ec2b3e997ef14a2b7c400abf26ab9",
+    "width": 1148,
+    "height": 1371,
+    "createdAt": "2026-09-13T07:08:01.7509839Z",
+    "sha256": "a0a079d1f0bd25e4c15ad0c5a1dd66b6fead42b936c03b6d04a35bca1dd9b29f",
     "source": {
       "format": "png",
-      "width": 1122,
-      "height": 1402,
-      "sha256": "95db9377364622b20aae1c33a3af8fa24890e06bcbf05db8937ae98424c2ad14"
+      "width": 1148,
+      "height": 1371,
+      "sha256": "6e347e712c22ee6006ccd258fdbc1507221eb664cde3a5426f9e37f34e95a883"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -320,18 +320,18 @@
     }
   },
   "luck": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Luck Voltia. Slim teenage boy with tousled golden-blond hair, large blue eyes and youthful features.\nExpression: His characteristic wide, eager battle-loving smile, without menace toward the viewer.\nWardrobe: Blue tunic with high collar beneath the black-and-gold Black Bulls mantle.\nAvoid: No lightning armor, elf ears or markings, older muscular form, electric glow replacing his eyes or extra characters.",
+    "prompt": "Restyle image 1, the corrected luck portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:56:59.070Z",
-    "sha256": "57d17181bfe1ad6c358f5515f43d16ccbc7ec9b71136590cafac123b1a47213f",
+    "createdAt": "2026-09-13T07:08:00.0834721Z",
+    "sha256": "35ca081454270560cec48c670c5268be42f47cbd245f1b59792a2601952b62b6",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "0ae0df270e8cd55d7add8cddd7f71f5665a8d45be4a8e8bfbcfcb82d6265a063"
+      "sha256": "4e713004ed11ed5c2d7ec264c4db365bb9bf0a155ac78520c2aec71de0317a85"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -340,18 +340,18 @@
     }
   },
   "langris": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Langris Vaude from Black Clover.\nAppearance: Young adult man with swept, wavy light-brown hair, a compact fine-boned face and narrowed, observant eyes.\nExpression: A cool, superior half-smile that barely conceals impatience.\nWardrobe: Blue high-collared uniform and white Golden Dawn mantle with pale blue fur trim and gold details.\nCharacter-specific exclusions: No Finral hairstyle, green hair tips, elf marks, demonic glare, portal in place of the face or sibling in frame.",
+    "prompt": "Restyle image 1, the corrected langris portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:57:00.634Z",
-    "sha256": "3175471576504f652391bee76d1dcb75c56d78f83f669fea0c7f58c5460d8b8e",
+    "createdAt": "2026-09-13T07:07:59.0737747Z",
+    "sha256": "5d29905428c610ee3bfd0ffe717ffd221a155f01034aec988d011b0adefb3c9c",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "9066d4ba45fa226b822f1b3e398fc111993cf0e6024174eca4ff74fef5d30bb9"
+      "sha256": "95af689700df655c9d48f6f66335107bb9ca360d93ea0b3d0f66b2fd3c6ec525"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -360,18 +360,18 @@
     }
   },
   "julius": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Julius Novachrono from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Julius Novachrono.\nSubject appearance: His original adult form: a fair-haired man with short tousled blond hair, purple eyes and the small star-shaped mark beside his forehead.\nExpression: Warm, fascinated enthusiasm held within a calm leader's smile.\nWardrobe: Wizard King's cream ceremonial mantle with thick pale fur and gold details over his dark formal tunic.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No child form, alternate identity, demonic or saintly transformation, giant clock, crown or additional figures.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected julius portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:57:02.214Z",
-    "sha256": "e93926f0716655e6947c444a16415a7f2ac5aebd6c9af32e7e69a3f43a20a9af",
+    "createdAt": "2026-09-13T07:07:58.3819850Z",
+    "sha256": "b1696510c8e035658ea331f9046196e770ba6a1fa228b984f2b813cc51764503",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "0ac4aa081c5eeb649d004474d87a2b387ed932eba1c80daa1f95be6e1567491a"
+      "sha256": "ed825654513c764a03d337ff4b3be2fc5cc0d1ac4aa6856852eaf6dfb68f76e4"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -380,18 +380,18 @@
     }
   },
   "rebecca": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Rebecca Scarlet from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Teenage girl with red-orange hair tied back loosely, soft face-framing strands, blue eyes and a friendly, practical face.\nExpression: Bright, down-to-earth warmth and a sincere smile.\nWardrobe: Modest cream blouse and rustic brown bodice or apron appropriate to her everyday Clover-town clothing.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No Magic Knight mantle, royal crown, glamorous revealing dress, magical transformation or her siblings in frame. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.",
+    "prompt": "Restyle image 1, the corrected rebecca portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:57:03.855Z",
-    "sha256": "44bbca08540895c7f7886e1f191f66d97010ddf84af1849a946d3ff24b358ee2",
+    "createdAt": "2026-09-13T07:08:02.4195419Z",
+    "sha256": "05df5e35f6c827d566ed11ace2e89abe1f6da493f28f665f35f256d3bcd91e67",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "eea227e92506d60ea8202d30f416656a1056764ace09b4e18e48a73ea1ae4a0b"
+      "sha256": "cae5f3f4f18aea368a346504ca94e50a6eec7d42330e4858e4ed9835b9dca7c7"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -400,18 +400,18 @@
     }
   },
   "william": {
-    "prompt": "INITIAL GENERATION PROMPT\nUse case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: William Vangeance from Black Clover.\nAppearance: Adult captain with pale skin and short light hair, his ornate mask covering the upper face: cream-gold center with dark blue and reddish ornamental sections.\nExpression: A gentle, composed smile below the mask.\nWardrobe: Golden Dawn captain's cream-and-gold mantle with its thick pale fur collar and blue inner clothing.\nCharacter-specific exclusions: Do not remove the mask or expose his facial curse, do not substitute Patry's white ponytail or facial marks, no extra eyes or elf transformation.\n\nTARGETED ASPECT-RATIO EDIT PROMPT\nUse case: precise-object-edit. Image 1 is the edit target: the completed William Vangeance portrait. Image 2 is a STYLE-ONLY supporting reference for the matching grimoire texture. Correct only Image 1's canvas aspect ratio by EXTENDING the left and right background horizontally until the full output is vertical 4:5, ideally 1254 pixels wide by 1568 pixels high. Do not crop any part of the existing image. Preserve William's entire face, exact ornate mask, hair, eyes, smile, clothing, fur, emblem, lighting, colors and original drawn proportions. Keep his current full head and shoulders, without changing or resizing his body relative to the original canvas height. Continue the same black charcoal, antique gold and faint crimson grimoire-leather texture into the added left/right areas. No text, watermark, frame, UI or additional character. Do not copy Asta's features, hair, headband or clothing.",
+    "prompt": "Restyle image 1, the corrected william portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:58:21.626Z",
-    "sha256": "1966a539c362fdf4e02125fda18af9ab3bd7bed17040d1a34018adef10838e57",
+    "createdAt": "2026-09-13T07:08:04.2676388Z",
+    "sha256": "cf43d3a702078972e89050c6214b918bb90db04c5efc365a0a5073f76f76ae5a",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "b6ac683586a0665ade37c1d619eaeed5785e4947c9da39b6d76c845b6f093c16"
+      "sha256": "41dfe66ad9aa204e232c947d8af41ec6dcce86be2d72003f696495eac8c7f801"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -420,18 +420,18 @@
     }
   },
   "gauche": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Gauche Adlai. Lean young adult with long ash-brown hair swept across one eye, a sharp nose and angular, tired features.\nExpression: Suspicious, withdrawn side-glance and a restrained frown.\nWardrobe: Dark blue high-collared shirt under the Black Bulls black-and-gold mantle.\nAvoid: No exposed magical mirror eye, elf form, nosebleed, sister photograph or second person; do not invent a visible iris color for the covered eye.",
+    "prompt": "Restyle image 1, the corrected gauche portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:58:23.237Z",
-    "sha256": "746c77a106d93ba77e6b353cae300b075f95f4d0d5eff29dbf1461f5363f67c6",
+    "createdAt": "2026-09-13T07:07:57.1293974Z",
+    "sha256": "8bec2e15d1cf6dcb6a11acacc708b1ad1f3eeffbf3844ebfde72a165adf1ce00",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "c33266c8904c5f179d13f10c734ce8c05a0979e528200a3fc6a7c7fdedc6c730"
+      "sha256": "f03ea7639d14829b338cb2c0ef2fe0ffe70ab25f8d906e9f8091abd5004d227c"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -440,18 +440,18 @@
     }
   },
   "marx": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Marx Francois from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Marx Francois.\nSubject appearance: Young adult man with a neat pale blue bowl-cut hairstyle, level straight bangs and a tidy, narrow face.\nExpression: Earnest, organized and mildly exasperated, with brows drawn in concentration.\nWardrobe: Formal high-collared blue-and-white aide's uniform with a neat light mantle and gold fastening.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No modern office suit, elf markings, wild spiky hair, oversized comedy sweat drops or other characters.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.\n\nEDIT 1 (after reviewing initial render):\nTargeted identity correction to this Marx Francois portrait: remove the eyeglasses completely, including frames, lenses and temples. Marx does NOT wear glasses. Restore clean natural skin and unobstructed eyes where the glasses were, maintaining the existing serious expression, pale-blue bowl cut, face, same precise pose, ordinary blue-and-white aide uniform, lighting, texture, background and 4:5 composition. Do not add new accessories, text or any other changes.",
+    "prompt": "Restyle image 1, the corrected marx portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:58:24.950Z",
-    "sha256": "84e84b874a842aaafdd698f7a3b4db78c52ebaf0639a185e0f8cd4c70d28bb42",
+    "createdAt": "2026-09-13T07:08:00.8464930Z",
+    "sha256": "38c2843d3a848aa8560a8cd236af6f0f35b17f672ed216e79491ad3b3f496e1e",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "a0650873a45d1ebefad072aef81aedf0cd5750adec0c23dbf6f830a50e34c851"
+      "sha256": "c6d0389b5977ec22fe1286393cb7c9e1388eac810a20d093a6e7ec6d1c826507"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -460,18 +460,18 @@
     }
   },
   "mars": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Mars from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Young adult man with spiky pale lavender-gray hair, a strong angular face and the Diamond Kingdom magic-stone implant in his forehead.\nExpression: Serious, guarded resolve with a little humanity in the eyes.\nWardrobe: His early Diamond Kingdom outfit: white vest edged in red beneath a broad dark fur-trimmed cloak, with an opaque dark underlayer covering the upper chest for this portrait.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No diamond crystal armor covering his face, Fana in frame, invented facial scars, modern military uniform or extra gems. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.",
+    "prompt": "Restyle image 1, the corrected mars portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T16:58:26.697Z",
-    "sha256": "37378b010362a173e30da069ebc2ded67bf1c72ee0418e7d2dc80d290a21ed2e",
+    "createdAt": "2026-09-13T07:08:00.6231556Z",
+    "sha256": "cc925fd15540c4b91c6ac8632ebc04fcf53c27e18dafe149167f1e73adf19daf",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "42fc7eed66ff66d9d745d8d743f0d717672eb437721b569fdab5f3a544b03617"
+      "sha256": "8e182bd523f28456c18b65ac551df8809b2e5651231fac90049801dfd3b0ed05"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -480,18 +480,18 @@
     }
   },
   "charmy": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Charmy Pappitson. Petite young woman in her familiar small, round-faced form, black hair in a high bun with curled side locks, and green eyes.\nExpression: Delighted, contented smile with pleasantly rosy cheeks.\nWardrobe: Cream tunic and black-and-gold Black Bulls mantle, with a tidy high neckline.\nAvoid: No mature dwarf-transformation form, wolf, sheep, food obscuring the face, infant proportions or sexualized framing.",
+    "prompt": "Restyle image 1, the corrected charmy portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:00:14.731Z",
-    "sha256": "e57331bb8507509b8a61d73967b14b25a256afd2a2374db0ba99a9f0026cdee4",
+    "createdAt": "2026-09-13T07:07:56.0930453Z",
+    "sha256": "65dae9f8514e74afd953008ab99041960b1f0fa8afe3bc91f7ef6dce2520dd9d",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "59b066d54bf2b85b5c4e0aa6abaf47052646d016724b4f9c303f02c73938bd87"
+      "sha256": "c18d4f4b42483e23449a89da69b334a6e897a68326df2c3e428baf5d3dc1947e"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -500,18 +500,18 @@
     }
   },
   "nozel": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Nozel Silva from Black Clover.\nAppearance: Pale adult royal with silver-white hair formed into two swept side sections and a distinctive narrow central braid falling over his forehead, violet eyes and sharp features.\nExpression: Rigid, aristocratic composure and a cold, assessing gaze.\nWardrobe: Silver Eagles white mantle with pale feather or fur shoulder texture, lavender inner collar and gold clasps.\nCharacter-specific exclusions: No loose bangs replacing the central braid, crown, mercury armor obscuring the face, casual smile or later injuries.",
+    "prompt": "Restyle image 1, the corrected nozel portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:00:16.529Z",
-    "sha256": "91920b624dfd53bfc78427e9ad664f44171e44b352ee2d36fc40e272adf1df2a",
+    "createdAt": "2026-09-13T07:08:01.5347627Z",
+    "sha256": "ce8ae6a11081108d1b82db666600c9a7567882f305cce3d6b5a7b063b281f699",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "fe4c7e6ab900d5078ea1366700f88a5ecc3381d7da6a20e134f264b0ba4ef0b7"
+      "sha256": "632fdf609baa0cc02c0ca392e8226549f1efa4d3e71a8430b02c7332a8725d68"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -520,18 +520,18 @@
     }
   },
   "fuegoleon": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Fuegoleon Vermillion from Black Clover.\nAppearance: Strong adult man with straight long vermilion-orange hair swept behind his shoulders, a stern face and the small red diamond mark on his forehead.\nExpression: Dignified, encouraging resolve with steady eyes.\nWardrobe: Crimson Lion Kings captain's white mantle with red and gold details over formal dark clothing and a high collar.\nCharacter-specific exclusions: No flame arm, Salamander, missing limb emphasized, flaming body, wild Mereoleona hair or later transformations.",
+    "prompt": "Restyle image 1, the corrected fuegoleon portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:00:18.332Z",
-    "sha256": "0a49d603b0fb0c9f7e5e41f78478a3e217c1c2304a01ab336e71db9652fe4e4d",
+    "createdAt": "2026-09-13T07:07:56.7978313Z",
+    "sha256": "8985ad1450af7bf7091be5bcb18b5c4554d689d783a93541182d5f459328d3e6",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "9113963b1082e943b26a2c456fc799565b715f829dec1e10c1f284b9e60edc15"
+      "sha256": "a761311d79566896458581df2bf5e948aea30053fb2b3d548d057403721f4c0a"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -540,18 +540,18 @@
     }
   },
   "owen": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Owen from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Owen.\nSubject appearance: Middle-aged physician with short brushed-back graying hair, small oval spectacles, gentle facial lines and a little chin stubble.\nExpression: Reassuring, attentive professional smile.\nWardrobe: Clover Kingdom healer's pale coat or mantle over a dark high-collared uniform, fully clothed.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No large moustache, long beard, modern surgical mask or stethoscope, elf marks, dramatic spell effects or invented iris color.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected owen portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:00:20.204Z",
-    "sha256": "d7de8f20fa09dd351ca1c338a7d48de16018b3b64e0963399f2b11a9d15d0112",
+    "createdAt": "2026-09-13T07:08:01.9753975Z",
+    "sha256": "8cbf8ac8071828c7589a88c2b3390b44f620d42664ae294ef76fc7b51c3490bb",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "607314094fc2bc16bebb554cd30edf9f47b1c3f47b44bc919c079c0ee1a42415"
+      "sha256": "ba1d04c1e52410caefcba49259ffe91e36349448d6a14c78ee1bfec147b4bea2"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -580,18 +580,18 @@
     }
   },
   "gordon": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Gordon Agrippa. Very pale young man with short black hair, heavy black rings around his eyes and dark lipstick, wearing his black peaked cap with the gold bull emblem.\nExpression: Quiet, earnest gentleness beneath his unsettling makeup.\nWardrobe: High-neck black clothing, scarf-like collar and Black Bulls cloak with gold trim.\nAvoid: No skull face, actual corpse, hostile horror-monster expression, blood, glowing eyes or invented facial tattoos.",
+    "prompt": "Restyle image 1, the corrected gordon portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:01:38.605Z",
-    "sha256": "60da4d03dff45406a9d9ad0640a881318672c806e7682dcd272f594524e29830",
+    "createdAt": "2026-09-13T07:07:57.3377721Z",
+    "sha256": "a5ceb18413f67aecb7adf0a4bea26f253667dce6edbdac993fd67fab691464ab",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "16e0c42ccaad120dbba11e0c82d859939620000c5167a767e29475187aca80de"
+      "sha256": "fa796c7a16fb71d01296601f3491dadf1f3dc7de173e3a38dea1eecbbac0ad10"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -620,18 +620,18 @@
     }
   },
   "charlotte": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Charlotte Roselei from Black Clover.\nAppearance: Elegant adult woman with long blond hair, blue eyes and her silver-blue knight's headpiece framing the forehead.\nExpression: Poised, disciplined and quietly resolute.\nWardrobe: Blue Rose captain's blue-and-white mantle and silver-toned armor over opaque dark clothing; a blue rose detail may be visible.\nCharacter-specific exclusions: No wedding dress, exposed torso, giant rose crown, elf markings, blushing romantic scene or Yami in frame.",
+    "prompt": "Restyle image 1, the corrected charlotte portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:01:42.761Z",
-    "sha256": "9e8a91dfa0d7dde8720ec7a2332baf38fa7236484db5eaa5083e2e1178b4ac04",
+    "createdAt": "2026-09-13T07:07:55.8644505Z",
+    "sha256": "6f11152b94b797ccb38a4687c4dc1f31d538207c6280921bbed652104463aa9e",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "a59ff1418fcf3ac28951a48f3a0d5769bc19fdab1a7edcb3aa11b68dc4a0338a"
+      "sha256": "e8661f84167dc235a8772dc5e5948eb6784a2a0d136e5786fcd3e550aaceb709"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -680,18 +680,18 @@
     }
   },
   "patry": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Patry from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Slender adult-looking elf with straight white hair gathered into a high ponytail, pointed ears, golden eyes and his characteristic red marks around the eyes and forehead.\nExpression: Grave, intense conviction, with restrained sorrow rather than a demonic snarl.\nWardrobe: White sleeveless tunic under his sweeping white cloak edged in red and secured at one shoulder.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No dark-elf skin or eyes, black hair, William's ornate mask, Licht's loose floating mane, swords, demon transformation or second figure. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.\n\nEDIT 1:\nEdit target: Image 1, the generated Patry portrait. Image 2 (Asta) is STYLE ONLY. Make a single framing correction: pull back slightly and reposition the portrait so the ENTIRE high white ponytail and all top hair are visible with a clear narrow band of dark background above them. Full-bleed vertical 4:5 composition. Preserve Patry's identity, golden eyes, red facial marks, pointed ears, tied high ponytail, original white cloak with red edging, grave expression, linework, palette, textured charcoal/crimson/gold backdrop, and all other image content. Do not add text, a frame or another figure.",
+    "prompt": "Restyle image 1, the corrected patry portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:03:02.888Z",
-    "sha256": "4dff6169ccbac69b93155d3853bf484a1de6b5cbdb31d41a019dc383e87da2ef",
+    "createdAt": "2026-09-13T07:08:02.2032310Z",
+    "sha256": "250776c822c0168c6d6fd2e88f87fbb0ef709bd600a3d0da23f713e783ca0ac4",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "8297a535150e71ebbe47c1ca28a4d496f4f34bd29314c850997ac815efbc3a50"
+      "sha256": "975eaaf9c71b18bbf2bb07b6b9e1c7aaae6413546e5b3effda7a59288356c472"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -700,18 +700,18 @@
     }
   },
   "henry": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Henry Legolant. Very pale, slender adult man with extremely long, tangled pale blue-white hair falling in uneven locks around his face and shoulders.\nExpression: Gentle, patient, slightly sleepy smile.\nWardrobe: Loose white long-sleeved tunic bearing a small Black Bulls emblem, neckline modest and opaque.\nAvoid: No short groomed hair, muscular redesign, exposed chest, haunted-house background, floating squadmates or mana-drain effects.",
+    "prompt": "Restyle image 1, the corrected henry portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:04:17.611Z",
-    "sha256": "0b5966e57c0ee06047b2f6942aabc1749827970e52ffb2543c05236087eb4a82",
+    "createdAt": "2026-09-13T07:07:57.9109084Z",
+    "sha256": "a9ad0ce84ee4b4ecbc2c91790094289c9264b4fd070c9ab488127889d1c9673e",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "b9f4ae8617313a589c4f81921278b3e545d6e70857ca652a79bff1284375906e"
+      "sha256": "070295cafe2711478146bc61d36f483a730864b4c3a73647807fccddced983bd"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -720,18 +720,18 @@
     }
   },
   "jack": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Jack the Ripper from Black Clover.\nAppearance: Very tall, lean adult man with a long narrow face, untidy dark-green hair, yellow-gold eyes and his characteristic red facial scar.\nExpression: A sharp, toothy, challenging grin.\nWardrobe: Green Praying Mantises captain's green-and-gold mantle over dark, fully covering upper clothing.\nCharacter-specific exclusions: No literal insect head or limbs, scythe across the face, enormous monstrous jaw, gore, later injuries or unrelated facial scars.\n\nTARGETED EMBLEM EDIT PROMPT\nUse case: precise-object-edit. Image 1 is the edit target: this generated portrait of Jack the Ripper from Black Clover. Image 2 is STYLE ONLY. Change only the incorrect gold bull-skull emblem on his green mantle: replace that emblem with a small, simple, tasteful gold praying mantis crest appropriate to the Green Praying Mantises squad. The crest should read as a slender mantis insect with folded raptorial forelegs, not a bull skull or horns. Keep Jack's face, green hair, yellow eyes, red scar, grin, head/shoulders framing, clothing folds, gold trim, background, lighting, palette, composition and 4:5 canvas completely unchanged. No text, no extra people, no Black Bulls icon, no frame or watermark.",
+    "prompt": "Restyle image 1, the corrected jack portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:04:20.208Z",
-    "sha256": "db84b51769964e54f93db981ccb1df9ee27bb5b38e03a3e26b215e34dc92719d",
+    "createdAt": "2026-09-13T07:07:58.1384136Z",
+    "sha256": "e0d061adde997b4463fb0c6d919768573c233c410806e212c3e0a0eb16a01a1f",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "ed4ebd134c57ac46287190cd1a5980dd4b411c9a9d8c9586ac8efa57b903e254"
+      "sha256": "5b380a8ff0a6a5c17b6dda86e6891556472be7122055837d57187d5520e9ac3e"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -760,18 +760,18 @@
     }
   },
   "rill": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Rill Boismortier from Black Clover.\nAppearance: Youthful young man with tousled pale aqua hair, bright blue eyes and an expressive, delicate face.\nExpression: Inspired, delighted curiosity, as if he has just imagined a painting.\nWardrobe: Aqua Deer captain's light blue-and-white mantle with gold trim over a dark high-collared shirt.\nCharacter-specific exclusions: No paint covering his face, elf markings, childish toddler proportions, giant floating brush or crowded painting scene.",
+    "prompt": "Restyle image 1, the corrected rill portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:08:58.785Z",
-    "sha256": "4726a80954feee429489f2e28f94e9e53a0b33ca233af3f8c8cd2e30d2a8cc28",
+    "createdAt": "2026-09-13T07:08:02.6545649Z",
+    "sha256": "918a8ce797c1c381af57ca65db50a1cfad05b103016b554f79f2553024d3ee19",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "5a23ea31fab7e6165aa29a63a108003e93ab131fd9fa8dbe51c3fecce52d0f40"
+      "sha256": "2950db3773c23c2a8797145fa58a6b3ec3d69b0cb312ee2d7196cefba5b88185"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -780,18 +780,18 @@
     }
   },
   "dorothy": {
-    "prompt": "Use case: illustration-story.\nAsset type: Individual portrait for the Black Clover: The Second Grimoire RPG character roster.\nCreate a new original portrait of the specified Black Clover character. The supplied Asta portrait is a STYLE REFERENCE ONLY: match its polished anime cel shading, delicate painterly material texture, assured clean ink lines, warm parchment illumination, and rich antique atmosphere. Do not copy Asta's identity, hair, headband, clothing, pose, or facial design.\nComposition: full-bleed vertical 4:5 image, one character only, close head and shoulders, face centered, eyes around the upper third, enough headroom to include the entire hairstyle and defining head accessories. Natural accurate anatomy; opaque clothing covers the visible upper torso. Keep the face crisp and readable at thumbnail size.\nBackdrop: muted dark charcoal grimoire-leather texture with subtle antique-gold rim light and a faint deep-crimson undertone. No literal book, frame or page edge. Warm parchment light on skin and fabric while retaining all canonical hair, skin, eye and wardrobe colors.\nConstraints: no text, lettering, labels, signature, watermark, border, frame, UI, collage, extra characters or dramatic effects hiding the face. Ordinary character design, no later transformation.\nSubject: Dorothy Unsworth from Black Clover.\nAppearance: Petite adult witch with lavender-pink hair and a large soft pink witch hat with pale trim and its feather ornament.\nExpression: Her familiar peaceful sleeping expression with eyes gently closed.\nWardrobe: Coral Peacocks captain's pink-and-white mantle, hat and modest fully clothed upper body.\nCharacter-specific exclusions: No childlike infant design, giant dream monsters, waking transformation, transparent fabric or second character.\n\nTARGETED HAT-FRAMING EDIT PROMPT\nUse case: precise-object-edit. Image 1 is the edit target, the completed Dorothy Unsworth portrait; Image 2 is STYLE ONLY. Make a small composition correction so Dorothy's entire pink witch hat, including its bent tip, full brim and feather ornament, fits within the image with a little dark background breathing room on every side. Keep the final canvas vertical 4:5. Gently pull back the framing enough to show the full headpiece while retaining a close head-and-shoulders portrait. Preserve Dorothy's exact adult face, lavender-pink curls, softly closed sleeping eyes, pale pink-and-white mantle, opaque blouse, expression, drawing style, colors, light and existing grimoire background texture. Do not crop the hat or add new props, text, frame, UI, watermark or other characters. Do not copy Asta's features or clothing.",
+    "prompt": "Restyle image 1, the corrected dorothy portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:01.580Z",
-    "sha256": "fc1979ee5a17bbcd98c0ba701865bec93f8ac7573d25d0f152ae23ef48979bb9",
+    "createdAt": "2026-09-13T07:07:56.3275293Z",
+    "sha256": "c6d555a7193bf6d4ba4c64a1c206b9b53bbd8a65854ce0fca9cc81bbfd90132f",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "4450919f943e3ada6ba4ee449ac9c46c8957ab76bef5709a89f85031534b8f90"
+      "sha256": "beae201fe1ac06bee22650a12775f97dae7f48e2641a5d3d433b4bff051be688"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -800,18 +800,18 @@
     }
   },
   "leopold": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Leopold Vermillion from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Leopold Vermillion.\nSubject appearance: Energetic teenage boy with short spiky orange-red hair with a thin side braid, blue-green eyes and the Vermillion red diamond forehead mark.\nExpression: Open, competitive enthusiasm and a determined grin.\nWardrobe: Crimson Lion Kings RED mantle with gold details over his high-collared dark navy-purple-and-gold uniform and white underlayer.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No adult Fuegoleon face, long hair, flame-body transformation, Salamander or overmuscled proportions.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected leopold portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:04.458Z",
-    "sha256": "f27bdf0ff2d66aac01fdcb05c14f46468bafbb55655026599c1a2b0ee119d0b5",
+    "createdAt": "2026-09-13T07:07:59.3076697Z",
+    "sha256": "229743485ef7ba469a1f201bbf4cc72a5f493d5149a34a9b0d65a70453c22f80",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "186f2c7d0aa288f7727671293ed4230c6e77d09b03ca2efb14efac90d026f70b"
+      "sha256": "5e1761f9ab6f28c835f821d994cb889dd58309d2e88e8fb9740bb6c78b5db98e"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -820,18 +820,18 @@
     }
   },
   "solid": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Solid Silva from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Solid Silva.\nSubject appearance: Young adult royal with asymmetrical silver hair with a sharply angled side-swept fringe, one closely cropped temple with its characteristic shaved pattern, pale skin and narrow violet eyes.\nExpression: A sneering, self-satisfied look.\nWardrobe: Silver Eagles white-and-lavender uniform and pale shoulder mantle with gold fastenings.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No Nozel central forehead braid, female face, water serpent crowding the frame, casual peasant clothing or injuries.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected solid portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:07.225Z",
-    "sha256": "f935217814a89f3ec2c844625b63404f08585d1091793a6b4b4aba14f3763c16",
+    "createdAt": "2026-09-13T07:08:03.5564809Z",
+    "sha256": "8260913ef852eb897654ca2bc091d3db090a3f2b259ca2c199eba749e11e0d73",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "6fd89459c0a0d99ec8b6bb4d668023c4f2ff832d1156526d024fb1ef489a346b"
+      "sha256": "06fa2115d5699d5afeaa7bbb49d4140416891d2233eba8977e144829d205a570"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -840,18 +840,18 @@
     }
   },
   "sol": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Sol Marron from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Sol Marron.\nSubject appearance: Tall athletic young woman with dark brown skin, short tousled black hair and alert green eyes.\nExpression: Protective confidence and a lively, slightly defiant smile.\nWardrobe: Blue Rose blue-and-white mantle over her opaque light-colored upper outfit; keep the portrait above the midriff.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No lightened skin, long blond hair, giant earth golem, bikini styling, sexualized pose or Charlotte in frame.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected sol portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:10.123Z",
-    "sha256": "844b80b1c72c5ec9b3587b3517d20863b334c76e4c0cff9688551aca59a88980",
+    "createdAt": "2026-09-13T07:08:03.3272421Z",
+    "sha256": "1b76810c67ce9330a31e5955ad744397acda908d9d707deecb51276e243ae76c",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "7b80609d6d0d6c5bc194b4d16edce8143c21f442c4b6e011b685da1691cdde1e"
+      "sha256": "c5fb46e85555697edc69d159fc33e2c04ed6676a6bf8e5c232a189e109d8c7db"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -860,18 +860,18 @@
     }
   },
   "vetto": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Vetto from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: His original adult appearance: an enormous, heavily built man with long wild tawny hair and a thick matching beard, strong brows and a feral face.\nExpression: Intimidating, fiercely focused scowl with restrained animal energy.\nWardrobe: Broad fur-trimmed mantle and an opaque dark wrap across the upper torso for modest head-and-shoulders framing.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No young reincarnated body, open third eye, beast transformation, actual animal head, bare chest, blood or gore. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.",
+    "prompt": "Restyle image 1, the corrected vetto portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:13.093Z",
-    "sha256": "179dd302af2619c29ea78d4370dd439e311471b88294259885808becd3cad8c1",
+    "createdAt": "2026-09-13T07:08:04.0373152Z",
+    "sha256": "7d306b2167f48878a9fe38aa68b2e3ab602f3e5b2106c5ffa4e0a5d6c1c061a1",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "1f53c8e6e014d156377128691f6010acee9c13dedd97ca3d149e9f370a7567ef"
+      "sha256": "1426544fe91cece6d694fe69415fb9fe26a1ed5084596e5572e7ae1847eb81c8"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -880,18 +880,18 @@
     }
   },
   "licht": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Licht (elf leader) from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: The real elf leader: tall, graceful adult elf with pointed ears, golden eyes, red forehead markings and long loose silver-white hair rising softly in flowing locks.\nExpression: Serene, compassionate gravity and a calm direct gaze.\nWardrobe: Simple white wide-sleeved tunic over a dark inner layer, with the understated purple accent of his ordinary elf clothing.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: Do not substitute Patry: no tied high ponytail or red-edged captain cloak; no William mask, demon form, dark-elf corruption or second person. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.\nIdentity correction: The REAL Licht has LOOSE flowing silver-white hair, slightly floating upward. His hair is NOT in Patry's tied high ponytail.",
+    "prompt": "Restyle image 1, the corrected licht portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:16.035Z",
-    "sha256": "24a858ef942e0beb8a433b16ccb676a05bd65eb2c55b0c3f81b6e843dc46d775",
+    "createdAt": "2026-09-13T07:07:59.5383503Z",
+    "sha256": "1fda051586755a3b1dfa80cf37af3c455a0bb004518b8d55cefa6debcbed02f3",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "b1361cae707dd5e0affbc5e47cb450e032134a3d8af8b899d99fb2c926239b3c"
+      "sha256": "43509b3c0991d2ebb59309cd7e8d9b84cff5a85e3d95a0820ac1609f40f340a8"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -900,18 +900,18 @@
     }
   },
   "sally": {
-    "prompt": "Use case: stylized-concept.\nAsset type: Original anime RPG character portrait for a Black Clover grimoire interface.\nPrimary request: Create ONE original polished portrait of Sally from Black Clover.\nReference image: The attached Asta portrait is STYLE ONLY: match its rich anime linework, cel shading with subtle painterly finish, material texture, parchment-warm facial light, antique-gold rim light, and dark grimoire backdrop. Do NOT copy Asta's identity, hair, face, headband, costume or pose.\nSubject identity: Young woman with a short, very tousled dark-brown bob and uneven bangs, large round red-framed spectacles and bright inquisitive eyes.\nExpression: An excited, curious grin, absorbed in a fascinating new discovery.\nWardrobe: Opaque burgundy upper clothing beneath her loose pale hooded laboratory cloak with dark edging; modest shoulders-up framing.\nComposition: Full-bleed vertical 4:5 portrait, one character only, centered close head-and-shoulders framing. Eyes around the upper third, clear complete face, sufficient breathing room above all hair/headwear, shoulders visible. Fully clothed, modest, readable at thumbnail size.\nScene/backdrop: Dark charcoal-black lightly textured old-grimoire background, subtle antique-gold patina, faint deep-crimson undertone. No scenery or objects obscuring the subject.\nColor: Keep this character's canonical hair, skin, eye and wardrobe colors; warm parchment light and gold rim are lighting accents only.\nAvoid: No lingerie or revealing crop, bloody tools, syringes near the viewer, grotesque experiment, extra eyes or other people. No text, letters, character name, frame, border, UI, collage, watermark, extra limbs, extra eyes or second person.",
+    "prompt": "Restyle image 1, the corrected sally portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:09:19.127Z",
-    "sha256": "c517cd294a22952be00992a5b8185ed7e62d30a121a6b029c9ffabf0f71dfcf2",
+    "createdAt": "2026-09-13T07:08:02.8747217Z",
+    "sha256": "b993a917bb5e8d74b7a83634b496c211b328b34257968860099a9ab028e94ad0",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "009800e99c51e3fbaa283f3f27c851162c969758ea38b4e0b13cdcc030a52f12"
+      "sha256": "b39646234147c488a6a9358c710893fe9a26ac8aca9715771ac2b480f73f449f"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -920,18 +920,18 @@
     }
   },
   "zora": {
-    "prompt": "Use case: illustration-story. Create ONE original anime RPG character portrait from Black Clover. The provided Asta image is a STYLE REFERENCE ONLY: match expressive ink lines, rich clean cel shading, restrained painterly finish, charcoal grimoire-textured backdrop, antique-gold rim light, faint crimson atmosphere and warm parchment facial light. Do not copy Asta's face, hair, headband or costume. Preserve the new subject's canonical colors and distinctive design. Full-bleed vertical 4:5 image, close head-and-shoulders framing, one subject, entire head/hair with breathing room, eyes near the upper third, shoulders at lower edges, face clearly readable at thumbnail size. Fully clothed in ordinary early-series costume. No text, name, letters, border, UI, watermark, collage, additional person, photorealism or transformation.\nSubject: Zora Ideale. Lean adult man with bright red hair swept into jagged upward spikes and multiple small dark studs above his brows; his black lower-face mask has a jagged pale tooth design.\nExpression: Sharp, amused eyes and a mocking raised brow above the mask.\nWardrobe: High black mask and dark Black Bulls mantle; opaque dark clothing covers the visible chest beneath it.\nAvoid: No actual exposed monster teeth, mask removed, large literal horns, full-body pose, bare chest or elaborate later armor.",
+    "prompt": "Restyle image 1, the corrected zora portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:10:53.983Z",
-    "sha256": "d8159a3a6ec2288b62528e164774c763f5f2b9156f84bad82cd823ca0640681b",
+    "createdAt": "2026-09-13T07:08:04.9740491Z",
+    "sha256": "ab7090eab2a4369440d863cbe49f54a46524486ebfa925e38085b39d34f0e6d7",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "dc3e71a0991f8741c6592985337041717a1c7f8b89f69a4a802212d8ddf29690"
+      "sha256": "3fd62008d40cf0865ec894cc1e6fb89a5e085f11e6a4513cd3a431459fa52bc8"
     },
     "conversion": {
       "tool": "ImageMagick",
@@ -960,18 +960,18 @@
     }
   },
   "kirsch": {
-    "prompt": "Use case: stylized-concept.\nAsset: an original portrait of Kirsch Vermillion from Black Clover, for a cohesive RPG portrait collection.\nREFERENCE IMAGE ROLE: The provided Asta portrait is STYLE ONLY. Match its refined cel-shaded anime linework, lightly painterly parchment texture, warm face lighting, antique-gold rim light, rich charcoal grimoire-like background and faint crimson undertone. Do NOT copy Asta's character, hair, headband, clothes, badge or youthful face. Draw only Kirsch Vermillion.\nSubject appearance: Elegant adult royal man with golden-blond tousled wavy hair gathered into a longer ponytail at the back, a green patterned headband around the forehead and a refined, half-lidded face.\nExpression: A serenely admiring, theatrical smile, proud of his own elegance.\nWardrobe: White high-collared pleated noble outfit with gold trim beneath a pale pink shoulder mantle and a longer darker-pink cape.\nComposition: Full-bleed vertical 4:5 canvas. One fully clothed character only. Close head-and-shoulders portrait, centered with a subtle three-quarter angle, eyes near the upper third, room above the hair, shoulders naturally cropped toward bottom. Face must remain clear and readily recognizable at thumbnail size. Preserve ordinary canonical hair, skin, eye and wardrobe colors, even though the light is warm. No props in front of the face. Hands outside frame.\nBackground: dark charcoal textured grimoire surface with restrained mottled crimson and subtle antique-gold illumination; continuous image, no decorative frame.\nCharacter-specific exclusions: No pink hair, orange Mimosa hair, female redesign, flowers covering facial features, lipstick caricature or duplicate mirrors.\nUniversal exclusions: no text, lettering, signature, watermark, border, UI, collage, panels, second character, Asta traits, modern clothing, naked torso, sexualized framing, monstrous redesign, alternate identity, later transformation, glowing magic obscuring features.\nCreate a polished finished illustration, matching the reference's drawing and rendering quality, not a photograph or 3D render.",
+    "prompt": "Restyle image 1, the corrected kirsch portrait, to look painted by the same artist as images 2 and 3 (original collection STYLE references only). Match their actual character rendering: fine tapering graphite-like linework, layered soft painterly shading with dimensional cheekbones and noses, nuanced muted warm skin, richly shaded individual hair locks, delicate crosshatching, textured cloth and subdued antique colors. NOT flat TV-anime cel shading, not bright clean vector shapes. Keep stylized illustrated identity, not photorealism or 3D. Preserve image 1's corrected hairstyle, eye color, facial markings, accessories and costume cut exactly; do NOT borrow the style reference characters' clothes or hair. Keep head and shoulders composition, full hair/hat/helmet inside frame with breathing room. Same dark black umber aged texture with subtle antique gold and rust-red scratches as original collection. No border, no giant background insignia, no text. Render the SUBJECT in the original painterly illustration style, not just the background.",
     "tool": "OpenAI built-in image generation",
     "format": "webp",
     "width": 1122,
     "height": 1402,
-    "createdAt": "2026-09-06T17:12:52.406Z",
-    "sha256": "5dfccfdb8d014c429833d2346dfb016496109761efa97f87c95f9a866bc32f3e",
+    "createdAt": "2026-09-13T07:07:58.6112883Z",
+    "sha256": "6874ca7fdd7638346b4f28a314f2e46535958eb83006d6cc591edf4522170c5d",
     "source": {
       "format": "png",
       "width": 1122,
       "height": 1402,
-      "sha256": "793550afe2a3457a956ac0cef4f334130baa912491880329038f11d46fe15535"
+      "sha256": "332a539a9e9ec962fb81cfdcaa6429e23b90b2489bb32ce308709791205d21c3"
     },
     "conversion": {
       "tool": "ImageMagick",
